@@ -12,9 +12,10 @@ I help users move from confusion to clear next steps through calm communication,
 
 | Project | What it shows | Link |
 |---------|---------------|------|
-| **Developer education walkthrough** | Plain-English technical explanation, layer-based troubleshooting | [YouTube — Supabase to Neon migration](https://www.youtube.com/watch?v=osexel8sixc) |
+| **Product support triage sample** | Integration troubleshooting, customer reply, escalation note (synthetic, no secrets) | [product-support-triage-sample](https://github.com/heyitschien/product-support-triage-sample) |
 | **LingoPilot (public demo)** | Localization / i18n workflow, GitHub-native automation thinking | [next-i18next-sample](https://github.com/heyitschien/next-i18next-sample) |
-| **Support work sample** | Integration triage, customer reply, escalation note (no secrets) | [Product Support Sample Gist](https://gist.github.com/heyitschien/aa10c75c4604ae56353f621cabaf48a8) |
+| **Developer education walkthrough** | Plain-English technical explanation, layer-based troubleshooting | [YouTube — Supabase to Neon migration](https://www.youtube.com/watch?v=osexel8sixc) |
+| **Chrome extension tester MCP** | AI-assisted QA, browser automation, repeatable test workflows | [chrome-extension-tester-mcp](https://github.com/heyitschien/chrome-extension-tester-mcp) |
 | **Career Operating System** | Workflow design, documentation, AI-assisted systems thinking | Described below — full repo is private |
 
 ### Career Operating System (private — summary only)
@@ -31,9 +32,10 @@ Building a GitHub-native localization automation concept. Public demo: [next-i18
 
 ## Public repos worth browsing
 
+- [product-support-triage-sample](https://github.com/heyitschien/product-support-triage-sample) — Synthetic support triage sample (strongest proof for product support roles)
 - [next-i18next-sample](https://github.com/heyitschien/next-i18next-sample) — LingoPilot localization demo
 - [chrome-extension-tester-mcp](https://github.com/heyitschien/chrome-extension-tester-mcp) — Dev tools + AI-assisted testing
-- [chapter-reader](https://github.com/heyitschien/chapter-reader) — Simple user-facing tool (no API keys)
+- [chapter-reader](https://github.com/heyitschien/chapter-reader) — Structured reading/review workflow tool (no API keys)
 
 ---
 
