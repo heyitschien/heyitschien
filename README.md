@@ -12,11 +12,18 @@ I help users move from confusion to clear next steps through calm communication,
 
 | Project | What it shows | Link |
 |---------|---------------|------|
+| **Cousin Radio** | Production Next.js app — family music platform, polished UX, live deployment | [cousin-radio](https://github.com/heyitschien/cousin-radio) · [cousinradio.com](https://cousinradio.com) |
 | **Product support triage sample** | Integration troubleshooting, customer reply, escalation note (synthetic, no secrets) | [product-support-triage-sample](https://github.com/heyitschien/product-support-triage-sample) |
 | **LingoPilot (public demo)** | Localization / i18n workflow, GitHub-native automation thinking | [next-i18next-sample](https://github.com/heyitschien/next-i18next-sample) |
 | **Developer education walkthrough** | Plain-English technical explanation, layer-based troubleshooting | [YouTube — Supabase to Neon migration](https://www.youtube.com/watch?v=osexel8sixc) |
 | **Chrome extension tester MCP** | AI-assisted QA, browser automation, repeatable test workflows | [chrome-extension-tester-mcp](https://github.com/heyitschien/chrome-extension-tester-mcp) |
 | **Career Operating System** | Workflow design, documentation, AI-assisted systems thinking | Described below — full repo is private |
+
+### Cousin Radio — family-first music platform
+
+Production app I'm most proud of right now: a family music platform where memories become songs. Built with Next.js, Supabase, Vercel, and a CDN-first media pipeline — **live at [cousinradio.com](https://cousinradio.com)** with 55+ tracks and a Spotify-inspired persistent player.
+
+Public repo: [cousin-radio](https://github.com/heyitschien/cousin-radio) — architecture, deployment, and product thinking documented for recruiters and engineers.
 
 ### Career Operating System (private — summary only)
 
@@ -32,6 +39,7 @@ Building a GitHub-native localization automation concept. Public demo: [next-i18
 
 ## Public repos worth browsing
 
+- [cousin-radio](https://github.com/heyitschien/cousin-radio) — **Lead project** — family music platform, production Next.js app, live at cousinradio.com
 - [product-support-triage-sample](https://github.com/heyitschien/product-support-triage-sample) — Synthetic support triage sample (strongest proof for product support roles)
 - [next-i18next-sample](https://github.com/heyitschien/next-i18next-sample) — LingoPilot localization demo
 - [chrome-extension-tester-mcp](https://github.com/heyitschien/chrome-extension-tester-mcp) — Dev tools + AI-assisted testing
@@ -43,7 +51,7 @@ Building a GitHub-native localization automation concept. Public demo: [next-i18
 
 - High-volume customer-facing work (Uber, Whole Foods)
 - Safety-critical production teamwork (film/stunt)
-- Technical learning: JavaScript, React, GitHub, REST APIs, Cursor, AI-assisted development
+- Technical learning: JavaScript, React, Next.js, GitHub, REST APIs, Cursor, AI-assisted development
 - Certifications: Meta Front-End Developer, Google Cybersecurity, Google AI Essentials
 
 **LinkedIn:** [chien-escalera-duong-4ba535347](https://www.linkedin.com/in/chien-escalera-duong-4ba535347/)  
