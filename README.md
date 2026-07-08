@@ -8,22 +8,16 @@ I help users and teams move from setup confusion to clear, documented next steps
 
 ---
 
-## Featured work for employers
+## Recruiter quick path (~3 minutes)
 
-| Project                            | What it proves                                                                                                              | Link                                                                                                     |
-| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| **Product Support Triage Sample**  | Ticket ownership, integration troubleshooting, customer reply, escalation note, and clean support documentation             | [product-support-triage-sample](https://github.com/heyitschien/product-support-triage-sample)            |
-| **Cousin Radio**                   | Production Next.js app, polished UX, deployment ownership, product thinking, and real user-facing workflow design           | [cousin-radio](https://github.com/heyitschien/cousin-radio) · [cousinradio.com](https://cousinradio.com) |
-| **LingoPilot Public Demo**         | Localization / i18n workflow, GitHub-native automation thinking, configuration discipline, and pre-launch validation habits | [next-i18next-sample](https://github.com/heyitschien/next-i18next-sample)                                |
-| **Developer Workflow Walkthrough** | Plain-English technical explanation, layered diagnosis, migration thinking, and support-style verification                  | [YouTube — Supabase to Neon migration](https://www.youtube.com/watch?v=osexel8sixc)                      |
-| **Chrome Extension Tester MCP**    | AI-assisted QA, browser automation, repeatable testing workflows, and technical support tooling mindset                     | [chrome-extension-tester-mcp](https://github.com/heyitschien/chrome-extension-tester-mcp)                |
-| **Career Operating System**        | Workflow design, role research, documentation systems, follow-up tracking, and AI-assisted operations thinking              | Private repo — summary below                                                                             |
+1. **[product-support-triage-sample](https://github.com/heyitschien/product-support-triage-sample)** — strongest proof of ticket triage, customer replies, and escalation handoffs
+2. **[cousin-radio](https://github.com/heyitschien/cousin-radio)** — shipped product at [cousinradio.com](https://cousinradio.com)
+3. **[chrome-extension-tester-mcp](https://github.com/heyitschien/chrome-extension-tester-mcp)** — AI-assisted QA and technical support tooling
+4. **[next-i18next-sample](https://github.com/heyitschien/next-i18next-sample)** — LingoPilot localization / pre-launch validation demo
 
 ---
 
-## What I am targeting
-
-I am focused on customer-facing technical operations roles where I can own work from intake to resolution:
+## Target roles
 
 * Implementation Specialist
 * Client Onboarding Specialist
@@ -33,105 +27,71 @@ I am focused on customer-facing technical operations roles where I can own work 
 * Customer Operations Specialist
 * AI Operations / Workflow Support roles
 
-The common thread: tickets, setup, troubleshooting, documentation, user communication, QA checks, and clean handoffs.
+The common thread: ticket ownership, triage, status updates, configuration support, QA validation, escalation, handoffs, documentation, and workflow automation.
+
+---
+
+## Featured work for employers
+
+| Project | What it proves | Link |
+| --- | --- | --- |
+| **Product Support Triage Sample** | Ticket ownership, integration troubleshooting, customer reply, escalation note, support documentation | [product-support-triage-sample](https://github.com/heyitschien/product-support-triage-sample) |
+| **Cousin Radio** | Shipped Next.js product, UX judgment, deployment ownership, troubleshooting across layers | [cousin-radio](https://github.com/heyitschien/cousin-radio) · [cousinradio.com](https://cousinradio.com) |
+| **Chrome Extension Tester MCP** | AI-assisted QA, browser automation, repeatable test workflows, support instrumentation | [chrome-extension-tester-mcp](https://github.com/heyitschien/chrome-extension-tester-mcp) |
+| **LingoPilot Public Demo** | Localization QA, GitHub-native automation, configuration discipline, pre-launch validation | [next-i18next-sample](https://github.com/heyitschien/next-i18next-sample) |
+| **Developer Workflow Walkthrough** | Plain-English technical explanation, layered diagnosis, migration thinking | [YouTube — Supabase to Neon migration](https://www.youtube.com/watch?v=osexel8sixc) |
+| **Career Operating System** | Workflow design, role research, documentation systems, follow-up tracking | Private repo — summary below |
 
 ---
 
 ## How I work
-
-I approach support and implementation work with a simple operating loop:
 
 ```text
 Intake → clarify expected behavior → collect evidence → identify the failing layer
 → communicate status → resolve or escalate → document the outcome
 ```
 
-That means I do not guess in unclear systems. I pull the spec, compare expected vs. actual behavior, capture evidence, communicate status early, and hand off with enough context that the next owner does not need to restart the investigation.
-
----
-
-## Cousin Radio — production family music platform
-
-Cousin Radio is the production app I am most proud of right now: a family music platform where memories become songs.
-
-Built with Next.js, Supabase, Vercel, and a CDN-first media pipeline. Live at [cousinradio.com](https://cousinradio.com), with 55+ tracks and a Spotify-inspired persistent player.
-
-Public repo: [cousin-radio](https://github.com/heyitschien/cousin-radio)
-
-What it shows employers:
-
-* Product ownership from idea to live deployment
-* User-facing UX judgment
-* Documentation and architecture notes
-* Debugging across frontend, backend, auth, data, and media layers
-* Ability to explain product decisions clearly
+I do not guess in unclear systems. I pull the spec, compare expected vs. actual behavior, capture evidence, communicate status early, and hand off with enough context that the next owner does not need to restart the investigation.
 
 ---
 
 ## Product support / implementation proof
 
-The strongest support-facing artifact is:
+Start here: **[product-support-triage-sample](https://github.com/heyitschien/product-support-triage-sample)**
 
-[product-support-triage-sample](https://github.com/heyitschien/product-support-triage-sample)
-
-It is synthetic and contains no private customer data. It demonstrates how I think through a realistic support issue:
+Synthetic sample (no private customer data). Demonstrates:
 
 * clarify the customer problem
 * identify likely failure layers
 * write a customer-facing update
 * create an internal escalation note
-* document next steps clearly
+* document next steps and knowledge-base improvements
 
-This is the closest public proof of how I would operate inside a product support, onboarding, or implementation queue.
+Mapping for recruiters: [IMPLEMENTATION-SPECIALIST-MAPPING](https://github.com/heyitschien/product-support-triage-sample/blob/main/IMPLEMENTATION-SPECIALIST-MAPPING.md)
 
 ---
 
-## LingoPilot — localization workflow concept
+## Cousin Radio — shipped product proof
 
-LingoPilot is a GitHub-native localization automation concept. The public demo is:
+Family music platform — live at [cousinradio.com](https://cousinradio.com). Next.js, Supabase, Vercel, CDN-first media. 55+ tracks, persistent player.
 
-[next-i18next-sample](https://github.com/heyitschien/next-i18next-sample)
+Employer proof: [docs/EMPLOYER-PROOF.md](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md)
 
-The private engine/dashboard repos are available as interview walkthroughs only.
+---
 
-What it shows:
+## LingoPilot — localization workflow demo
 
-* i18n / localization workflow thinking
-* configuration-style accuracy
-* screenshot and validation mindset
-* GitHub-native automation
-* pre-launch QA habits
-* practical documentation for repeatable workflows
+Public demo: [next-i18next-sample](https://github.com/heyitschien/next-i18next-sample) · Example bot PR: [docs/sample-bot-pr.md](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md)
+
+Private engine/dashboard available as interview walkthroughs only.
 
 ---
 
 ## Career Operating System
 
-Private project where I use GitHub, Cursor, Markdown, and AI-assisted workflows to turn a complex job search into a structured operating system.
+Private project — GitHub, Cursor, Markdown, and AI-assisted workflows for structured job search operations: role research, proof artifacts, follow-up tracking, interview prep, application packages.
 
-It includes:
-
-* role research
-* resume targeting
-* proof artifacts
-* follow-up tracking
-* interview prep
-* application packages
-* structured decision notes
-
-The purpose is not just job searching. It is practice in turning ambiguity into a clear, repeatable workflow — the same mindset needed in implementation, onboarding, and product support.
-
-Repo is private, but I am happy to walk through the architecture and decisions in an interview.
-
----
-
-## Public repos worth browsing
-
-* [product-support-triage-sample](https://github.com/heyitschien/product-support-triage-sample) — strongest proof for product support / implementation roles
-* [cousin-radio](https://github.com/heyitschien/cousin-radio) — lead production app, live at cousinradio.com
-* [next-i18next-sample](https://github.com/heyitschien/next-i18next-sample) — LingoPilot localization demo
-* [chrome-extension-tester-mcp](https://github.com/heyitschien/chrome-extension-tester-mcp) — AI-assisted QA and browser testing workflow
-* [chapter-reader](https://github.com/heyitschien/chapter-reader) — structured reading / review workflow tool
+Practice in turning ambiguity into repeatable workflows — same mindset as implementation, onboarding, and product support.
 
 ---
 
