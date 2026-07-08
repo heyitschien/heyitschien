@@ -108,5 +108,5 @@ I am not positioning myself as a senior software engineer. I am positioning myse
 
 ## Contact
 
-**LinkedIn:** [chien-escalera-duong-4ba535347](https://www.linkedin.com/in/chien-escalera-duong-4ba535347/)
+**LinkedIn:** [heyitschien](https://www.linkedin.com/in/heyitschien/)
 **Email:** [heyitschien@gmail.com](mailto:heyitschien@gmail.com)
