@@ -11,9 +11,10 @@ I help users and teams move from setup confusion to clear, documented next steps
 ## Recruiter quick path (~3 minutes)
 
 1. **[product-support-triage-sample](https://github.com/heyitschien/product-support-triage-sample)** — strongest proof of ticket triage, customer replies, and escalation handoffs
-2. **[cousin-radio](https://github.com/heyitschien/cousin-radio)** — shipped product at [cousinradio.com](https://cousinradio.com)
-3. **[chrome-extension-tester-mcp](https://github.com/heyitschien/chrome-extension-tester-mcp)** — AI-assisted QA and technical support tooling
-4. **[next-i18next-sample](https://github.com/heyitschien/next-i18next-sample)** — LingoPilot localization / pre-launch validation demo
+2. **[chapter-reader](https://github.com/heyitschien/chapter-reader)** — local Mac app for listening to long-form drafts (Electron + offline TTS)
+3. **[cousin-radio](https://github.com/heyitschien/cousin-radio)** — shipped product at [cousinradio.com](https://cousinradio.com)
+4. **[chrome-extension-tester-mcp](https://github.com/heyitschien/chrome-extension-tester-mcp)** — AI-assisted QA and technical support tooling
+5. **[next-i18next-sample](https://github.com/heyitschien/next-i18next-sample)** — LingoPilot localization / pre-launch validation demo
 
 ---
 
@@ -36,6 +37,7 @@ The common thread: ticket ownership, triage, status updates, configuration suppo
 | Project | What it proves | Link |
 | --- | --- | --- |
 | **Product Support Triage Sample** | Ticket ownership, integration troubleshooting, customer reply, escalation note, support documentation | [product-support-triage-sample](https://github.com/heyitschien/product-support-triage-sample) |
+| **Chapter Reader** | Local Mac productivity app — setup clarity, Dock install, privacy-first TTS for reviewing writing by ear | [chapter-reader](https://github.com/heyitschien/chapter-reader) |
 | **Cousin Radio** | Shipped Next.js product, UX judgment, deployment ownership, troubleshooting across layers | [cousin-radio](https://github.com/heyitschien/cousin-radio) · [cousinradio.com](https://cousinradio.com) |
 | **Chrome Extension Tester MCP** | AI-assisted QA, browser automation, repeatable test workflows, support instrumentation | [chrome-extension-tester-mcp](https://github.com/heyitschien/chrome-extension-tester-mcp) |
 | **LingoPilot Public Demo** | Localization QA, GitHub-native automation, configuration discipline, pre-launch validation | [next-i18next-sample](https://github.com/heyitschien/next-i18next-sample) |
@@ -76,6 +78,17 @@ Mapping for recruiters: [IMPLEMENTATION-SPECIALIST-MAPPING](https://github.com/h
 Family music platform — live at [cousinradio.com](https://cousinradio.com). Next.js, Supabase, Vercel, CDN-first media. 55+ tracks, persistent player.
 
 Employer proof: [docs/EMPLOYER-PROOF.md](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md)
+
+---
+
+## Chapter Reader — local Mac tool
+
+Open source: [chapter-reader](https://github.com/heyitschien/chapter-reader)
+
+* Paste or load long-form drafts and listen while you review
+* Offline TTS — no cloud API calls, privacy-first
+* One-command Mac install: `./install-mac-app.sh`
+* MIT licensed — shipped as a real local utility, not a tutorial repo
 
 ---
 
