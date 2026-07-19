@@ -67,7 +67,7 @@ Research → challenge → synthesis → architecture → implementation → evi
 
 My role is the orchestration and accountability layer: clarifying intent, routing work across specialized tools, deciding what becomes canonical, and revising the system when evidence disagrees.
 
-[Read the capability overview](docs/AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md) · [See case studies](docs/AI-WORKFLOW-CASE-STUDIES.md) · [Model and tool attribution](docs/MODEL-AND-TOOL-ATTRIBUTION.md) · [Capability evidence map](docs/CAPABILITY-EVIDENCE-MAP.md)
+[Read the capability overview](docs/AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md) · [See case studies](docs/AI-WORKFLOW-CASE-STUDIES.md) · [Docs index](docs/README.md)
 
 ---
 
@@ -118,7 +118,7 @@ Private engine/dashboard available as interview walkthroughs only.
 
 Private project — GitHub, Cursor, Markdown, and AI-assisted workflows for structured job search operations: role research, proof artifacts, follow-up tracking, interview prep, application packages.
 
-Practice in turning ambiguity into repeatable workflows — same mindset as implementation, onboarding, and product support.
+Practice in turning ambiguity into repeatable workflows — same mindset as implementation, onboarding, and product support. Public-safe summary: [Career Operating System case study](docs/AI-WORKFLOW-CASE-STUDIES.md#6-career-operating-system).
 
 ---
 

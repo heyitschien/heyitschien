@@ -195,6 +195,44 @@ Evidence: [repository](https://github.com/heyitschien/chapter-reader)
 
 ---
 
+## 6. Career Operating System
+
+**Context**  
+Job search and career operations are easy to treat as ad-hoc messaging. I needed a durable system for role research, proof artifacts, follow-up tracking, interview prep, and application packages without exposing private application data publicly.
+
+**My responsibility**  
+I designed the workflow, defined what belongs in durable documentation versus private notes, structured how AI assistance should accelerate research and drafting, and kept final judgment, prioritization, and outreach decisions human-owned.
+
+**AI and tool roles**
+
+- reasoning models for role research synthesis, interview prep drafts, and communication refinement;
+- Cursor and coding agents for repository structure, documentation updates, and workflow tooling;
+- GitHub and Markdown as versioned operating memory;
+- issue-style tracking for priorities and follow-ups.
+
+**Decisions I made**
+
+- treat career work as an operating system, not a pile of prompts;
+- keep private application details out of public portfolio materials;
+- reuse the same ambiguity → evidence → decision → documentation loop used in support and product work;
+- make proof artifacts easy to route to recruiters from the public profile.
+
+**Evidence produced**
+
+- public profile routing to recruiter-safe proof;
+- private workflow practice summarized without confidential contents;
+- transferable operating pattern shared with implementation, onboarding, and product support work.
+
+**Result**  
+A repeatable career-operations method that demonstrates workflow design under ambiguity, without publishing private application records.
+
+**What I learned**  
+The same orchestration discipline that ships products also makes job search and interview prep more coherent: clarify the goal, compare evidence, decide, document, and revise.
+
+Evidence: summarized on the [public profile](https://github.com/heyitschien) — private repository contents are not published
+
+---
+
 ## Shared operating pattern
 
 Across these projects, the repeated capability is:

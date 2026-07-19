@@ -80,6 +80,7 @@ This capability is visible across public projects including:
 - [Chrome Extension Tester MCP](https://github.com/heyitschien/chrome-extension-tester-mcp) — AI-assisted QA and repeatable browser-testing workflows.
 - [LingoPilot public demo](https://github.com/heyitschien/next-i18next-sample) — GitHub-native automation, localization QA, and configuration discipline.
 - [Chapter Reader](https://github.com/heyitschien/chapter-reader) — user need translated into a local-first utility with installation and support documentation.
+- Career Operating System — private workflow design summarized publicly without exposing application data.
 
 See [AI workflow case studies](AI-WORKFLOW-CASE-STUDIES.md) and the [capability evidence map](CAPABILITY-EVIDENCE-MAP.md).
 
