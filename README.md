@@ -111,5 +111,5 @@ I bring a customer-facing technical-operations perspective: learning systems qui
 
 ## Contact
 
-**LinkedIn:** [heyitschien](https://www.linkedin.com/in/heyitschien/)  
+**LinkedIn:** [chien-escalera-duong](https://www.linkedin.com/in/chien-escalera-duong/)  
 **Email:** [heyitschien@gmail.com](mailto:heyitschien@gmail.com)
