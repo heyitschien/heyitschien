@@ -1,332 +1,138 @@
 # AI Workflow Case Studies
 
-These concise case studies show how I combine human judgment, AI reasoning, documentation, repositories, and implementation tools. They focus on my responsibility and verifiable public evidence rather than broad claims.
+Public-safe case studies showing how I combine human judgment, AI reasoning, documentation, repositories, and implementation tools.
 
-Each study maps to stages of the same [repeatable methodology](AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md#the-repeatable-methodology). Not every stage appears with equal depth in every project.
+Flagship trio for recruiters:
 
-## 1. Cousin Radio
+```text
+Support judgment
++ shipped product ownership
++ AI-assisted technical validation
+```
 
-**Context**  
-A family music product needed to move from an emotional idea into a usable, mobile-first experience with age-aware discovery, reliable playback, deployment, and ongoing iteration.
+Methodology overview: [AI-Orchestrated Systems Engineering](AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md). Attribution: [Model and tool attribution](MODEL-AND-TOOL-ATTRIBUTION.md).
+
+---
+
+## Flagship 1 — Product Support Triage Sample
+
+**What it is**  
+A synthetic support sample (no private customer data) showing ticket ownership from report through investigation, customer communication, escalation, and documentation.
 
 **My responsibility**  
-I led product direction, clarified the user experience, made scope and architecture decisions, coordinated implementation, reviewed behavior, managed deployment concerns, and kept the project aligned with the family use case.
+I defined the scenario, structured the investigation, separated customer-facing communication from internal notes, and made the escalation actionable so the next owner would not restart the work.
 
-**AI and tool roles**
+**Distinct decisions**
 
-- reasoning models for UX exploration, architecture discussion, and documentation;
-- coding agents for implementation and refactoring;
-- GitHub for pull requests, protected branches, review history, and CI;
-- Vercel and Supabase for deployment and application services.
+- keep the case synthetic and recruiter-safe;
+- distinguish confirmed facts from hypotheses;
+- communicate status before final resolution;
+- close with a documentation-improvement proposal.
 
-**Decisions I made**
+**Evidence**
+
+| Artifact | Link |
+| --- | --- |
+| Full case outcome | [CASE-OUTCOME.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md) |
+| Customer reply | [customer-reply.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/customer-reply.md) |
+| Escalation handoff | [internal-escalation-note.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/internal-escalation-note.md) |
+| Role mapping | [ROLE-MAPPING.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/ROLE-MAPPING.md) |
+
+**Result**  
+Clear public proof of calm support ownership and structured technical communication.
+
+**Limitation**  
+Synthetic sample — not a live employer ticket history.
+
+**Lesson**  
+Good support work is a systems discipline: reduce ambiguity, preserve evidence, communicate clearly, hand off without losing context.
+
+---
+
+## Flagship 2 — Cousin Radio
+
+**What it is**  
+A shipped family music product — live at [cousinradio.com](https://cousinradio.com) — with mobile-first discovery, persistent playback, deployment ownership, and ongoing iteration.
+
+**My responsibility**  
+I led product direction, clarified the family use case, made scope and architecture decisions, coordinated implementation, reviewed behavior, and managed deployment concerns.
+
+**Distinct decisions**
 
 - prioritize a mobile-first family experience;
 - separate public exploration from private/family controls;
 - preserve persistent playback across navigation;
-- use staged validation and branch protection rather than direct uncontrolled changes.
+- use staged validation and branch protection rather than uncontrolled changes.
 
-**Methodology stages demonstrated**
+**Evidence**
 
-| Stage | Evidence in this project |
+| Artifact | Link |
 | --- | --- |
-| Question / need | Family music product needed a usable mobile-first experience |
-| Research / clarification | UX and architecture exploration before locking scope |
-| Challenge / constraints | Age-aware discovery, playback reliability, family vs public controls |
-| Synthesis / decisions | Mobile-first direction, persistent player, staged validation |
-| Architecture / workflow | Next.js, Supabase, Vercel, CDN-first media, protected branches |
-| Implementation | Public repository and deployment history |
-| Evidence / testing | Live product behavior and employer-facing documentation |
-| Revision / learning | Ongoing iteration after ship; product coherence remains human-owned |
-
-**Evidence produced**
-
-- shipped public repository;
-- live product;
-- employer-facing project documentation;
-- versioned implementation and deployment history.
+| Live product | [cousinradio.com](https://cousinradio.com) |
+| Employer proof | [EMPLOYER-PROOF.md](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md) |
+| Repository | [cousin-radio](https://github.com/heyitschien/cousin-radio) |
 
 **Result**  
-A real, deployed product rather than a static demo.
+A real deployed product rather than a static demo.
 
-**What I learned**  
-AI can accelerate implementation, but product coherence still depends on sustained human decisions about users, scope, quality, and integration.
+**Limitation**  
+Public beta / family product — not an enterprise SaaS case study.
 
-Evidence: [repository](https://github.com/heyitschien/cousin-radio) · [live product](https://cousinradio.com)
+**Lesson**  
+AI can accelerate implementation; product coherence still depends on sustained human decisions about users, scope, quality, and integration.
 
 ---
 
-## 2. Product Support Triage Sample
+## Flagship 3 — Chrome Extension Tester MCP
 
-**Context**  
-Employers needed concrete proof that I could own a technical support issue from initial report through investigation, communication, escalation, and documentation.
-
-**My responsibility**  
-I defined the support scenario, structured the investigation, separated customer-facing communication from internal technical notes, and translated the result into a recruiter-safe artifact.
-
-**AI and tool roles**
-
-- reasoning models for scenario challenge and communication review;
-- GitHub for transparent structure and evidence;
-- Markdown for reusable support artifacts.
-
-**Decisions I made**
-
-- keep the scenario synthetic and free of private customer data;
-- distinguish confirmed facts from hypotheses;
-- communicate status before final resolution;
-- make the escalation actionable so the next owner would not restart the investigation.
-
-**Methodology stages demonstrated**
-
-| Stage | Evidence in this project |
-| --- | --- |
-| Question / need | Show ticket ownership from report through handoff |
-| Research / clarification | Structured investigation notes and failure-layer thinking |
-| Challenge / constraints | Synthetic data only; separate customer vs internal voice |
-| Synthesis / decisions | Status-first communication and actionable escalation |
-| Architecture / workflow | Reusable Markdown support artifacts and role mapping |
-| Implementation | Public triage sample repository |
-| Evidence / testing | Customer reply, escalation note, documentation proposal |
-| Revision / learning | Knowledge-base improvement suggestions from the case |
-
-**Evidence produced**
-
-- customer reply;
-- investigation notes;
-- escalation handoff;
-- documentation-improvement proposal;
-- role-mapping document.
-
-**Result**  
-A public portfolio artifact that demonstrates calm support ownership and structured technical communication.
-
-**What I learned**  
-Good support work is a systems discipline: reduce ambiguity, preserve evidence, communicate clearly, and hand off without losing context.
-
-Evidence: [repository](https://github.com/heyitschien/product-support-triage-sample)
-
----
-
-## 3. Chrome Extension Tester MCP
-
-**Context**  
-Browser-extension testing can become repetitive and inconsistent when every check is performed manually.
+**What it is**  
+A working open-source MCP tool for AI-assisted Chrome extension QA: real browser control, screenshots, UI interaction, and console evidence. Published on npm; CI present.
 
 **My responsibility**  
-I shaped the use case around repeatable AI-assisted QA, selected the workflow boundaries, coordinated implementation, and emphasized observable test behavior instead of trusting generated code alone.
+I shaped the use case around repeatable AI-assisted QA, set workflow boundaries, coordinated implementation, and insisted on observable browser behavior instead of trusting generated code alone.
 
-**AI and tool roles**
+**Distinct decisions**
 
-- coding agents for implementation;
-- model reasoning for test design and failure analysis;
-- GitHub for source control and review;
-- browser tooling for observable validation.
-
-**Decisions I made**
-
-- treat the tool as QA support rather than an authority;
+- treat the tool as QA support, not an authority;
 - preserve repeatable test steps;
 - collect evidence from actual browser behavior;
 - keep human review responsible for acceptance.
 
-**Methodology stages demonstrated**
+**Evidence**
 
-| Stage | Evidence in this project |
+| Artifact | Link |
 | --- | --- |
-| Question / need | Make extension testing less repetitive and more consistent |
-| Research / clarification | Test design and failure-analysis support with models |
-| Challenge / constraints | Automation assists; it does not replace human acceptance |
-| Synthesis / decisions | QA-support framing and evidence-from-browser rule |
-| Architecture / workflow | MCP + browser tooling for repeatable checks |
-| Implementation | Public codebase |
-| Evidence / testing | Documented support/QA use case and observable browser behavior |
-| Revision / learning | Prefer verification loops over generating more output |
-
-**Evidence produced**
-
-- public codebase;
-- documented test workflow;
-- reusable tooling for technical support and QA scenarios.
+| Support / QA use case | [SUPPORT-USE-CASE.md](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md) |
+| CI workflow | [ci.yml](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/.github/workflows/ci.yml) |
+| Repository | [chrome-extension-tester-mcp](https://github.com/heyitschien/chrome-extension-tester-mcp) |
 
 **Result**  
 A practical example of connecting AI assistance to an evidence-producing test process.
 
-**What I learned**  
+**Limitation**  
+Working tool and concept demo — not an enterprise QA platform.
+
+**Lesson**  
 Automation is most valuable when it makes verification repeatable, not when it merely generates more output.
 
-Evidence: [repository](https://github.com/heyitschien/chrome-extension-tester-mcp)
+---
+
+## Supporting examples
+
+| Project | What it shows | Best evidence | Scope note |
+| --- | --- | --- | --- |
+| **Chapter Reader** | Local-first Mac utility: offline TTS, one-command install, privacy-first writing review | [Repository](https://github.com/heyitschien/chapter-reader) · [install-mac-app.sh](https://github.com/heyitschien/chapter-reader/blob/main/install-mac-app.sh) | Personal productivity utility, not a SaaS product |
+| **LingoPilot public demo** | GitHub-native localization QA: pseudo-loc, screenshots, reviewable automation output | [sample-bot-pr.md](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md) | Public demo; private engine/dashboard not published |
+| **AI YouTube Content** | Content-system design: standards, episode packages, production and publishing workflows | [production-workflow.md](https://github.com/heyitschien/ai-youtube-content/blob/main/docs/production-workflow.md) | Content operations system, not a shipped app |
+| **Career Operating System** | Private job-search operating system: role research, proof routing, follow-ups — same ambiguity → evidence → decision loop | Summarized on the [public profile](https://github.com/heyitschien) only | Private; no application data published |
 
 ---
 
-## 4. LingoPilot Public Demo
-
-**Context**  
-Localization changes are difficult to review when configuration, pseudo-localization, screenshots, and GitHub collaboration are disconnected.
-
-**My responsibility**  
-I helped define a GitHub-native workflow that makes localization problems visible before launch and presents the work in a reviewable public demo.
-
-**AI and tool roles**
-
-- reasoning models for workflow and configuration analysis;
-- coding agents for implementation support;
-- GitHub pull requests for reviewable automation output;
-- screenshots and pseudo-localization as validation artifacts.
-
-**Decisions I made**
-
-- make the workflow visible through GitHub rather than a hidden black box;
-- prioritize pre-launch QA;
-- separate the public proof from private engine components;
-- document the sample bot behavior for recruiters and reviewers.
-
-**Methodology stages demonstrated**
-
-| Stage | Evidence in this project |
-| --- | --- |
-| Question / need | Make localization problems reviewable before launch |
-| Research / clarification | Workflow and configuration analysis |
-| Challenge / constraints | Keep private engine separate from public demo |
-| Synthesis / decisions | GitHub-native automation and pre-launch QA priority |
-| Architecture / workflow | Pseudo-localization, screenshots, sample bot PR docs |
-| Implementation | Public sample application |
-| Evidence / testing | Example automation PR documentation and review checklist |
-| Revision / learning | Reviewers need understandable evidence to approve changes |
-
-**Evidence produced**
-
-- public sample application;
-- example automation PR documentation;
-- localization QA workflow.
-
-**Result**  
-A focused demonstration of configuration discipline, automation, and reviewable quality checks.
-
-**What I learned**  
-A strong automation system should leave understandable evidence for the people responsible for approving the change.
-
-Evidence: [repository](https://github.com/heyitschien/next-i18next-sample)
-
----
-
-## 5. Chapter Reader
-
-**Context**  
-Reviewing long-form writing only on screen made it harder to hear pacing, repetition, and awkward language.
-
-**My responsibility**  
-I turned that personal workflow need into a local Mac utility, made privacy and simple installation part of the product design, and documented it as a usable tool rather than a tutorial exercise.
-
-**AI and tool roles**
-
-- models for product clarification, implementation support, and documentation review;
-- coding agents for application development;
-- GitHub for source, releases, and issue history;
-- local operating-system speech for offline use.
-
-**Decisions I made**
-
-- keep text-to-speech local rather than requiring cloud APIs;
-- prioritize simple Mac installation;
-- make the utility useful for real writing review;
-- document privacy and setup clearly.
-
-**Methodology stages demonstrated**
-
-| Stage | Evidence in this project |
-| --- | --- |
-| Question / need | Hear long-form drafts to catch pacing and awkward language |
-| Research / clarification | Product clarification around local TTS and setup |
-| Challenge / constraints | Privacy-first; no cloud API requirement |
-| Synthesis / decisions | Local-first utility with one-command Mac install |
-| Architecture / workflow | Electron app + offline OS speech |
-| Implementation | Public application repository |
-| Evidence / testing | Install path, privacy docs, usable local behavior |
-| Revision / learning | Setup, privacy, and explanation are part of the product |
-
-**Evidence produced**
-
-- public application repository;
-- one-command installation;
-- local-first technical design;
-- user-facing documentation.
-
-**Result**  
-A shipped personal productivity utility that solves a concrete problem.
-
-**What I learned**  
-Small tools become credible products when implementation, setup, privacy, and user explanation are designed together.
-
-Evidence: [repository](https://github.com/heyitschien/chapter-reader)
-
----
-
-## 6. Career Operating System
-
-**Context**  
-Job search and career operations are easy to treat as ad-hoc messaging. I needed a durable system for role research, proof artifacts, follow-up tracking, interview prep, and application packages without exposing private application data publicly.
-
-**My responsibility**  
-I designed the workflow, defined what belongs in durable documentation versus private notes, structured how AI assistance should accelerate research and drafting, and kept final judgment, prioritization, and outreach decisions human-owned.
-
-**AI and tool roles**
-
-- reasoning models for role research synthesis, interview prep drafts, and communication refinement;
-- Cursor and coding agents for repository structure, documentation updates, and workflow tooling;
-- GitHub and Markdown as versioned operating memory;
-- issue-style tracking for priorities and follow-ups.
-
-**Decisions I made**
-
-- treat career work as an operating system, not a pile of prompts;
-- keep private application details out of public portfolio materials;
-- reuse the same ambiguity → evidence → decision → documentation loop used in support and product work;
-- make proof artifacts easy to route to recruiters from the public profile.
-
-**Methodology stages demonstrated**
-
-| Stage | Evidence in this project |
-| --- | --- |
-| Question / need | Turn ad-hoc job search into a durable operating system |
-| Research / clarification | Role research and interview-prep synthesis |
-| Challenge / constraints | Public portfolio must not expose private applications |
-| Synthesis / decisions | Durable docs vs private notes; human-owned outreach decisions |
-| Architecture / workflow | GitHub + Markdown + AI-assisted drafting loop |
-| Implementation | Private system; public profile routes to recruiter-safe proof |
-| Evidence / testing | Public profile quick path and proof artifacts |
-| Revision / learning | Same loop as support/product work applies to career ops |
-
-**Evidence produced**
-
-- public profile routing to recruiter-safe proof;
-- private workflow practice summarized without confidential contents;
-- transferable operating pattern shared with implementation, onboarding, and product support work.
-
-**Result**  
-A repeatable career-operations method that demonstrates workflow design under ambiguity, without publishing private application records.
-
-**What I learned**  
-The same orchestration discipline that ships products also makes job search and interview prep more coherent: clarify the goal, compare evidence, decide, document, and revise.
-
-Evidence: summarized on the [public profile](https://github.com/heyitschien) — private repository contents are not published
-
----
-
-## Shared operating pattern
-
-Across these projects, the repeated methodology is:
+## Shared pattern
 
 ```text
-Question
-→ Research
-→ Challenge
-→ Cross-model comparison
-→ Synthesis
-→ Architecture
-→ Implementation
-→ Evidence
-→ Revision
+Question → research → challenge → synthesis → architecture
+→ implementation → evidence → revision
 ```
 
-Depth varies by project. The models accelerate parts of the work. My responsibility is to create coherence across the parts and decide what is accepted.
+Depth varies by project. Models accelerate parts of the work. I remain responsible for coherence and what is accepted.

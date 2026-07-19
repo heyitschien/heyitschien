@@ -1,8 +1,7 @@
 # Hi, I'm Chien Escalera Duong
 
 **Implementation-minded operator · Product support generalist · AI workflow builder**  
-Client onboarding · Ticket ownership · Troubleshooting · Documentation · QA validation  
-Los Angeles, CA / Pacific Time · Open to remote Implementation Specialist, Onboarding Specialist, Product Support, and Technical Support roles
+Los Angeles, CA / Pacific Time · Open to remote Implementation, Onboarding, Product Support, Technical Support, and AI workflow operations roles
 
 I help users and teams move from setup confusion to clear, documented next steps. My strength is calm customer-facing communication, structured troubleshooting, accurate handoffs, and turning messy workflows into repeatable operating notes.
 
@@ -10,39 +9,29 @@ I help users and teams move from setup confusion to clear, documented next steps
 
 ## Recruiter quick path (~3 minutes)
 
-1. **[product-support-triage-sample](https://github.com/heyitschien/product-support-triage-sample)** — strongest proof of ticket triage, customer replies, and escalation handoffs
-2. **[chapter-reader](https://github.com/heyitschien/chapter-reader)** — local Mac app for listening to long-form drafts (Electron + offline TTS)
-3. **[cousin-radio](https://github.com/heyitschien/cousin-radio)** — shipped product at [cousinradio.com](https://cousinradio.com)
-4. **[chrome-extension-tester-mcp](https://github.com/heyitschien/chrome-extension-tester-mcp)** — AI-assisted QA and technical support tooling
-5. **[next-i18next-sample](https://github.com/heyitschien/next-i18next-sample)** — LingoPilot localization / pre-launch validation demo
+1. **[Product Support Triage Sample — case outcome](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md)** — ticket ownership, customer reply, escalation
+2. **[Cousin Radio](https://cousinradio.com)** — shipped product · [employer proof](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md)
+3. **[Chrome Extension Tester MCP — support use case](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md)** — AI-assisted QA and validation
+
+Supporting proof: [Chapter Reader](https://github.com/heyitschien/chapter-reader) · [LingoPilot demo](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md) · [AI YouTube Content](https://github.com/heyitschien/ai-youtube-content)
 
 ---
 
-## Target roles
+## Capability → evidence
 
-* Implementation Specialist
-* Client Onboarding Specialist
-* Onboarding Specialist
-* Product Support Specialist
-* Technical Support Specialist
-* Customer Operations Specialist
-* AI Operations / Workflow Support roles
+| Capability | Strongest public evidence |
+| --- | --- |
+| Product-support ownership | [CASE-OUTCOME.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md) |
+| Customer communication | [customer-reply.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/customer-reply.md) |
+| Escalation and handoff | [internal-escalation-note.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/internal-escalation-note.md) |
+| Shipped product and deployment | [cousinradio.com](https://cousinradio.com) · [EMPLOYER-PROOF.md](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md) |
+| AI-assisted QA and validation | [SUPPORT-USE-CASE.md](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md) |
+| Local application delivery | [Chapter Reader](https://github.com/heyitschien/chapter-reader) · [install-mac-app.sh](https://github.com/heyitschien/chapter-reader/blob/main/install-mac-app.sh) |
+| Localization and configuration QA | [sample-bot-pr.md](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md) |
+| Content-system design | [AI YouTube Content — production workflow](https://github.com/heyitschien/ai-youtube-content/blob/main/docs/production-workflow.md) |
+| AI workflow orchestration | [Methodology](docs/AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md) · [Case studies](docs/AI-WORKFLOW-CASE-STUDIES.md) |
 
-The common thread: ticket ownership, triage, status updates, configuration support, QA validation, escalation, handoffs, documentation, and workflow automation.
-
----
-
-## Featured work for employers
-
-| Project | What it proves | Link |
-| --- | --- | --- |
-| **Product Support Triage Sample** | Ticket ownership, integration troubleshooting, customer reply, escalation note, support documentation | [product-support-triage-sample](https://github.com/heyitschien/product-support-triage-sample) |
-| **Chapter Reader** | Local Mac productivity app — setup clarity, Dock install, privacy-first TTS for reviewing writing by ear | [chapter-reader](https://github.com/heyitschien/chapter-reader) |
-| **Cousin Radio** | Shipped Next.js product, UX judgment, deployment ownership, troubleshooting across layers | [cousin-radio](https://github.com/heyitschien/cousin-radio) · [cousinradio.com](https://cousinradio.com) |
-| **Chrome Extension Tester MCP** | AI-assisted QA, browser automation, repeatable test workflows, support instrumentation | [chrome-extension-tester-mcp](https://github.com/heyitschien/chrome-extension-tester-mcp) |
-| **LingoPilot Public Demo** | Localization QA, GitHub-native automation, configuration discipline, pre-launch validation | [next-i18next-sample](https://github.com/heyitschien/next-i18next-sample) |
-| **Developer Workflow Walkthrough** | Plain-English technical explanation, layered diagnosis, migration thinking | [YouTube — Supabase to Neon migration](https://www.youtube.com/watch?v=osexel8sixc) |
-| **Career Operating System** | Workflow design, role research, documentation systems, follow-up tracking | Private repo — summary below |
+Role mapping for the triage sample: [ROLE-MAPPING.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/ROLE-MAPPING.md)
 
 ---
 
@@ -53,73 +42,32 @@ Intake → clarify expected behavior → collect evidence → identify the faili
 → communicate status → resolve or escalate → document the outcome
 ```
 
-I do not guess in unclear systems. I pull the spec, compare expected vs. actual behavior, capture evidence, communicate status early, and hand off with enough context that the next owner does not need to restart the investigation.
+I do not guess in unclear systems. I compare expected vs. actual behavior, capture evidence, communicate status early, and hand off with enough context that the next owner does not restart the investigation.
 
 ---
 
-## AI-orchestrated systems work
+## Selected public work
 
-I use AI as a coordinated engineering system, not a single chatbot. Across projects, I use a repeatable method for turning ambiguity into evidence-backed systems: question, research, challenge, compare, synthesize, architect, implement, validate, and revise.
+| Project | What it is | Best starting point |
+| --- | --- | --- |
+| **Product Support Triage Sample** | Synthetic support case (no private customer data) | [CASE-OUTCOME.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md) |
+| **Cousin Radio** | Shipped family music product (Next.js / Supabase / Vercel) | [Live site](https://cousinradio.com) |
+| **Chrome Extension Tester MCP** | Working open-source AI-assisted QA tool | [Support use case](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md) |
+| **Chapter Reader** | Local Mac TTS utility for reviewing drafts | [Repository](https://github.com/heyitschien/chapter-reader) |
+| **LingoPilot demo** | Public localization QA / pseudo-loc sample | [Sample bot PR](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md) |
+| **AI YouTube Content** | Content production system for plain-language AI education | [Production workflow](https://github.com/heyitschien/ai-youtube-content/blob/main/docs/production-workflow.md) |
 
-```text
-Question → research → challenge → synthesis → architecture
-→ implementation → evidence → revision
-```
-
-My role is the orchestration and accountability layer: clarifying intent, routing work across specialized tools, deciding what becomes canonical, and revising the system when evidence disagrees.
-
-[Read the capability overview](docs/AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md) · [See case studies](docs/AI-WORKFLOW-CASE-STUDIES.md) · [Docs index](docs/README.md)
-
----
-
-## Product support / implementation proof
-
-Start here: **[product-support-triage-sample](https://github.com/heyitschien/product-support-triage-sample)**
-
-Synthetic sample (no private customer data). Demonstrates:
-
-* clarify the customer problem
-* identify likely failure layers
-* write a customer-facing update
-* create an internal escalation note
-* document next steps and knowledge-base improvements
-
-Mapping for recruiters: [ROLE-MAPPING](https://github.com/heyitschien/product-support-triage-sample/blob/main/ROLE-MAPPING.md)
+Portfolio audit (scope, limitations, follow-ups): [docs/PUBLIC-PORTFOLIO-AUDIT.md](docs/PUBLIC-PORTFOLIO-AUDIT.md)
 
 ---
 
-## Cousin Radio — shipped product proof
+## AI-orchestrated workflow (differentiator)
 
-Family music platform — live at [cousinradio.com](https://cousinradio.com). Next.js, Supabase, Vercel, CDN-first media. 55+ tracks, persistent player.
+AI orchestration supports the employment story — it does not replace implementation / product-support positioning.
 
-Employer proof: [docs/EMPLOYER-PROOF.md](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md)
+Across projects I use a repeatable method: question → research → challenge → synthesis → architecture → implementation → evidence → revision. I remain accountable for framing, decisions, review, and acceptance.
 
----
-
-## Chapter Reader — local Mac tool
-
-Open source: [chapter-reader](https://github.com/heyitschien/chapter-reader)
-
-* Paste or load long-form drafts and listen while you review
-* Offline TTS — no cloud API calls, privacy-first
-* One-command Mac install: `./install-mac-app.sh`
-* MIT licensed — shipped as a real local utility, not a tutorial repo
-
----
-
-## LingoPilot — localization workflow demo
-
-Public demo: [next-i18next-sample](https://github.com/heyitschien/next-i18next-sample) · Example bot PR: [docs/sample-bot-pr.md](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md)
-
-Private engine/dashboard available as interview walkthroughs only.
-
----
-
-## Career Operating System
-
-Private project — GitHub, Cursor, Markdown, and AI-assisted workflows for structured job search operations: role research, proof artifacts, follow-up tracking, interview prep, application packages.
-
-Practice in turning ambiguity into repeatable workflows — same mindset as implementation, onboarding, and product support. Public-safe summary: [Career Operating System case study](docs/AI-WORKFLOW-CASE-STUDIES.md#6-career-operating-system).
+[Capability overview](docs/AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md) · [Case studies](docs/AI-WORKFLOW-CASE-STUDIES.md) · [Attribution](docs/MODEL-AND-TOOL-ATTRIBUTION.md) · [Docs index](docs/README.md)
 
 ---
 
@@ -130,7 +78,7 @@ Practice in turning ambiguity into repeatable workflows — same mindset as impl
 * Technical learning: JavaScript, React, Next.js, GitHub, REST API concepts, browser developer tools, Cursor, AI-assisted workflows
 * Certifications: Meta Front-End Developer, Google Cybersecurity, Google AI Essentials
 
-I am not positioning myself as a senior software engineer. I am positioning myself as a customer-facing technical operator who can learn systems quickly, document clearly, troubleshoot calmly, and support users through setup, confusion, and launch.
+I am not positioning myself as a senior software engineer. I am a customer-facing technical operator who learns systems quickly, documents clearly, troubleshoots calmly, and supports users through setup, confusion, and launch.
 
 ---
 
