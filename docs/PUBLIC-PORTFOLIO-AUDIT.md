@@ -21,7 +21,7 @@ Classification:
 | --- | --- | --- | --- | --- |
 | [product-support-triage-sample](https://github.com/heyitschien/product-support-triage-sample) | Synthetic sample | Strong | [CASE-OUTCOME.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md) | No change |
 | [cousin-radio](https://github.com/heyitschien/cousin-radio) | Shipped / public beta | Strong | [cousinradio.com](https://cousinradio.com) · [EMPLOYER-PROOF.md](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md) | Optional |
-| [chrome-extension-tester-mcp](https://github.com/heyitschien/chrome-extension-tester-mcp) | Working tool / concept demo | Strong | [SUPPORT-USE-CASE.md](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md) | High value |
+| [chrome-extension-tester-mcp](https://github.com/heyitschien/chrome-extension-tester-mcp) | Working tool / concept demo | Strong | [SUPPORT-USE-CASE.md](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md) · [screenshots](https://github.com/heyitschien/chrome-extension-tester-mcp/tree/main/docs/screenshots) | No change |
 | [chapter-reader](https://github.com/heyitschien/chapter-reader) | Shipped local utility | Strong | [README](https://github.com/heyitschien/chapter-reader) · [install-mac-app.sh](https://github.com/heyitschien/chapter-reader/blob/main/install-mac-app.sh) | Optional |
 | [next-i18next-sample](https://github.com/heyitschien/next-i18next-sample) | Concept demo | Strong | [sample-bot-pr.md](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md) | Optional |
 | [ai-youtube-content](https://github.com/heyitschien/ai-youtube-content) | Content system | Medium | [production-workflow.md](https://github.com/heyitschien/ai-youtube-content/blob/main/docs/production-workflow.md) | High value |
@@ -72,16 +72,13 @@ Classification:
 | Capability | AI-assisted QA, browser evidence, support instrumentation |
 | Status | Working open-source tool + concept demo (npm + CI) |
 | Fastest review path | Recruiter quick scan → SUPPORT-USE-CASE.md |
-| Best evidence | `docs/SUPPORT-USE-CASE.md`, CI workflow, README scope statement |
-| Demo / screenshot | Workflow SVG; screenshot folder present (limited filled screenshots) |
-| Limitations | Not an enterprise QA platform |
+| Best evidence | `docs/SUPPORT-USE-CASE.md`, real screenshots under `docs/screenshots/`, console evidence under `docs/evidence/`, CI workflow |
+| Demo / screenshot | Yes — working popup + blank-popup repro + browser session (`npm run capture-evidence`) |
+| Limitations | Working tool and concept demo — not an enterprise QA platform |
 
-**Priority: High value**
+**Priority: No change** (completed 2026-07-19)
 
-**Follow-up (other repo):**
-
-1. Add 1–2 filled screenshots under `docs/screenshots/` showing a real repro / blank-popup style scenario.
-2. Keep the “working tool / not enterprise platform” framing prominent (already present — preserve it).
+**Follow-up (other repo):** Done — added filled screenshots, console logs, demo fixtures, and `npm run capture-evidence`. Preserve the “working tool / not enterprise platform” framing.
 
 ---
 
