@@ -162,7 +162,7 @@ Deferred to other repositories (documented above, not edited in this PR):
 
 Repository README edits cannot control all GitHub profile-sidebar fields. Complete these in GitHub → Settings → Public profile:
 
-- [ ] Confirm LinkedIn URL matches the README (`https://www.linkedin.com/in/heyitschien/`) — current sidebar shows a different LinkedIn slug
+- [ ] Confirm LinkedIn URL in the GitHub sidebar matches the README (`https://www.linkedin.com/in/chien-escalera-duong/`)
 - [ ] Remove duplicate YouTube URLs from the sidebar
 - [ ] Replace unexplained raw Gist URL unless it serves a clear portfolio purpose
 - [ ] Retain one useful website/portfolio link
