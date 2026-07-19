@@ -1,9 +1,10 @@
 # Hi, I'm Chien Escalera Duong
 
-**Implementation-minded operator · Product support generalist · AI workflow builder**  
-Los Angeles, CA / Pacific Time · Open to remote Implementation, Onboarding, Product Support, Technical Support, and AI workflow operations roles
+**Implementation & Product Support · Technical Operations · AI Workflow Builder**  
+Onboarding · Troubleshooting · Customer Communication · Documentation · QA Validation  
+Los Angeles, CA / Pacific Time · Open to remote implementation, onboarding, product support, technical support, and AI workflow operations roles
 
-I help users and teams move from setup confusion to clear, documented next steps. My strength is calm customer-facing communication, structured troubleshooting, accurate handoffs, and turning messy workflows into repeatable operating notes.
+I help users and teams move from setup confusion to clear, documented next steps. I combine calm customer communication, structured troubleshooting, accurate handoffs, and AI-assisted workflows to turn messy problems into repeatable, evidence-backed work.
 
 ---
 
