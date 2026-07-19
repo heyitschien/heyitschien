@@ -6,49 +6,55 @@ I use AI as a coordinated engineering system rather than a single chatbot. My ro
 
 This is not the same as asking a model to generate code. The capability is the orchestration layer around the models: deciding what matters, which tool should do what, what evidence is required, and what becomes the source of truth.
 
-## My repeatable workflow
+## The repeatable methodology
+
+The important capability is not a single tool stack or one project. Across public and private work, a reusable operating approach has emerged for turning ambiguity into structured, evidence-backed systems:
 
 ```text
-Problem or opportunity
-→ clarify intent, users, constraints, and risks
-→ research and source discovery
-→ independent model challenge
-→ cross-model comparison
-→ synthesis
-→ product and architecture decision
-→ specification and acceptance criteria
-→ issue and milestone planning
-→ implementation agent
-→ review, testing, and QA
-→ documentation reconciliation
-→ evidence
-→ validation or revision
+Question or opportunity
+→ clarify intent and constraints
+→ research
+→ challenge assumptions
+→ compare independent model perspectives
+→ synthesize findings
+→ choose product and architecture direction
+→ translate decisions into specifications
+→ implement through appropriate tools or agents
+→ collect evidence
+→ validate, revise, and document
 ```
 
-The loop matters more than any single prompt. Initial design approval is not empirical validation. Important assumptions remain subject to testing, replay, user feedback, and measurable evidence.
+Not every project uses every step with equal depth. Small tools may compress research and architecture; support work may emphasize clarification, evidence, and handoff. The overall loop stays consistent: reduce ambiguity, compare perspectives, decide, implement, check evidence, and revise.
 
-## What I am responsible for
+This is a working method — a repeatable, AI-assisted, human-directed approach — not a proprietary framework and not a claim that any one private system proves the method in every domain.
 
-Across projects, I typically own or coordinate:
+## Why the methodology is transferable
 
-- problem framing and scope;
-- user and operational constraints;
-- research synthesis across sources and models;
-- product direction and system architecture;
-- model and tool selection;
-- canonical specifications and acceptance criteria;
-- issue, milestone, and documentation structure;
-- implementation review and integration decisions;
-- validation requirements;
-- final accountability for what is accepted as complete.
+The method can transfer across domains because it rests on general capabilities rather than one industry's jargon:
 
-AI systems contribute reasoning, alternatives, implementation, and review support. I remain responsible for judgment, coherence, verification, and the final result.
+- ambiguity reduction
+- structured research
+- independent challenge
+- cross-source synthesis
+- architecture translation
+- workflow orchestration
+- documentation
+- testing and evidence
+- iterative revision
+
+The methodology can support work in new domains when paired with qualified domain experts, appropriate data, and proper validation. Transferability means the operating approach can help organize the work — not that domain expertise arrives automatically with the method.
+
+## Methodology vs domain authority
+
+My transferable capability is organizing research, tools, decisions, implementation, and evidence.
+
+That does not mean I automatically possess deep subject-matter expertise in every domain where the method could be applied. For regulated or safety-critical areas — including healthcare, scientific tooling, and robotics — qualified experts and appropriate review remain necessary. Public case studies show the method; they do not claim domain authority beyond what the evidence supports.
 
 ## How this differs from simple prompting
 
 Simple prompting asks for an output.
 
-AI-orchestrated systems engineering creates a controlled process around the output:
+This operating approach creates a controlled process around the output:
 
 - separate discovery from decision-making;
 - use independent models to challenge assumptions;
@@ -69,7 +75,7 @@ The exact mix changes by project, but the operating pattern is consistent:
 - **GitHub Issues and Linear:** priorities, milestones, dependencies, execution tracking, and handoffs.
 - **Chien:** framing, synthesis, product direction, architecture, model routing, acceptance criteria, review, final decisions, and accountability.
 
-Attribution should reflect what actually happened on each project. I do not present AI-generated work as if it appeared without model assistance, and I do not treat model output as independently verified merely because it is persuasive.
+Attribution should reflect what actually happened on each project. I do not present AI-generated work as if it appeared without model assistance, and I do not treat model output as independently verified merely because it is persuasive. Evidence can overturn prior decisions — including my own.
 
 ## Evidence from my work
 
@@ -82,11 +88,28 @@ This capability is visible across public projects including:
 - [Chapter Reader](https://github.com/heyitschien/chapter-reader) — user need translated into a local-first utility with installation and support documentation.
 - Career Operating System — private workflow design summarized publicly without exposing application data.
 
+Some private systems are larger implementations of the same loop. Public documentation does not disclose private architecture, collaborator details, or unverifiable performance claims. The public claim is the method and the public evidence — not private results.
+
 See [AI workflow case studies](AI-WORKFLOW-CASE-STUDIES.md) and the [capability evidence map](CAPABILITY-EVIDENCE-MAP.md).
+
+## Where this method can apply
+
+The method can support work in areas such as:
+
+- implementation and onboarding workflows
+- product and technical support operations
+- AI operations and workflow automation
+- content systems
+- SaaS delivery and configuration support
+- education tooling
+- robotics or simulation workflows with qualified domain review
+- healthcare or scientific tooling with qualified domain review
+
+Use “can support” carefully: these are domains where structured ambiguity reduction, documentation, and evidence loops are useful. They are not claims of professional expertise in each field.
 
 ## Employer relevance
 
-This capability supports work in:
+For current hiring paths, this capability supports work in:
 
 - implementation and onboarding;
 - product and technical support;
@@ -102,5 +125,9 @@ The common thread is turning unclear needs into structured, reviewable, testable
 ## Honest positioning
 
 I am not presenting myself as a senior software engineer or claiming that every repository is a production system. My portfolio includes shipped products, active private systems, prototypes, research experiments, learning projects, and supporting tools.
+
+I do not describe this methodology as proprietary, revolutionary, or a formal engineering framework. It is a repeatable working method refined through practice.
+
+I do not imply that any private system's validation proves general scientific validity, and I do not expose private trading logic, financial targets, or collaborator-sensitive material.
 
 The demonstrated strength is repeatable systems judgment: learning quickly, coordinating specialized AI tools, documenting decisions, validating outputs, and moving complex work from ambiguity toward evidence.

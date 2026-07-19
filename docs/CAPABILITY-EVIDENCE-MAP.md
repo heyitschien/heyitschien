@@ -2,6 +2,22 @@
 
 This map translates my AI-orchestrated systems work into employer-relevant capabilities and public evidence.
 
+## Method stages → employer value
+
+| Method stage | Employer value |
+| --- | --- |
+| Question and clarification | Reduces ambiguity before work begins |
+| Research and challenge | Prevents premature conclusions |
+| Cross-model comparison | Surfaces conflicting assumptions |
+| Synthesis | Produces a coherent direction |
+| Architecture and specification | Creates implementable work |
+| Implementation through tools or agents | Moves decisions into reviewable changes |
+| Evidence and revision | Separates confidence from proof |
+
+Full methodology: [AI-Orchestrated Systems Engineering](AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md#the-repeatable-methodology). Stage evidence by project: [case studies](AI-WORKFLOW-CASE-STUDIES.md).
+
+## Capability → public evidence
+
 | Capability | What it means in practice | Public evidence | Relevant roles |
 |---|---|---|---|
 | Ambiguity reduction | Turns unclear goals, reports, or workflows into defined next steps and acceptance criteria | [Product Support Triage Sample](https://github.com/heyitschien/product-support-triage-sample) | Implementation, onboarding, product support, technical support |
@@ -17,20 +33,15 @@ This map translates my AI-orchestrated systems work into employer-relevant capab
 | Configuration discipline | Makes setup, automation, and pre-launch behavior visible and reviewable | [LingoPilot demo](https://github.com/heyitschien/next-i18next-sample) | Implementation, onboarding, localization operations |
 | Local-first product thinking | Balances usability, privacy, setup, and technical design | [Chapter Reader](https://github.com/heyitschien/chapter-reader) | Product support, implementation, desktop tooling |
 | Customer-facing communication | Converts technical uncertainty into calm updates and actionable next steps | [Product Support Triage Sample](https://github.com/heyitschien/product-support-triage-sample) | Product support, customer success, implementation |
+| Transferable methodology | Reuses the same ambiguity → evidence → revision loop across product, support, QA, and ops work | [Case studies](AI-WORKFLOW-CASE-STUDIES.md) · [Methodology](AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md#the-repeatable-methodology) | Implementation, AI operations, product operations |
 
 ## Recruiter summary
 
 The repeated pattern across the evidence is:
 
 ```text
-understand the real need
-→ reduce ambiguity
-→ gather and compare evidence
-→ make a documented decision
-→ coordinate implementation
-→ test observable behavior
-→ communicate the result
-→ improve the system
+Question → research → challenge → synthesis → architecture
+→ implementation → evidence → revision
 ```
 
 ## Portfolio interpretation
@@ -46,3 +57,5 @@ My broader GitHub history includes different categories of work:
 - forks and references.
 
 These categories should not be represented as equivalent production systems. The credible claim is that repeated work across a large project portfolio has developed a transferable capability for AI-assisted systems thinking, workflow coordination, documentation, implementation support, and evidence-based iteration.
+
+Private systems may apply the same method at larger scale. Public docs do not disclose private IP or unverifiable performance claims. Domain transfer requires qualified experts and validation where the work is regulated or safety-critical.
