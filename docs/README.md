@@ -8,11 +8,13 @@ Primary employment story remains **implementation / product support / technical 
 
 | Document | Purpose |
 | --- | --- |
-| [PUBLIC-PORTFOLIO-AUDIT.md](PUBLIC-PORTFOLIO-AUDIT.md) | Six-repo recruiter audit, priorities, deferred follow-ups |
 | [AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md](AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md) | Repeatable methodology, transferability, domain guardrails |
 | [AI-WORKFLOW-CASE-STUDIES.md](AI-WORKFLOW-CASE-STUDIES.md) | Three flagship case studies + supporting examples |
 | [CAPABILITY-EVIDENCE-MAP.md](CAPABILITY-EVIDENCE-MAP.md) | Method stages and capability → proof map |
 | [MODEL-AND-TOOL-ATTRIBUTION.md](MODEL-AND-TOOL-ATTRIBUTION.md) | Transparent AI / tool / human roles |
+| [PUBLIC-PORTFOLIO-AUDIT.md](PUBLIC-PORTFOLIO-AUDIT.md) | Internal portfolio audit, priorities, and manual GitHub sidebar follow-ups |
+
+The portfolio audit is retained here for transparency. It is intentionally **not** part of the main profile README recruiter journey.
 
 ## Profile entry point
 
