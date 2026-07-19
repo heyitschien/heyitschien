@@ -152,9 +152,9 @@ Implemented here (safe, in-profile only):
 
 Deferred to other repositories (documented above, not edited in this PR):
 
-- MCP filled screenshots;
-- AI YouTube Content recruiter quick path;
-- optional Cousin Radio / Chapter Reader polish.
+- **Done:** MCP filled screenshots + console evidence ([chrome-extension-tester-mcp#1](https://github.com/heyitschien/chrome-extension-tester-mcp/pull/1))
+- **High value (later):** AI YouTube Content recruiter quick path
+- **Optional:** Cousin Radio / Chapter Reader polish
 
 ---
 
