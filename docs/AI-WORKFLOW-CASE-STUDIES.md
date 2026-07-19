@@ -2,6 +2,8 @@
 
 These concise case studies show how I combine human judgment, AI reasoning, documentation, repositories, and implementation tools. They focus on my responsibility and verifiable public evidence rather than broad claims.
 
+Each study maps to stages of the same [repeatable methodology](AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md#the-repeatable-methodology). Not every stage appears with equal depth in every project.
+
 ## 1. Cousin Radio
 
 **Context**  
@@ -23,6 +25,19 @@ I led product direction, clarified the user experience, made scope and architect
 - separate public exploration from private/family controls;
 - preserve persistent playback across navigation;
 - use staged validation and branch protection rather than direct uncontrolled changes.
+
+**Methodology stages demonstrated**
+
+| Stage | Evidence in this project |
+| --- | --- |
+| Question / need | Family music product needed a usable mobile-first experience |
+| Research / clarification | UX and architecture exploration before locking scope |
+| Challenge / constraints | Age-aware discovery, playback reliability, family vs public controls |
+| Synthesis / decisions | Mobile-first direction, persistent player, staged validation |
+| Architecture / workflow | Next.js, Supabase, Vercel, CDN-first media, protected branches |
+| Implementation | Public repository and deployment history |
+| Evidence / testing | Live product behavior and employer-facing documentation |
+| Revision / learning | Ongoing iteration after ship; product coherence remains human-owned |
 
 **Evidence produced**
 
@@ -61,6 +76,19 @@ I defined the support scenario, structured the investigation, separated customer
 - distinguish confirmed facts from hypotheses;
 - communicate status before final resolution;
 - make the escalation actionable so the next owner would not restart the investigation.
+
+**Methodology stages demonstrated**
+
+| Stage | Evidence in this project |
+| --- | --- |
+| Question / need | Show ticket ownership from report through handoff |
+| Research / clarification | Structured investigation notes and failure-layer thinking |
+| Challenge / constraints | Synthetic data only; separate customer vs internal voice |
+| Synthesis / decisions | Status-first communication and actionable escalation |
+| Architecture / workflow | Reusable Markdown support artifacts and role mapping |
+| Implementation | Public triage sample repository |
+| Evidence / testing | Customer reply, escalation note, documentation proposal |
+| Revision / learning | Knowledge-base improvement suggestions from the case |
 
 **Evidence produced**
 
@@ -102,6 +130,19 @@ I shaped the use case around repeatable AI-assisted QA, selected the workflow bo
 - collect evidence from actual browser behavior;
 - keep human review responsible for acceptance.
 
+**Methodology stages demonstrated**
+
+| Stage | Evidence in this project |
+| --- | --- |
+| Question / need | Make extension testing less repetitive and more consistent |
+| Research / clarification | Test design and failure-analysis support with models |
+| Challenge / constraints | Automation assists; it does not replace human acceptance |
+| Synthesis / decisions | QA-support framing and evidence-from-browser rule |
+| Architecture / workflow | MCP + browser tooling for repeatable checks |
+| Implementation | Public codebase |
+| Evidence / testing | Documented support/QA use case and observable browser behavior |
+| Revision / learning | Prefer verification loops over generating more output |
+
 **Evidence produced**
 
 - public codebase;
@@ -140,6 +181,19 @@ I helped define a GitHub-native workflow that makes localization problems visibl
 - separate the public proof from private engine components;
 - document the sample bot behavior for recruiters and reviewers.
 
+**Methodology stages demonstrated**
+
+| Stage | Evidence in this project |
+| --- | --- |
+| Question / need | Make localization problems reviewable before launch |
+| Research / clarification | Workflow and configuration analysis |
+| Challenge / constraints | Keep private engine separate from public demo |
+| Synthesis / decisions | GitHub-native automation and pre-launch QA priority |
+| Architecture / workflow | Pseudo-localization, screenshots, sample bot PR docs |
+| Implementation | Public sample application |
+| Evidence / testing | Example automation PR documentation and review checklist |
+| Revision / learning | Reviewers need understandable evidence to approve changes |
+
 **Evidence produced**
 
 - public sample application;
@@ -177,6 +231,19 @@ I turned that personal workflow need into a local Mac utility, made privacy and 
 - prioritize simple Mac installation;
 - make the utility useful for real writing review;
 - document privacy and setup clearly.
+
+**Methodology stages demonstrated**
+
+| Stage | Evidence in this project |
+| --- | --- |
+| Question / need | Hear long-form drafts to catch pacing and awkward language |
+| Research / clarification | Product clarification around local TTS and setup |
+| Challenge / constraints | Privacy-first; no cloud API requirement |
+| Synthesis / decisions | Local-first utility with one-command Mac install |
+| Architecture / workflow | Electron app + offline OS speech |
+| Implementation | Public application repository |
+| Evidence / testing | Install path, privacy docs, usable local behavior |
+| Revision / learning | Setup, privacy, and explanation are part of the product |
 
 **Evidence produced**
 
@@ -217,6 +284,19 @@ I designed the workflow, defined what belongs in durable documentation versus pr
 - reuse the same ambiguity → evidence → decision → documentation loop used in support and product work;
 - make proof artifacts easy to route to recruiters from the public profile.
 
+**Methodology stages demonstrated**
+
+| Stage | Evidence in this project |
+| --- | --- |
+| Question / need | Turn ad-hoc job search into a durable operating system |
+| Research / clarification | Role research and interview-prep synthesis |
+| Challenge / constraints | Public portfolio must not expose private applications |
+| Synthesis / decisions | Durable docs vs private notes; human-owned outreach decisions |
+| Architecture / workflow | GitHub + Markdown + AI-assisted drafting loop |
+| Implementation | Private system; public profile routes to recruiter-safe proof |
+| Evidence / testing | Public profile quick path and proof artifacts |
+| Revision / learning | Same loop as support/product work applies to career ops |
+
 **Evidence produced**
 
 - public profile routing to recruiter-safe proof;
@@ -235,17 +315,18 @@ Evidence: summarized on the [public profile](https://github.com/heyitschien) —
 
 ## Shared operating pattern
 
-Across these projects, the repeated capability is:
+Across these projects, the repeated methodology is:
 
 ```text
-clarify the real problem
-→ compare evidence and perspectives
-→ make an accountable decision
-→ translate it into tracked work
-→ use specialized AI tools for execution
-→ review observable results
-→ document what changed
-→ revise when evidence disagrees
+Question
+→ Research
+→ Challenge
+→ Cross-model comparison
+→ Synthesis
+→ Architecture
+→ Implementation
+→ Evidence
+→ Revision
 ```
 
-The models accelerate parts of the work. My responsibility is to create coherence across the parts and decide what is accepted.
+Depth varies by project. The models accelerate parts of the work. My responsibility is to create coherence across the parts and decide what is accepted.

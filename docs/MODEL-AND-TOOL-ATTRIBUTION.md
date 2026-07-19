@@ -116,7 +116,7 @@ AI assistance does not remove the need for:
 - legal or professional review when appropriate;
 - accountability for errors.
 
-A design may be approved for implementation while still awaiting empirical validation. Evidence can overturn my decision or any model recommendation.
+A design may be approved for implementation while still awaiting empirical validation. Evidence can overturn my decision or any model recommendation. AI assistance must not be presented as unaided authorship.
 
 ## Public portfolio boundaries
 
@@ -124,12 +124,12 @@ Public documentation should not expose:
 
 - credentials or secrets;
 - private customer or employment data;
-- proprietary trading logic;
+- proprietary trading logic, financial targets, or private system architecture;
 - collaborator-sensitive information;
 - private repository contents;
 - model conversations that contain confidential material.
 
-Public case studies should show the operating method and verifiable outcomes without disclosing protected inputs.
+Public case studies should show the operating method and verifiable outcomes without disclosing protected inputs. Transferability of the method is not proof of domain expertise in regulated fields.
 
 ## Why this matters
 

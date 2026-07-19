@@ -59,10 +59,11 @@ I do not guess in unclear systems. I pull the spec, compare expected vs. actual 
 
 ## AI-orchestrated systems work
 
-I use AI as a coordinated engineering system, not a single chatbot. I frame the problem, compare research and model perspectives, synthesize product and architecture decisions, translate them into specifications and tracked work, route implementation to coding agents, and review the result against tests and canonical documentation.
+I use AI as a coordinated engineering system, not a single chatbot. Across projects, I use a repeatable method for turning ambiguity into evidence-backed systems: question, research, challenge, compare, synthesize, architect, implement, validate, and revise.
 
 ```text
-Research → challenge → synthesis → architecture → implementation → evidence → iteration
+Question → research → challenge → synthesis → architecture
+→ implementation → evidence → revision
 ```
 
 My role is the orchestration and accountability layer: clarifying intent, routing work across specialized tools, deciding what becomes canonical, and revising the system when evidence disagrees.
@@ -83,7 +84,7 @@ Synthetic sample (no private customer data). Demonstrates:
 * create an internal escalation note
 * document next steps and knowledge-base improvements
 
-Mapping for recruiters: [IMPLEMENTATION-SPECIALIST-MAPPING](https://github.com/heyitschien/product-support-triage-sample/blob/main/IMPLEMENTATION-SPECIALIST-MAPPING.md)
+Mapping for recruiters: [ROLE-MAPPING](https://github.com/heyitschien/product-support-triage-sample/blob/main/ROLE-MAPPING.md)
 
 ---
 
