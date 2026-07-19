@@ -1,7 +1,7 @@
 # Hi, I'm Chien Escalera Duong
 
-**Implementation-minded operator · Product support generalist · AI workflow builder**
-Client onboarding · Ticket ownership · Troubleshooting · Documentation · QA validation
+**Implementation-minded operator · Product support generalist · AI workflow builder**  
+Client onboarding · Ticket ownership · Troubleshooting · Documentation · QA validation  
 Los Angeles, CA / Pacific Time · Open to remote Implementation Specialist, Onboarding Specialist, Product Support, and Technical Support roles
 
 I help users and teams move from setup confusion to clear, documented next steps. My strength is calm customer-facing communication, structured troubleshooting, accurate handoffs, and turning messy workflows into repeatable operating notes.
@@ -54,6 +54,20 @@ Intake → clarify expected behavior → collect evidence → identify the faili
 ```
 
 I do not guess in unclear systems. I pull the spec, compare expected vs. actual behavior, capture evidence, communicate status early, and hand off with enough context that the next owner does not need to restart the investigation.
+
+---
+
+## AI-orchestrated systems work
+
+I use AI as a coordinated engineering system, not a single chatbot. I frame the problem, compare research and model perspectives, synthesize product and architecture decisions, translate them into specifications and tracked work, route implementation to coding agents, and review the result against tests and canonical documentation.
+
+```text
+Research → challenge → synthesis → architecture → implementation → evidence → iteration
+```
+
+My role is the orchestration and accountability layer: clarifying intent, routing work across specialized tools, deciding what becomes canonical, and revising the system when evidence disagrees.
+
+[Read the capability overview](docs/AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md) · [See case studies](docs/AI-WORKFLOW-CASE-STUDIES.md) · [Model and tool attribution](docs/MODEL-AND-TOOL-ATTRIBUTION.md) · [Capability evidence map](docs/CAPABILITY-EVIDENCE-MAP.md)
 
 ---
 
@@ -121,5 +135,5 @@ I am not positioning myself as a senior software engineer. I am positioning myse
 
 ## Contact
 
-**LinkedIn:** [heyitschien](https://www.linkedin.com/in/heyitschien/)
+**LinkedIn:** [heyitschien](https://www.linkedin.com/in/heyitschien/)  
 **Email:** [heyitschien@gmail.com](mailto:heyitschien@gmail.com)
