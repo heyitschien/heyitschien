@@ -1,6 +1,8 @@
 # Capability Evidence Map
 
-This map translates my AI-orchestrated systems work into employer-relevant capabilities and public evidence.
+This map translates capabilities into employer value and the strongest public-safe evidence.
+
+Profile routing table (shorter): [README capability → evidence](../README.md#capability--evidence). Portfolio scope notes: [PUBLIC-PORTFOLIO-AUDIT.md](PUBLIC-PORTFOLIO-AUDIT.md).
 
 ## Method stages → employer value
 
@@ -14,30 +16,28 @@ This map translates my AI-orchestrated systems work into employer-relevant capab
 | Implementation through tools or agents | Moves decisions into reviewable changes |
 | Evidence and revision | Separates confidence from proof |
 
-Full methodology: [AI-Orchestrated Systems Engineering](AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md#the-repeatable-methodology). Stage evidence by project: [case studies](AI-WORKFLOW-CASE-STUDIES.md).
+Full methodology: [AI-Orchestrated Systems Engineering](AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md#the-repeatable-methodology). Narrative evidence: [case studies](AI-WORKFLOW-CASE-STUDIES.md).
 
 ## Capability → public evidence
 
-| Capability | What it means in practice | Public evidence | Relevant roles |
+| Capability | What it means in practice | Strongest public evidence | Relevant roles |
 |---|---|---|---|
-| Ambiguity reduction | Turns unclear goals, reports, or workflows into defined next steps and acceptance criteria | [Product Support Triage Sample](https://github.com/heyitschien/product-support-triage-sample) | Implementation, onboarding, product support, technical support |
-| Structured troubleshooting | Separates symptoms, evidence, hypotheses, ownership, and escalation | [Product Support Triage Sample](https://github.com/heyitschien/product-support-triage-sample) | Product support, customer operations, QA |
-| Cross-model synthesis | Compares multiple model perspectives and reconciles them into one accountable direction | [AI-Orchestrated Systems Engineering](AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md) · [Case studies](AI-WORKFLOW-CASE-STUDIES.md) | AI operations, solutions, systems analysis |
-| Workflow orchestration | Routes work across reasoning models, coding agents, repositories, issues, reviews, and validation | [Chrome Extension Tester MCP](https://github.com/heyitschien/chrome-extension-tester-mcp) · [LingoPilot demo](https://github.com/heyitschien/next-i18next-sample) | AI operations, product operations, technical program support |
-| Documentation systems | Maintains durable context, decision history, setup guidance, and handoffs | [Chapter Reader](https://github.com/heyitschien/chapter-reader) · [Product Support Triage Sample](https://github.com/heyitschien/product-support-triage-sample) · [Career OS case study](AI-WORKFLOW-CASE-STUDIES.md#6-career-operating-system) | Support, onboarding, implementation, operations |
-| Workflow design under ambiguity | Turns messy personal or team processes into repeatable operating notes without exposing private data | [Career OS case study](AI-WORKFLOW-CASE-STUDIES.md#6-career-operating-system) · [Product Support Triage Sample](https://github.com/heyitschien/product-support-triage-sample) | Implementation, onboarding, AI operations, customer operations |
-| Evidence-based iteration | Distinguishes a plausible design from an empirically verified result | [Chrome Extension Tester MCP](https://github.com/heyitschien/chrome-extension-tester-mcp) · [LingoPilot demo](https://github.com/heyitschien/next-i18next-sample) | QA, implementation, technical support |
-| Product and system judgment | Connects user need, constraints, architecture, setup, and operational quality | [Cousin Radio](https://github.com/heyitschien/cousin-radio) · [Chapter Reader](https://github.com/heyitschien/chapter-reader) | Implementation, solutions, product operations |
-| Deployment ownership | Moves work beyond prototypes into usable deployed products | [Cousin Radio](https://github.com/heyitschien/cousin-radio) · [live product](https://cousinradio.com) | Implementation, onboarding, technical operations |
-| AI-assisted QA | Uses AI to make testing and review more repeatable while preserving human acceptance | [Chrome Extension Tester MCP](https://github.com/heyitschien/chrome-extension-tester-mcp) | QA, support engineering, AI operations |
-| Configuration discipline | Makes setup, automation, and pre-launch behavior visible and reviewable | [LingoPilot demo](https://github.com/heyitschien/next-i18next-sample) | Implementation, onboarding, localization operations |
-| Local-first product thinking | Balances usability, privacy, setup, and technical design | [Chapter Reader](https://github.com/heyitschien/chapter-reader) | Product support, implementation, desktop tooling |
-| Customer-facing communication | Converts technical uncertainty into calm updates and actionable next steps | [Product Support Triage Sample](https://github.com/heyitschien/product-support-triage-sample) | Product support, customer success, implementation |
-| Transferable methodology | Reuses the same ambiguity → evidence → revision loop across product, support, QA, and ops work | [Case studies](AI-WORKFLOW-CASE-STUDIES.md) · [Methodology](AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md#the-repeatable-methodology) | Implementation, AI operations, product operations |
+| Ambiguity reduction | Turns unclear goals into defined next steps | [CASE-OUTCOME.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md) | Implementation, onboarding, product support |
+| Structured troubleshooting | Separates symptoms, evidence, hypotheses, ownership | [CASE-OUTCOME.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md) · [escalation note](https://github.com/heyitschien/product-support-triage-sample/blob/main/internal-escalation-note.md) | Product support, customer operations, QA |
+| Customer-facing communication | Converts uncertainty into calm, actionable updates | [customer-reply.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/customer-reply.md) | Product support, customer success, implementation |
+| Deployment ownership | Moves work into usable deployed products | [cousinradio.com](https://cousinradio.com) · [EMPLOYER-PROOF.md](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md) | Implementation, onboarding, technical operations |
+| Product and system judgment | Connects user need, constraints, and operational quality | [EMPLOYER-PROOF.md](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md) · [Chapter Reader](https://github.com/heyitschien/chapter-reader) | Implementation, solutions, product operations |
+| AI-assisted QA | Makes testing more repeatable while preserving human acceptance | [SUPPORT-USE-CASE.md](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md) | QA, support engineering, AI operations |
+| Evidence-based iteration | Separates plausible design from verified results | [SUPPORT-USE-CASE.md](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md) · [sample-bot-pr.md](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md) | QA, implementation, technical support |
+| Configuration discipline | Makes setup and pre-launch behavior reviewable | [sample-bot-pr.md](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md) | Implementation, onboarding, localization operations |
+| Local-first product thinking | Balances usability, privacy, and setup | [Chapter Reader](https://github.com/heyitschien/chapter-reader) · [install-mac-app.sh](https://github.com/heyitschien/chapter-reader/blob/main/install-mac-app.sh) | Product support, implementation, desktop tooling |
+| Content-system design | Structures standards, packages, and publishing workflows | [production-workflow.md](https://github.com/heyitschien/ai-youtube-content/blob/main/docs/production-workflow.md) | Content operations, AI workflow support |
+| Documentation systems | Maintains durable context and handoffs | [triage sample](https://github.com/heyitschien/product-support-triage-sample) · [Chapter Reader](https://github.com/heyitschien/chapter-reader) | Support, onboarding, implementation |
+| Workflow orchestration | Routes work across models, repos, issues, and validation | [SUPPORT-USE-CASE.md](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md) · [sample-bot-pr.md](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md) | AI operations, product operations |
+| Cross-model synthesis | Compares perspectives into one accountable direction | [Methodology](AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md) · [Case studies](AI-WORKFLOW-CASE-STUDIES.md) | AI operations, solutions, systems analysis |
+| Transferable methodology | Reuses the same ambiguity → evidence → revision loop | [Case studies](AI-WORKFLOW-CASE-STUDIES.md) · [Methodology](AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md#the-repeatable-methodology) | Implementation, AI operations, product operations |
 
 ## Recruiter summary
-
-The repeated pattern across the evidence is:
 
 ```text
 Question → research → challenge → synthesis → architecture
@@ -46,16 +46,4 @@ Question → research → challenge → synthesis → architecture
 
 ## Portfolio interpretation
 
-My broader GitHub history includes different categories of work:
-
-- shipped public products;
-- active private systems;
-- prototypes and experiments;
-- learning and course projects;
-- support tools;
-- research explorations;
-- forks and references.
-
-These categories should not be represented as equivalent production systems. The credible claim is that repeated work across a large project portfolio has developed a transferable capability for AI-assisted systems thinking, workflow coordination, documentation, implementation support, and evidence-based iteration.
-
-Private systems may apply the same method at larger scale. Public docs do not disclose private IP or unverifiable performance claims. Domain transfer requires qualified experts and validation where the work is regulated or safety-critical.
+GitHub history includes shipped products, active private systems, prototypes, learning projects, support tools, and forks. These are not equivalent production systems. Public claims stay grounded in public-safe evidence. Private systems may apply the same method at larger scale without disclosing IP or unverifiable performance. Domain transfer requires qualified experts where work is regulated or safety-critical.
