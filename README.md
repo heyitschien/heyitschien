@@ -6,6 +6,16 @@ Los Angeles, CA / Pacific Time · Open to remote implementation, onboarding, pro
 
 I help users and teams move from setup confusion to clear, documented next steps. I combine calm customer communication, structured troubleshooting, accurate handoffs, and AI-assisted workflows to turn messy problems into repeatable, evidence-backed work.
 
+### Why I do this
+
+I believe powerful technology matters only when people can **understand it, trust it, and use it**. I want to keep becoming more capable at understanding complex systems and turning that capability into practical tools, workflows, and clarity that help people move forward.
+
+**Why:** help powerful technology become genuinely useful to people.  
+**How:** learn systems quickly, reduce ambiguity, connect people and tools, use AI as leverage, document decisions, and validate with evidence.  
+**What:** implementation, product support, AI operations, technical enablement, workflow systems, and useful products.
+
+**[Read the deeper Why → How → What perspective →](docs/WHY-HOW-WHAT.md)**
+
 ---
 
 ## Recruiter quick path (~3 minutes)
