@@ -87,11 +87,11 @@ This capability is visible across public projects including:
 - [LingoPilot — sample bot PR](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md) — GitHub-native localization QA.
 - [Chapter Reader](https://github.com/heyitschien/chapter-reader) — local-first utility with installation and support documentation.
 - [AI YouTube Content — production workflow](https://github.com/heyitschien/ai-youtube-content/blob/main/docs/production-workflow.md) — content-system design.
-- Career Operating System — private workflow summarized publicly without application data.
+- [Career Operating System case study](CAREER-OPERATING-SYSTEM-CASE-STUDY.md) — private workflow summarized publicly without application data.
 
 Some private systems are larger implementations of the same loop. Public documentation does not disclose private architecture, collaborator details, or unverifiable performance claims. The public claim is the method and the public evidence — not private results.
 
-See [AI workflow case studies](AI-WORKFLOW-CASE-STUDIES.md), the [capability evidence map](CAPABILITY-EVIDENCE-MAP.md), and the [portfolio audit](PUBLIC-PORTFOLIO-AUDIT.md).
+See [AI workflow case studies](AI-WORKFLOW-CASE-STUDIES.md), the [implementation + AI systems overview](IMPLEMENTATION-AI-SYSTEMS.md), the [capability evidence map](CAPABILITY-EVIDENCE-MAP.md), and the [portfolio audit](PUBLIC-PORTFOLIO-AUDIT.md).
 
 ## Where this method can apply
 

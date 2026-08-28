@@ -8,6 +8,9 @@ Primary employment story remains **implementation / product support / technical 
 
 | Document | Purpose |
 | --- | --- |
+| [PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md](PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) | Public-safe paid client workflow and handoff |
+| [CAREER-OPERATING-SYSTEM-CASE-STUDY.md](CAREER-OPERATING-SYSTEM-CASE-STUDY.md) | Sanitized workflow coordination and human-gate summary |
+| [IMPLEMENTATION-AI-SYSTEMS.md](IMPLEMENTATION-AI-SYSTEMS.md) | Reusable implementation loop and public proof map |
 | [AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md](AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md) | Repeatable methodology, transferability, domain guardrails |
 | [AI-WORKFLOW-CASE-STUDIES.md](AI-WORKFLOW-CASE-STUDIES.md) | Three flagship case studies + supporting examples |
 | [CAPABILITY-EVIDENCE-MAP.md](CAPABILITY-EVIDENCE-MAP.md) | Method stages and capability → proof map |
@@ -18,7 +21,7 @@ The portfolio audit is retained here for transparency. It is intentionally **not
 
 ## Profile entry point
 
-[README — recruiter quick path](../README.md#recruiter-quick-path-3-minutes)
+[README — recruiter quick path](../README.md#recruiter-quick-path)
 
 ## Guardrails
 

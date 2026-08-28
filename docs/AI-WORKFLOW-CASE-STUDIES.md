@@ -124,7 +124,7 @@ Automation is most valuable when it makes verification repeatable, not when it m
 | **Chapter Reader** | Local-first Mac utility: offline TTS, one-command install, privacy-first writing review | [Repository](https://github.com/heyitschien/chapter-reader) · [install-mac-app.sh](https://github.com/heyitschien/chapter-reader/blob/main/install-mac-app.sh) | Personal productivity utility, not a SaaS product |
 | **LingoPilot public demo** | GitHub-native localization QA: pseudo-loc, screenshots, reviewable automation output | [sample-bot-pr.md](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md) | Public demo; private engine/dashboard not published |
 | **AI YouTube Content** | Content-system design: standards, episode packages, production and publishing workflows | [production-workflow.md](https://github.com/heyitschien/ai-youtube-content/blob/main/docs/production-workflow.md) | Content operations system, not a shipped app |
-| **Career Operating System** | Private job-search operating system: role research, proof routing, follow-ups — same ambiguity → evidence → decision loop | Summarized on the [public profile](https://github.com/heyitschien) only | Private; no application data published |
+| **Career Operating System** | Private operating system: role research, proof routing, follow-ups — same ambiguity → evidence → decision loop | [Public-safe case study](CAREER-OPERATING-SYSTEM-CASE-STUDY.md) | Private; no application data published |
 
 ---
 
