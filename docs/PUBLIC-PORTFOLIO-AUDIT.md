@@ -2,7 +2,7 @@
 
 Recruiter-facing audit of the six primary public repositories referenced from this profile.
 
-**Date:** 2026-07-19  
+**Date:** 2026-08-28
 **Method:** Inspected each repository README and key docs via GitHub API; validated deep links with HTTP checks from this profile pass.  
 **Scope:** Presentation and evidence routing — not a request to rewrite every repo in this PR.
 
@@ -158,15 +158,42 @@ Deferred to other repositories (documented above, not edited in this PR):
 
 ---
 
+## Exact six-repository pin order
+
+Apply this order manually only after the autonomous case-study repository is
+merged, its links are checked, and the profile is reviewed while logged out:
+
+1. [`cousin-radio`](https://github.com/heyitschien/cousin-radio) — shipped
+   public-beta product; homepage `https://cousinradio.com`
+2. [`autonomous-lab-case-study`](https://github.com/heyitschien/autonomous-lab-case-study)
+   — public-safe systems case study; no homepage until a public deployment
+   exists
+3. [`chrome-extension-tester-mcp`](https://github.com/heyitschien/chrome-extension-tester-mcp)
+   — working open-source AI-assisted QA tool
+4. [`product-support-triage-sample`](https://github.com/heyitschien/product-support-triage-sample)
+   — synthetic support and escalation case
+5. [`next-i18next-sample`](https://github.com/heyitschien/next-i18next-sample)
+   — public localization QA concept demo
+6. [`chapter-reader`](https://github.com/heyitschien/chapter-reader) —
+   shipped local Mac utility
+
+The paid-client and Career OS case studies live in this profile repository and
+belong in the recruiter quick path and LinkedIn Featured section; they do not
+need separate pins. Do not pin the private `career-development` repository or
+the empty/unmerged autonomous repository.
+
 ## Manual GitHub profile sidebar cleanup
 
 Repository README edits cannot control all GitHub profile-sidebar fields. Complete these in GitHub → Settings → Public profile:
 
-- [ ] Confirm LinkedIn URL in the GitHub sidebar matches the README (`https://www.linkedin.com/in/chien-escalera-duong/`)
+- [ ] Change the bio to `Implementation Systems · AI Enablement · Technical Operations · Los Angeles / Pacific Time`
+- [ ] Confirm LinkedIn URL matches the README (`https://www.linkedin.com/in/chien-escalera-duong/`)
 - [ ] Remove duplicate YouTube URLs from the sidebar
-- [ ] Replace unexplained raw Gist URL unless it serves a clear portfolio purpose
-- [ ] Retain one useful website/portfolio link
+- [ ] Replace the unexplained raw Gist URL unless it serves a clear portfolio purpose
+- [ ] Retain one useful website/portfolio link after the universal portfolio URL is live and verified
 - [ ] Keep location accurate (Los Angeles, CA / Pacific Time)
+- [ ] Apply the exact six-repository pin order above
+- [ ] Verify the profile logged out on desktop and mobile
 
 ---
 

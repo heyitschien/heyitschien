@@ -15,21 +15,21 @@ I combine paid client delivery, high-volume customer operations, safety-critical
 
 ## Recruiter quick path
 
-1. **[Review the Career Development Operating System](https://github.com/heyitschien/career-development)** — opportunity research, scoring, concurrent workstreams, AI-agent handoffs, validation, and human-only decision gates
-2. **[Visit Cousin Radio](https://cousinradio.com)** — shipped product work spanning discovery, requirements, troubleshooting, and deployment
-3. **[See the AI-assisted QA workflow](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md)** — repeatable screenshot, console, and expected-versus-actual evidence
-4. **[Read the completed support case](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md)** — customer communication, investigation, escalation, and durable handoff
+1. **[Review the paid client implementation](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md)** — discovery, requirements, GitHub/Vercel delivery, workflow setup, client enablement, and handoff
+2. **[Read the autonomous systems case study](https://github.com/heyitschien/autonomous-lab-case-study)** — bounded requirements, integration sequencing, validation, and human risk gates
+3. **[Visit Cousin Radio](https://cousinradio.com)** — shipped product work spanning discovery, requirements, troubleshooting, and deployment
+4. **[See the AI-assisted QA workflow](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md)** — repeatable screenshot, console, and expected-versus-actual evidence
 
 ## What I bring
 
 | Capability | Evidence |
 | --- | --- |
-| Workflow discovery and requirements | Paid client implementation; [Career Development OS](https://github.com/heyitschien/career-development); [Cousin Radio employer proof](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md) |
-| AI-agent coordination with human accountability | [AI-orchestrated systems overview](docs/AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md); [workflow case studies](docs/AI-WORKFLOW-CASE-STUDIES.md) |
+| Workflow discovery and requirements | [Paid client case study](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md); [Cousin Radio employer proof](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md) |
+| AI-agent coordination with human accountability | [Autonomous systems case study](https://github.com/heyitschien/autonomous-lab-case-study); [implementation + AI systems overview](docs/IMPLEMENTATION-AI-SYSTEMS.md) |
 | Validation, QA, and failing-layer diagnosis | [Chrome Extension Tester MCP](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md); [localization QA example](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md) |
 | Client communication and enablement | Paid client walkthrough and handoff; 7,000+ independent customer interactions with a 4.9-star record; [support case](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md) |
 | Product delivery and deployment | [Cousin Radio](https://cousinradio.com); [Chapter Reader](https://github.com/heyitschien/chapter-reader) |
-| Documentation and reusable operations | [Career Development OS](https://github.com/heyitschien/career-development); [AI YouTube production workflow](https://github.com/heyitschien/ai-youtube-content/blob/main/docs/production-workflow.md) |
+| Documentation and reusable operations | [Career OS public summary](docs/CAREER-OPERATING-SYSTEM-CASE-STUDY.md); [AI YouTube production workflow](https://github.com/heyitschien/ai-youtube-content/blob/main/docs/production-workflow.md) |
 
 ## Selected work
 
@@ -39,9 +39,9 @@ Led discovery for a real-estate client, translated priorities into tracked imple
 
 ### Career Development Operating System
 
-A GitHub-based operating system that researches and scores opportunities, tracks concurrent workstreams, packages evidence, and coordinates AI agents through durable handoffs. Applications, external messages, and irreversible decisions remain human-controlled.
+A public-safe summary of a private GitHub-based operating system that researches and scores opportunities, tracks concurrent workstreams, packages evidence, and coordinates AI agents through durable handoffs. Applications, external messages, and irreversible decisions remain human-controlled.
 
-**[Explore the repository →](https://github.com/heyitschien/career-development)**
+**[Read the public-safe case study →](docs/CAREER-OPERATING-SYSTEM-CASE-STUDY.md)**
 
 ### Cousin Radio
 

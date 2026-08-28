@@ -2,7 +2,7 @@
 
 This map translates capabilities into employer value and the strongest public-safe evidence.
 
-Profile routing table (shorter): [README capability → evidence](../README.md#capability--evidence). Portfolio scope notes: [PUBLIC-PORTFOLIO-AUDIT.md](PUBLIC-PORTFOLIO-AUDIT.md).
+Profile routing table (shorter): [README capability → evidence](../README.md#what-i-bring). Public-safe implementation overview: [IMPLEMENTATION-AI-SYSTEMS.md](IMPLEMENTATION-AI-SYSTEMS.md). Portfolio scope notes: [PUBLIC-PORTFOLIO-AUDIT.md](PUBLIC-PORTFOLIO-AUDIT.md).
 
 ## Method stages → employer value
 
@@ -33,9 +33,9 @@ Full methodology: [AI-Orchestrated Systems Engineering](AI-ORCHESTRATED-SYSTEMS-
 | Local-first product thinking | Balances usability, privacy, and setup | [Chapter Reader](https://github.com/heyitschien/chapter-reader) · [install-mac-app.sh](https://github.com/heyitschien/chapter-reader/blob/main/install-mac-app.sh) | Product support, implementation, desktop tooling |
 | Content-system design | Structures standards, packages, and publishing workflows | [production-workflow.md](https://github.com/heyitschien/ai-youtube-content/blob/main/docs/production-workflow.md) | Content operations, AI workflow support |
 | Documentation systems | Maintains durable context and handoffs | [triage sample](https://github.com/heyitschien/product-support-triage-sample) · [Chapter Reader](https://github.com/heyitschien/chapter-reader) | Support, onboarding, implementation |
-| Workflow orchestration | Routes work across models, repos, issues, and validation | [SUPPORT-USE-CASE.md](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md) · [sample-bot-pr.md](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md) | AI operations, product operations |
+| Workflow orchestration | Routes work across models, repos, issues, and validation | [Autonomous systems case study](https://github.com/heyitschien/autonomous-lab-case-study) · [SUPPORT-USE-CASE.md](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md) | Implementation, AI operations, product operations |
 | Cross-model synthesis | Compares perspectives into one accountable direction | [Methodology](AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md) · [Case studies](AI-WORKFLOW-CASE-STUDIES.md) | AI operations, solutions, systems analysis |
-| Transferable methodology | Reuses the same ambiguity → evidence → revision loop | [Case studies](AI-WORKFLOW-CASE-STUDIES.md) · [Methodology](AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md#the-repeatable-methodology) | Implementation, AI operations, product operations |
+| Transferable methodology | Reuses the same ambiguity → evidence → revision loop | [Implementation + AI Systems](IMPLEMENTATION-AI-SYSTEMS.md) · [Case studies](AI-WORKFLOW-CASE-STUDIES.md) | Implementation, AI operations, product operations |
 
 ## Recruiter summary
 
