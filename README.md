@@ -1,126 +1,86 @@
 # Hi, I'm Chien Escalera Duong
 
-**Implementation & Product Support · Technical Operations · AI Workflow Builder**  
-Onboarding · Troubleshooting · Customer Communication · Documentation · QA Validation  
-Los Angeles, CA / Pacific Time · Open to remote implementation, onboarding, product support, technical support, and AI workflow operations roles
+**Implementation Systems · AI Enablement · Technical Operations**  
+Workflow Discovery · Requirements · Technical Translation · Client Enablement · Validation  
+Los Angeles, CA / Pacific Time · Open to remote-friendly implementation, AI enablement, solutions, and technical-operations roles
 
-I help users and teams move from setup confusion to clear, documented next steps. I combine calm customer communication, structured troubleshooting, accurate handoffs, and AI-assisted workflows to turn messy problems into repeatable, evidence-backed work.
+I turn messy real-world processes into workflows people can understand, test, and operate. My working loop is:
 
-### Why I do this
+```text
+Discover the workflow → define requirements and rules → configure the system
+→ validate expected vs. actual → enable the user → document the handoff
+```
 
-I believe powerful technology matters only when people can **understand it, trust it, and use it**. I want to keep becoming more capable at understanding complex systems and turning that capability into practical tools, workflows, and clarity that help people move forward.
+I combine paid client delivery, high-volume customer operations, safety-critical production discipline, and hands-on AI-assisted systems work. I use AI to accelerate research, implementation, and documentation while remaining accountable for requirements, review, validation, and final decisions.
 
-**Why:** help powerful technology become genuinely useful to people.  
-**How:** learn systems quickly, reduce ambiguity, connect people and tools, use AI as leverage, document decisions, and validate with evidence.  
-**What:** implementation, product support, AI operations, technical enablement, workflow systems, and useful products.
+## Recruiter quick path
 
-**[Read the deeper Why → How → What perspective →](docs/WHY-HOW-WHAT.md)**
+1. **[Review the Career Development Operating System](https://github.com/heyitschien/career-development)** — opportunity research, scoring, concurrent workstreams, AI-agent handoffs, validation, and human-only decision gates
+2. **[Visit Cousin Radio](https://cousinradio.com)** — shipped product work spanning discovery, requirements, troubleshooting, and deployment
+3. **[See the AI-assisted QA workflow](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md)** — repeatable screenshot, console, and expected-versus-actual evidence
+4. **[Read the completed support case](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md)** — customer communication, investigation, escalation, and durable handoff
 
----
+## What I bring
 
-## Recruiter quick path (~3 minutes)
+| Capability | Evidence |
+| --- | --- |
+| Workflow discovery and requirements | Paid client implementation; [Career Development OS](https://github.com/heyitschien/career-development); [Cousin Radio employer proof](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md) |
+| AI-agent coordination with human accountability | [AI-orchestrated systems overview](docs/AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md); [workflow case studies](docs/AI-WORKFLOW-CASE-STUDIES.md) |
+| Validation, QA, and failing-layer diagnosis | [Chrome Extension Tester MCP](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md); [localization QA example](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md) |
+| Client communication and enablement | Paid client walkthrough and handoff; 7,000+ independent customer interactions with a 4.9-star record; [support case](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md) |
+| Product delivery and deployment | [Cousin Radio](https://cousinradio.com); [Chapter Reader](https://github.com/heyitschien/chapter-reader) |
+| Documentation and reusable operations | [Career Development OS](https://github.com/heyitschien/career-development); [AI YouTube production workflow](https://github.com/heyitschien/ai-youtube-content/blob/main/docs/production-workflow.md) |
 
-1. **[Read the completed support case](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md)** — ticket ownership, customer reply, escalation
-2. **[Visit the live product](https://cousinradio.com)** — Cousin Radio · [Review employer proof](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md)
-3. **[See the QA workflow](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md)** — AI-assisted validation with screenshots and logs
+## Selected work
 
----
+### Paid client website and lead-workflow implementation
 
-## Flagship proof
+Led discovery for a real-estate client, translated priorities into tracked implementation work, configured and delivered a Next.js web presence through GitHub and Vercel, supported domain and Google presence, and provided a client walkthrough and handoff. Client-private details remain private, and open dependencies are not presented as completed work.
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <p><strong>Support judgment</strong><br />
-      <a href="https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md">Product Support Triage Sample</a></p>
-      <p>
-        <a href="https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md">
-          <img src="assets/portfolio/support-triage-preview.jpg" alt="Product Support Triage Sample preview — synthetic support case showing ticket ownership, investigation, and handoff" width="100%" />
-        </a>
-      </p>
-      <p>Synthetic case: calm triage, customer communication, and evidence-backed escalation.</p>
-      <p><a href="https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md"><strong>Read the completed case →</strong></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <p><strong>Shipped product</strong><br />
-      <a href="https://cousinradio.com">Cousin Radio</a></p>
-      <p>
-        <a href="https://cousinradio.com">
-          <img src="assets/portfolio/cousin-radio-preview.jpg" alt="Cousin Radio live product preview — family music platform landing experience" width="100%" />
-        </a>
-      </p>
-      <p>Public-beta family music product with deployment ownership and layered troubleshooting proof.</p>
-      <p><a href="https://cousinradio.com"><strong>Visit the live product →</strong></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <p><strong>AI-assisted QA</strong><br />
-      <a href="https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md">Chrome Extension Tester MCP</a></p>
-      <p>
-        <a href="https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md">
-          <img src="assets/portfolio/mcp-qa-preview.jpg" alt="Chrome Extension Tester MCP preview — AI-assisted browser QA workflow for Chrome extensions" width="100%" />
-        </a>
-      </p>
-      <p>Working open-source tool for repeatable screenshot and console evidence in extension support.</p>
-      <p><a href="https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md"><strong>See the QA workflow →</strong></a></p>
-    </td>
-  </tr>
-</table>
+### Career Development Operating System
 
----
+A GitHub-based operating system that researches and scores opportunities, tracks concurrent workstreams, packages evidence, and coordinates AI agents through durable handoffs. Applications, external messages, and irreversible decisions remain human-controlled.
+
+**[Explore the repository →](https://github.com/heyitschien/career-development)**
+
+### Cousin Radio
+
+A public-beta family music product showing the path from user observation to requirements, AI-assisted implementation, troubleshooting, validation, and deployment decisions.
+
+**[Visit the product →](https://cousinradio.com)** · **[Review employer proof →](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md)**
+
+### AI-assisted QA and support evidence
+
+A working open-source browser-testing tool and a synthetic support case showing how I collect evidence, compare expected versus actual behavior, communicate status, and hand off without making the next owner restart.
+
+**[See the QA workflow →](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md)** · **[Read the support case →](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md)**
 
 ## How I work
 
-```text
-Intake → clarify expected behavior → collect evidence → identify the failing layer
-→ communicate status → resolve or escalate → document the outcome
-```
+- Start with the person, process, and real friction.
+- Convert ambiguity into requirements, owners, boundaries, and a success signal.
+- Coordinate the right human, AI, and technical capabilities.
+- Validate claims and outputs against evidence.
+- Train the user and document the path.
+- Keep consequential decisions human-owned.
 
-I compare expected vs. actual behavior, capture evidence early, communicate status clearly, and hand off with enough context that the next owner does not restart the investigation.
+## Technical foundation
 
----
-
-## Capabilities at a glance
-
-| Capability | Strongest public evidence |
-| --- | --- |
-| Support ownership, customer communication, and escalation | [Read the completed case](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md) · [View the customer response](https://github.com/heyitschien/product-support-triage-sample/blob/main/customer-reply.md) · [See the escalation handoff](https://github.com/heyitschien/product-support-triage-sample/blob/main/internal-escalation-note.md) |
-| Troubleshooting, QA, and evidence gathering | [See the QA workflow](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md) · [Explore the localization demo](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md) |
-| Product delivery and deployment | [Visit the live product](https://cousinradio.com) · [Review employer proof](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md) |
-| Documentation and workflow systems | [Chapter Reader](https://github.com/heyitschien/chapter-reader) · [AI YouTube production workflow](https://github.com/heyitschien/ai-youtube-content/blob/main/docs/production-workflow.md) |
-| AI-assisted orchestration and validation | [Capability overview](docs/AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md) · [Case studies](docs/AI-WORKFLOW-CASE-STUDIES.md) |
-
----
-
-## Supporting work
-
-| Project | Capability | Status | Start here |
-| --- | --- | --- | --- |
-| **Chapter Reader** | Local app delivery / setup clarity | Shipped Mac utility | [Open the project](https://github.com/heyitschien/chapter-reader) |
-| **LingoPilot demo** | Localization / config QA | Public concept demo | [Explore the localization demo](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md) |
-| **AI YouTube Content** | Content-system design | Active content ops repo | [Review the production workflow](https://github.com/heyitschien/ai-youtube-content/blob/main/docs/production-workflow.md) |
-
----
-
-## AI-assisted workflow
-
-I coordinate AI tools, repositories, documentation, and validation to turn unclear problems into reviewable, evidence-backed work. Repeatable loop: question → research → challenge → synthesis → architecture → implementation → evidence → revision. I remain accountable for framing, decisions, review, and acceptance.
-
-[Capability overview](docs/AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md) · [Case studies](docs/AI-WORKFLOW-CASE-STUDIES.md) · [Attribution](docs/MODEL-AND-TOOL-ATTRIBUTION.md)
-
----
+JavaScript · React · Next.js · HTML/CSS · GitHub · Vercel · REST API and JSON concepts · browser developer tools · Python and SQL fundamentals · workflow mapping · forms and validation logic · expected-versus-actual QA · Markdown documentation · Cursor · ChatGPT · Claude Code
 
 ## Background
 
-* High-volume customer-facing operations: Uber, Whole Foods
-* Safety-critical production teamwork: film / stunt work
-* Technical learning: JavaScript, React, Next.js, GitHub, REST API concepts, browser developer tools, Cursor, AI-assisted workflows
-* Certifications: Meta Front-End Developer, Google Cybersecurity, Google AI Essentials
+- High-volume customer operations: Uber and Whole Foods
+- Safety-critical collaboration: about ten years in film and television production
+- Paid independent client implementation
+- Certificates: Meta Front-End Developer, Google Cybersecurity, Google AI Essentials
+- Continuing coursework and hands-on learning in Python, human systems, AI workflows, and web delivery
 
-I bring a customer-facing technical-operations perspective: learning systems quickly, troubleshooting calmly, documenting clearly, and helping users move successfully from setup through launch.
-
----
+I am targeting work where technical systems meet real users: implementation, AI enablement, customer solutions, technical operations, and forward-deployed-style delivery.
 
 ## Contact
 
 **LinkedIn:** [chien-escalera-duong](https://www.linkedin.com/in/chien-escalera-duong/)  
 **Email:** [heyitschien@gmail.com](mailto:heyitschien@gmail.com)
+
+[Why → How → What](docs/WHY-HOW-WHAT.md) · [AI attribution](docs/MODEL-AND-TOOL-ATTRIBUTION.md)
