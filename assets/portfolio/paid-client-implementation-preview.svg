@@ -1,35 +1,81 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
   <title id="title">Paid client implementation workflow</title>
-  <desc id="desc">A public-safe implementation path from discovery through requirements, delivery, validation, and handoff.</desc>
-  <rect width="1200" height="675" fill="#f4efe7"/>
-  <rect x="55" y="55" width="1090" height="565" rx="28" fill="#fffaf3" stroke="#d8c8b6" stroke-width="4"/>
-  <text x="95" y="135" fill="#2f3a3d" font-family="Arial, sans-serif" font-size="38" font-weight="700">Paid client implementation</text>
-  <text x="95" y="180" fill="#6b625b" font-family="Arial, sans-serif" font-size="24">Discovery -&gt; delivery -&gt; handoff</text>
-  <g font-family="Arial, sans-serif" text-anchor="middle">
-    <g fill="#e6d4c2" stroke="#b99678" stroke-width="3">
-      <rect x="95" y="270" width="190" height="115" rx="18"/>
-      <rect x="335" y="270" width="190" height="115" rx="18"/>
-      <rect x="575" y="270" width="190" height="115" rx="18"/>
-      <rect x="815" y="270" width="250" height="115" rx="18"/>
+  <desc id="desc">A public-safe client implementation system moving from discovery and requirements to delivery, validation, and handoff.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7F1E8"/>
+      <stop offset="1" stop-color="#E8EFE9"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="940" y1="185" x2="1430" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F3E4D3"/>
+      <stop offset="1" stop-color="#D9E8E1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#paper)"/>
+  <circle cx="1500" cy="90" r="260" fill="#D9E8E1" opacity="0.72"/>
+  <circle cx="90" cy="840" r="210" fill="#EBD8C4" opacity="0.55"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="92" y="78" width="365" height="38" rx="19" fill="#DCEBE4" stroke="#85AFA1"/>
+    <circle cx="119" cy="97" r="6" fill="#2A695D"/>
+    <text x="140" y="104" fill="#2A695D" font-size="17" font-weight="700" letter-spacing="3">PAID IMPLEMENTATION - PUBLIC-SAFE</text>
+
+    <text x="92" y="210" fill="#193A37" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="700">From brief</text>
+    <text x="92" y="298" fill="#A86443" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="700">to handoff.</text>
+    <text x="96" y="360" fill="#536661" font-size="25">Requirements, delivery, and user enablement</text>
+    <text x="96" y="400" fill="#536661" font-size="25">for a real customer objective.</text>
+
+    <rect x="92" y="460" width="585" height="142" rx="18" fill="#FFFDF8" stroke="#CDBEAD" stroke-width="2"/>
+    <text x="126" y="504" fill="#A86443" font-size="16" font-weight="700" letter-spacing="3">IMPLEMENTATION PRINCIPLE</text>
+    <text x="126" y="548" fill="#193A37" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700">Make the system usable after delivery.</text>
+    <text x="126" y="580" fill="#536661" font-size="18">Open dependencies stay visible. Ownership stays clear.</text>
+
+    <rect x="785" y="78" width="720" height="524" rx="24" fill="#FFFDF8" stroke="#CDBEAD" stroke-width="3"/>
+    <rect x="785" y="78" width="720" height="58" rx="24" fill="#193A37"/>
+    <circle cx="823" cy="107" r="7" fill="#EBD8C4"/>
+    <circle cx="849" cy="107" r="7" fill="#A86443"/>
+    <circle cx="875" cy="107" r="7" fill="#85AFA1"/>
+    <text x="920" y="113" fill="#EAF3EE" font-size="16" font-weight="700" letter-spacing="2">CLIENT DELIVERY WORKSPACE</text>
+    <rect x="1264" y="94" width="200" height="30" rx="15" fill="#2A695D"/>
+    <text x="1292" y="114" fill="#EAF3EE" font-size="13" font-weight="700" letter-spacing="1">READY FOR HANDOFF</text>
+
+    <rect x="825" y="174" width="410" height="344" rx="16" fill="url(#screen)" stroke="#B8CEC4" stroke-width="2"/>
+    <text x="865" y="220" fill="#2A695D" font-size="15" font-weight="700" letter-spacing="3">PUBLIC PRESENCE</text>
+    <text x="865" y="270" fill="#193A37" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="700">Clear guidance</text>
+    <text x="865" y="318" fill="#193A37" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="700">when it matters.</text>
+    <rect x="865" y="360" width="190" height="44" rx="22" fill="#A86443"/>
+    <text x="896" y="388" fill="#FFFDF8" font-size="15" font-weight="700">Start a conversation</text>
+    <rect x="865" y="438" width="270" height="12" rx="6" fill="#B8CEC4"/>
+    <rect x="865" y="462" width="220" height="12" rx="6" fill="#D0DED6"/>
+    <rect x="1280" y="174" width="180" height="344" rx="16" fill="#193A37"/>
+    <text x="1310" y="220" fill="#9CCBC0" font-size="14" font-weight="700" letter-spacing="2">DELIVERY</text>
+    <circle cx="1330" cy="276" r="14" fill="#85AFA1"/>
+    <text x="1360" y="282" fill="#F7F1E8" font-size="18" font-weight="700">Configured</text>
+    <circle cx="1330" cy="340" r="14" fill="#85AFA1"/>
+    <text x="1360" y="346" fill="#F7F1E8" font-size="18" font-weight="700">Validated</text>
+    <circle cx="1330" cy="404" r="14" fill="#EBD8C4"/>
+    <text x="1360" y="410" fill="#F7F1E8" font-size="18" font-weight="700">Explained</text>
+    <circle cx="1330" cy="468" r="14" fill="#A86443"/>
+    <text x="1360" y="474" fill="#F7F1E8" font-size="18" font-weight="700">Handed off</text>
+
+    <text x="92" y="682" fill="#193A37" font-size="18" font-weight="700" letter-spacing="3">THE IMPLEMENTATION LOOP</text>
+    <rect x="92" y="720" width="1413" height="2" fill="#CDBEAD"/>
+    <g font-size="18" font-weight="700" text-anchor="middle">
+      <text x="220" y="782" fill="#2A695D">01 - DISCOVER</text>
+      <text x="535" y="782" fill="#2A695D">02 - STRUCTURE</text>
+      <text x="850" y="782" fill="#2A695D">03 - DELIVER + VALIDATE</text>
+      <text x="1265" y="782" fill="#A86443">04 - ENABLE + HAND OFF</text>
     </g>
-    <g fill="#2f3a3d" font-size="25" font-weight="700">
-      <text x="190" y="318">Discover</text>
-      <text x="430" y="318">Structure</text>
-      <text x="670" y="318">Deliver</text>
-      <text x="940" y="318">Enable &amp; hand off</text>
+    <g fill="#536661" font-size="16" text-anchor="middle">
+      <text x="220" y="814">real needs</text>
+      <text x="535" y="814">requirements + owners</text>
+      <text x="850" y="814">working system + proof</text>
+      <text x="1265" y="814">clear next action</text>
     </g>
-    <g fill="#6b625b" font-size="19">
-      <text x="190" y="352">real needs</text>
-      <text x="430" y="352">requirements</text>
-      <text x="670" y="352">GitHub + Vercel</text>
-      <text x="940" y="352">ownership + next steps</text>
-    </g>
+    <path d="M350 790H400M665 790H715M1060 790H1130" stroke="#A86443" stroke-width="3" stroke-linecap="round"/>
+    <path d="M391 780L405 790L391 800M706 780L720 790L706 800M1121 780L1135 790L1121 800" stroke="#A86443" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <text x="92" y="866" fill="#536661" font-size="18">Evidence is public-safe by design: client identity, private data, and unsupported outcomes stay out.</text>
   </g>
-  <g fill="#8b5e3c" font-family="Arial, sans-serif" font-size="42" font-weight="700" text-anchor="middle">
-    <text x="310" y="337">-&gt;</text>
-    <text x="550" y="337">-&gt;</text>
-    <text x="790" y="337">-&gt;</text>
-  </g>
-  <text x="95" y="505" fill="#2f3a3d" font-family="Arial, sans-serif" font-size="24">Public-safe proof of customer-facing implementation work</text>
-  <text x="95" y="548" fill="#6b625b" font-family="Arial, sans-serif" font-size="21">Known dependencies stay visible instead of being presented as complete.</text>
 </svg>

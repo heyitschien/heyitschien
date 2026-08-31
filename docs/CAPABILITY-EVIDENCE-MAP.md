@@ -2,7 +2,7 @@
 
 This map translates capabilities into employer value and the strongest public-safe evidence.
 
-Profile routing table (shorter): [README capability → evidence](../README.md#what-i-can-own). Public-safe implementation overview: [IMPLEMENTATION-AI-SYSTEMS.md](IMPLEMENTATION-AI-SYSTEMS.md). Portfolio scope notes: [PUBLIC-PORTFOLIO-AUDIT.md](PUBLIC-PORTFOLIO-AUDIT.md). Claim provenance: [PORTFOLIO-EVIDENCE-REGISTRY.md](PORTFOLIO-EVIDENCE-REGISTRY.md).
+Profile routing table (shorter): [README capability → evidence](../README.md#what-i-can-own). Public-safe implementation overview: [IMPLEMENTATION-AI-SYSTEMS.md](IMPLEMENTATION-AI-SYSTEMS.md). Public-safe case studies: [AI-WORKFLOW-CASE-STUDIES.md](AI-WORKFLOW-CASE-STUDIES.md).
 
 ## Method stages → employer value
 
@@ -21,7 +21,7 @@ Full methodology: [AI-Orchestrated Systems Engineering](AI-ORCHESTRATED-SYSTEMS-
 ## Capability → public evidence
 
 | Capability | What it means in practice | Strongest public evidence | Relevant roles |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Ambiguity reduction | Turns unclear goals into defined next steps | [CASE-OUTCOME.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md) | Implementation, onboarding, product support |
 | Structured troubleshooting | Separates symptoms, evidence, hypotheses, ownership | [completed case](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md) | Product support, customer operations, QA |
 | Customer-facing communication | Converts uncertainty into calm, actionable updates | [customer-reply.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/customer-reply.md) | Product support, customer success, implementation |

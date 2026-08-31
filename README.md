@@ -8,7 +8,8 @@ My strongest work sits between people, operations, and technology. I learn how t
 
 I use AI to expand my speed and technical range while remaining accountable for objectives, scope, requirements, architecture, privacy, validation, communication, consequential decisions, and final approval.
 
-**Los Angeles, California · Pacific Time**<br />
+Los Angeles, California · Pacific Time
+
 Best fit: customer-facing AI implementation and technical solutions work where real operational needs must become reliable systems.
 
 ```text
@@ -17,56 +18,63 @@ Discover → Structure → Configure & Integrate → Validate → Enable → Doc
 
 ## Start here
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>01 · Paid independent implementation</strong><br />
-      <a href="docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md"><strong>Client Implementation</strong></a></p>
-      <p>
-        <a href="docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md">
-          <img src="assets/portfolio/paid-client-implementation-preview.svg" alt="Public-safe paid client implementation workflow from discovery through requirements, delivery, validation, and handoff" width="100%" />
-        </a>
-      </p>
-      <p>Led a paid client engagement from discovery through delivery and handoff: requirements, tracked implementation, Next.js delivery through GitHub and Vercel, domain and Google-presence support, validation, client walkthrough, and documented next actions. Client identity and private details stay protected.</p>
-      <p><a href="docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md"><strong>Read the case study →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>02 · Shipped product</strong><br />
-      <a href="https://cousinradio.com"><strong>Cousin Radio</strong></a></p>
-      <p>
-        <a href="https://cousinradio.com">
-          <img src="assets/portfolio/cousin-radio-preview.jpg" alt="Cousin Radio live product preview — family music platform" width="100%" />
-        </a>
-      </p>
-      <p>Led a live family music product from user observation through requirements, AI-assisted implementation, troubleshooting, QA, deployment, and continued iteration.</p>
-      <p><a href="https://cousinradio.com"><strong>Visit the live product →</strong></a> · <a href="https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md"><strong>Review the evidence →</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>03 · Public-safe systems case study</strong><br />
-      <a href="https://github.com/heyitschien/autonomous-lab-case-study"><strong>Autonomous Systems Lab</strong></a></p>
-      <p>
-        <a href="https://github.com/heyitschien/autonomous-lab-case-study">
-          <img src="assets/portfolio/autonomous-systems-preview.svg" alt="Trading research systems diagram — bounded market-data evaluation, logged evidence, and human risk review" width="100%" />
-        </a>
-      </p>
-      <p>A public-safe case study showing how I turn complex systems work into bounded requirements, sequenced integrations, observable validation, documented ownership, and human review before consequential actions. It is research documentation, not a production financial system.</p>
-      <p><a href="https://github.com/heyitschien/autonomous-lab-case-study"><strong>Review the case study →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>04 · Working open-source agent tooling</strong><br />
-      <a href="https://github.com/heyitschien/chrome-extension-tester-mcp"><strong>Chrome Extension Tester MCP</strong></a></p>
-      <p>
-        <a href="https://github.com/heyitschien/chrome-extension-tester-mcp">
-          <img src="assets/portfolio/mcp-qa-preview.jpg" alt="Chrome Extension Tester MCP preview — AI-assisted browser QA workflow" width="100%" />
-        </a>
-      </p>
-      <p>Built an open-source MCP and Playwright developer tool that lets AI agents launch, inspect, test, and collect browser evidence from Chrome extensions.</p>
-      <p><a href="https://github.com/heyitschien/chrome-extension-tester-mcp"><strong>Explore the project →</strong></a></p>
-    </td>
-  </tr>
-</table>
+<!-- markdownlint-disable MD033 -->
+<details open>
+  <summary><strong>01 · Paid independent implementation</strong> · Client Implementation</summary>
+
+<p align="center">
+  <a href="docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md">
+    <img src="assets/portfolio/paid-client-implementation-preview.svg" alt="Public-safe paid client implementation workflow from discovery through requirements, delivery, validation, and handoff" width="720" />
+  </a>
+</p>
+
+Led a paid client engagement from discovery through delivery and handoff: requirements, tracked implementation, Next.js delivery through GitHub and Vercel, domain and Google-presence support, validation, client walkthrough, and documented next actions. Client identity and private details stay protected.
+
+**[Read the case study →](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md)**
+</details>
+
+<details open>
+  <summary><strong>02 · Shipped product</strong> · Cousin Radio</summary>
+
+<p align="center">
+  <a href="https://cousinradio.com">
+    <img src="assets/portfolio/cousin-radio-preview.jpg" alt="Cousin Radio live product preview — family music platform" width="720" />
+  </a>
+</p>
+
+Led a live family music product from user observation through requirements, AI-assisted implementation, troubleshooting, QA, deployment, and continued iteration.
+
+**[Visit the live product →](https://cousinradio.com)** · **[Review the evidence →](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md)**
+</details>
+
+<details open>
+  <summary><strong>03 · Public-safe systems case study</strong> · Autonomous Systems Lab</summary>
+
+<p align="center">
+  <a href="https://github.com/heyitschien/autonomous-lab-case-study">
+    <img src="assets/portfolio/autonomous-systems-preview.svg" alt="Trading research systems diagram — bounded market-data evaluation, logged evidence, and human risk review" width="720" />
+  </a>
+</p>
+
+A public-safe case study showing how I turn complex systems work into bounded requirements, sequenced integrations, observable validation, documented ownership, and human review before consequential actions. It is research documentation, not a production financial system.
+
+**[Review the case study →](https://github.com/heyitschien/autonomous-lab-case-study)**
+</details>
+
+<details open>
+  <summary><strong>04 · Working open-source agent tooling</strong> · Chrome Extension Tester MCP</summary>
+
+<p align="center">
+  <a href="https://github.com/heyitschien/chrome-extension-tester-mcp">
+    <img src="assets/portfolio/mcp-qa-preview.jpg" alt="Chrome Extension Tester MCP preview — AI-assisted browser QA workflow" width="720" />
+  </a>
+</p>
+
+Built an open-source MCP and Playwright developer tool that lets AI agents launch, inspect, test, and collect browser evidence from Chrome extensions.
+
+**[Explore the project →](https://github.com/heyitschien/chrome-extension-tester-mcp)**
+</details>
+<!-- markdownlint-enable MD033 -->
 
 ## What I can own
 
@@ -138,4 +146,4 @@ My background taught me to stay calm around complexity, communicate clearly acro
 **LinkedIn:** [chien-escalera-duong](https://www.linkedin.com/in/chien-escalera-duong/)  
 **Email:** [heyitschien@gmail.com](mailto:heyitschien@gmail.com)
 
-[Why → How → What](docs/WHY-HOW-WHAT.md) · [Capability evidence](docs/CAPABILITY-EVIDENCE-MAP.md) · [Evidence registry](docs/PORTFOLIO-EVIDENCE-REGISTRY.md) · [AI attribution](docs/MODEL-AND-TOOL-ATTRIBUTION.md)
+[Why → How → What](docs/WHY-HOW-WHAT.md) · [Capability evidence](docs/CAPABILITY-EVIDENCE-MAP.md) · [AI attribution](docs/MODEL-AND-TOOL-ATTRIBUTION.md)

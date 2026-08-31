@@ -15,11 +15,9 @@ implementation, product support, technical operations, and human accountability.
 | [AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md](AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md) | Repeatable methodology, transferability, domain guardrails |
 | [AI-WORKFLOW-CASE-STUDIES.md](AI-WORKFLOW-CASE-STUDIES.md) | Three flagship case studies + supporting examples |
 | [CAPABILITY-EVIDENCE-MAP.md](CAPABILITY-EVIDENCE-MAP.md) | Method stages and capability → proof map |
-| [PORTFOLIO-EVIDENCE-REGISTRY.md](PORTFOLIO-EVIDENCE-REGISTRY.md) | Claim provenance, source mapping, readiness, and link audit |
 | [MODEL-AND-TOOL-ATTRIBUTION.md](MODEL-AND-TOOL-ATTRIBUTION.md) | Transparent AI / tool / human roles |
-| [PUBLIC-PORTFOLIO-AUDIT.md](PUBLIC-PORTFOLIO-AUDIT.md) | Internal portfolio audit, priorities, and manual GitHub sidebar follow-ups |
 
-The portfolio audit is retained here for transparency. It is intentionally **not** part of the main profile README recruiter journey.
+Internal audit and evidence-registry files remain local-only and are not part of the public recruiter documentation.
 
 ## Profile entry point
 

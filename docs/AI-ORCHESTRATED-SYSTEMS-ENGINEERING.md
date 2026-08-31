@@ -91,7 +91,7 @@ This capability is visible across public projects including:
 
 Some private systems are larger implementations of the same loop. Public documentation does not disclose private architecture, collaborator details, or unverifiable performance claims. The public claim is the method and the public evidence — not private results.
 
-See [AI workflow case studies](AI-WORKFLOW-CASE-STUDIES.md), the [implementation + AI systems overview](IMPLEMENTATION-AI-SYSTEMS.md), the [capability evidence map](CAPABILITY-EVIDENCE-MAP.md), and the [portfolio audit](PUBLIC-PORTFOLIO-AUDIT.md).
+See [AI workflow case studies](AI-WORKFLOW-CASE-STUDIES.md), the [implementation + AI systems overview](IMPLEMENTATION-AI-SYSTEMS.md), and the [capability evidence map](CAPABILITY-EVIDENCE-MAP.md).
 
 ## Where this method can apply
 
