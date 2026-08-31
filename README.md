@@ -22,12 +22,22 @@ Discover → Structure → Configure & Integrate → Validate → Enable → Doc
     <td width="50%" valign="top">
       <p><strong>01 · Real client implementation</strong><br />
       <a href="docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md"><strong>Paid Client Implementation</strong></a></p>
+      <p>
+        <a href="docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md">
+          <img src="assets/cindy-zavala.png" alt="Cindy Zavala real-estate website — clear seller guidance and private consultation call to action" width="100%" />
+        </a>
+      </p>
       <p>Led a paid client engagement from discovery through delivery and handoff: requirements, tracked implementation, Next.js delivery through GitHub and Vercel, domain and Google-presence support, validation, client walkthrough, and documented next actions.</p>
       <p><a href="docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md"><strong>Read the case study →</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <p><strong>02 · Shipped product</strong><br />
       <a href="https://cousinradio.com"><strong>Cousin Radio</strong></a></p>
+      <p>
+        <a href="https://cousinradio.com">
+          <img src="assets/portfolio/cousin-radio-preview.jpg" alt="Cousin Radio live product preview — family music platform" width="100%" />
+        </a>
+      </p>
       <p>Led a live family music product from user observation through requirements, AI-assisted implementation, troubleshooting, QA, deployment, and continued iteration.</p>
       <p><a href="https://cousinradio.com"><strong>Visit the live product →</strong></a> · <a href="https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md"><strong>Review the evidence →</strong></a></p>
     </td>
@@ -36,12 +46,22 @@ Discover → Structure → Configure & Integrate → Validate → Enable → Doc
     <td width="50%" valign="top">
       <p><strong>03 · Complex systems implementation</strong><br />
       <a href="https://github.com/heyitschien/autonomous-lab-case-study"><strong>Autonomous Systems Lab</strong></a></p>
+      <p>
+        <a href="https://github.com/heyitschien/autonomous-lab-case-study">
+          <img src="assets/portfolio/autonomous-systems-preview.svg" alt="Trading research systems diagram — bounded market-data evaluation, logged evidence, and human risk review" width="100%" />
+        </a>
+      </p>
       <p>A public-safe case study showing how I turn complex systems work into bounded requirements, sequenced integrations, observable validation, documented ownership, and human review before consequential actions.</p>
       <p><a href="https://github.com/heyitschien/autonomous-lab-case-study"><strong>Review the case study →</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <p><strong>04 · Open-source agent tooling</strong><br />
       <a href="https://github.com/heyitschien/chrome-extension-tester-mcp"><strong>Chrome Extension Tester MCP</strong></a></p>
+      <p>
+        <a href="https://github.com/heyitschien/chrome-extension-tester-mcp">
+          <img src="assets/portfolio/mcp-qa-preview.jpg" alt="Chrome Extension Tester MCP preview — AI-assisted browser QA workflow" width="100%" />
+        </a>
+      </p>
       <p>Built an open-source MCP and Playwright developer tool that lets AI agents launch, inspect, test, and collect browser evidence from Chrome extensions.</p>
       <p><a href="https://github.com/heyitschien/chrome-extension-tester-mcp"><strong>Explore the project →</strong></a></p>
     </td>
