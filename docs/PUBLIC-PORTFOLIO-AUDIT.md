@@ -2,7 +2,7 @@
 
 Recruiter-facing audit of the six primary public repositories referenced from this profile.
 
-**Date:** 2026-08-28
+**Date:** 2026-08-31
 **Method:** Inspected each repository README and key docs via GitHub API; validated deep links with HTTP checks from this profile pass.  
 **Scope:** Presentation and evidence routing — not a request to rewrite every repo in this PR.
 
@@ -25,6 +25,7 @@ Classification:
 | [chapter-reader](https://github.com/heyitschien/chapter-reader) | Shipped local utility | Strong | [README](https://github.com/heyitschien/chapter-reader) · [install-mac-app.sh](https://github.com/heyitschien/chapter-reader/blob/main/install-mac-app.sh) | Optional |
 | [next-i18next-sample](https://github.com/heyitschien/next-i18next-sample) | Concept demo | Strong | [sample-bot-pr.md](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md) | Optional |
 | [ai-youtube-content](https://github.com/heyitschien/ai-youtube-content) | Content system | Medium | [production-workflow.md](https://github.com/heyitschien/ai-youtube-content/blob/main/docs/production-workflow.md) | High value |
+| [autonomous-lab-case-study](https://github.com/heyitschien/autonomous-lab-case-study) | Public-safe case study | Strong | [implementation walkthrough](https://github.com/heyitschien/autonomous-lab-case-study/blob/main/docs/IMPLEMENTATION-WALKTHROUGH.md) | High value |
 
 ---
 
@@ -35,8 +36,8 @@ Classification:
 | What it is | Synthetic product-support triage case |
 | Capability | Ticket ownership, customer reply, escalation, documentation |
 | Status | Synthetic / educational sample — explicitly not a real customer case |
-| Fastest review path | CASE-OUTCOME → customer-reply → internal-escalation-note (~5 min) |
-| Best evidence | `CASE-OUTCOME.md`, `customer-reply.md`, `internal-escalation-note.md`, `ROLE-MAPPING.md` |
+| Fastest review path | CASE-OUTCOME → customer-reply → ROLE-MAPPING (~5 min) |
+| Best evidence | `CASE-OUTCOME.md`, `customer-reply.md`, `ROLE-MAPPING.md` |
 | Demo / screenshot | Screenshots and triage-flow assets under `docs/screenshots/` |
 | Limitations | Not live employer ticket history |
 
@@ -70,7 +71,7 @@ Classification:
 | --- | --- |
 | What it is | MCP server for AI-assisted Chrome extension testing |
 | Capability | AI-assisted QA, browser evidence, support instrumentation |
-| Status | Working open-source tool + concept demo (npm + CI) |
+| Status | Working open-source tool + concept demo (CI; npm identity not used as proof) |
 | Fastest review path | Recruiter quick scan → SUPPORT-USE-CASE.md |
 | Best evidence | `docs/SUPPORT-USE-CASE.md`, real screenshots under `docs/screenshots/`, console evidence under `docs/evidence/`, CI workflow |
 | Demo / screenshot | Yes — working popup + blank-popup repro + browser session (`npm run capture-evidence`) |
@@ -140,6 +141,23 @@ Classification:
 
 ---
 
+## 7. autonomous-lab-case-study
+
+| Question | Finding |
+| --- | --- |
+| What it is | Public-safe case-study surface for AI-assisted systems work |
+| Capability | Requirements, integration sequencing, observable validation, risk gates, and human review |
+| Status | Educational/public-safe documentation; not a production financial system |
+| Fastest review path | README → implementation walkthrough → validation and risk gates |
+| Best evidence | Repository README and the two walkthrough documents |
+| Demo / screenshot | Workflow diagram and written validation artifacts |
+| Limitations | No public application source, deployment, live trading, financial performance, or proprietary strategy |
+
+**Priority: High value** — public packet exists, but the linked source work order
+and publication gate remain open.
+
+---
+
 ## Profile-repo changes in this PR
 
 Implemented here (safe, in-profile only):
@@ -179,8 +197,7 @@ merged, its links are checked, and the profile is reviewed while logged out:
 
 The paid-client and Career OS case studies live in this profile repository and
 belong in the recruiter quick path and LinkedIn Featured section; they do not
-need separate pins. Do not pin the private `career-development` repository or
-the empty/unmerged autonomous repository.
+need separate pins. Do not pin the private `career-development` repository.
 
 ## Manual GitHub profile sidebar cleanup
 

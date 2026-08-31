@@ -2,7 +2,8 @@
 
 Public profile documentation for recruiter routing, capability evidence, and AI-assisted workflow attribution.
 
-Primary employment story remains **implementation / product support / technical operations**. AI orchestration is a differentiator, not the job title.
+Primary recruiter story is **AI Implementation & Systems Builder**, grounded in
+implementation, product support, technical operations, and human accountability.
 
 ## Start here
 
@@ -14,6 +15,7 @@ Primary employment story remains **implementation / product support / technical 
 | [AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md](AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md) | Repeatable methodology, transferability, domain guardrails |
 | [AI-WORKFLOW-CASE-STUDIES.md](AI-WORKFLOW-CASE-STUDIES.md) | Three flagship case studies + supporting examples |
 | [CAPABILITY-EVIDENCE-MAP.md](CAPABILITY-EVIDENCE-MAP.md) | Method stages and capability → proof map |
+| [PORTFOLIO-EVIDENCE-REGISTRY.md](PORTFOLIO-EVIDENCE-REGISTRY.md) | Claim provenance, source mapping, readiness, and link audit |
 | [MODEL-AND-TOOL-ATTRIBUTION.md](MODEL-AND-TOOL-ATTRIBUTION.md) | Transparent AI / tool / human roles |
 | [PUBLIC-PORTFOLIO-AUDIT.md](PUBLIC-PORTFOLIO-AUDIT.md) | Internal portfolio audit, priorities, and manual GitHub sidebar follow-ups |
 
@@ -21,7 +23,7 @@ The portfolio audit is retained here for transparency. It is intentionally **not
 
 ## Profile entry point
 
-[README — recruiter quick path](../README.md#recruiter-quick-path)
+[README — recruiter path](../README.md#start-here)
 
 ## Guardrails
 

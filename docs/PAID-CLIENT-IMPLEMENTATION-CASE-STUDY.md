@@ -7,7 +7,8 @@
 **Role:** Discovery, requirements translation, configuration, delivery,
 client walkthrough, and handoff  
 **Public boundary:** Client identity, private analytics, credentials, and
-unverified follow-up details are omitted.
+unverified follow-up details are omitted. Client permission for public
+portfolio use remains a separate approval gate.
 
 ## Client objective
 
@@ -62,8 +63,9 @@ language. The handoff separated:
 ## Result and limitations
 
 The result was a working public web presence with a lead-capture workflow,
-deployment path, and client handoff. This is evidence of paid independent
-implementation work and customer enablement.
+deployment path, and client handoff. This supports a bounded claim of paid
+independent implementation work and customer enablement; it is not a
+substitute for client approval of any public case-study details.
 
 It is **not** evidence of formal B2B SaaS implementation tenure, enterprise
 portfolio ownership, banking implementation, or production software

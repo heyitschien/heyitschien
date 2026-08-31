@@ -2,7 +2,7 @@
 
 This map translates capabilities into employer value and the strongest public-safe evidence.
 
-Profile routing table (shorter): [README capability → evidence](../README.md#what-i-bring). Public-safe implementation overview: [IMPLEMENTATION-AI-SYSTEMS.md](IMPLEMENTATION-AI-SYSTEMS.md). Portfolio scope notes: [PUBLIC-PORTFOLIO-AUDIT.md](PUBLIC-PORTFOLIO-AUDIT.md).
+Profile routing table (shorter): [README capability → evidence](../README.md#what-i-can-own). Public-safe implementation overview: [IMPLEMENTATION-AI-SYSTEMS.md](IMPLEMENTATION-AI-SYSTEMS.md). Portfolio scope notes: [PUBLIC-PORTFOLIO-AUDIT.md](PUBLIC-PORTFOLIO-AUDIT.md). Claim provenance: [PORTFOLIO-EVIDENCE-REGISTRY.md](PORTFOLIO-EVIDENCE-REGISTRY.md).
 
 ## Method stages → employer value
 
@@ -23,7 +23,7 @@ Full methodology: [AI-Orchestrated Systems Engineering](AI-ORCHESTRATED-SYSTEMS-
 | Capability | What it means in practice | Strongest public evidence | Relevant roles |
 |---|---|---|---|
 | Ambiguity reduction | Turns unclear goals into defined next steps | [CASE-OUTCOME.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md) | Implementation, onboarding, product support |
-| Structured troubleshooting | Separates symptoms, evidence, hypotheses, ownership | [CASE-OUTCOME.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md) · [escalation note](https://github.com/heyitschien/product-support-triage-sample/blob/main/internal-escalation-note.md) | Product support, customer operations, QA |
+| Structured troubleshooting | Separates symptoms, evidence, hypotheses, ownership | [completed case](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md) | Product support, customer operations, QA |
 | Customer-facing communication | Converts uncertainty into calm, actionable updates | [customer-reply.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/customer-reply.md) | Product support, customer success, implementation |
 | Deployment ownership | Moves work into usable deployed products | [cousinradio.com](https://cousinradio.com) · [EMPLOYER-PROOF.md](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md) | Implementation, onboarding, technical operations |
 | Product and system judgment | Connects user need, constraints, and operational quality | [EMPLOYER-PROOF.md](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md) · [Chapter Reader](https://github.com/heyitschien/chapter-reader) | Implementation, solutions, product operations |

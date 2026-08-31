@@ -35,7 +35,6 @@ I defined the scenario, structured the investigation, separated customer-facing 
 | --- | --- |
 | Full case outcome | [CASE-OUTCOME.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md) |
 | Customer reply | [customer-reply.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/customer-reply.md) |
-| Escalation handoff | [internal-escalation-note.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/internal-escalation-note.md) |
 | Role mapping | [ROLE-MAPPING.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/ROLE-MAPPING.md) |
 
 **Result**  
@@ -86,7 +85,7 @@ AI can accelerate implementation; product coherence still depends on sustained h
 ## Flagship 3 — Chrome Extension Tester MCP
 
 **What it is**  
-A working open-source MCP tool for AI-assisted Chrome extension QA: real browser control, screenshots, UI interaction, and console evidence. Published on npm; CI present.
+A working open-source MCP tool for AI-assisted Chrome extension QA: real browser control, screenshots, UI interaction, and console evidence. CI is present; npm is not used as evidence because the public package identity does not match this repository.
 
 **My responsibility**  
 I shaped the use case around repeatable AI-assisted QA, set workflow boundaries, coordinated implementation, and insisted on observable browser behavior instead of trusting generated code alone.

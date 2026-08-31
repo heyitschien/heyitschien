@@ -20,14 +20,14 @@ Discover → Structure → Configure & Integrate → Validate → Enable → Doc
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p><strong>01 · Real client implementation</strong><br />
-      <a href="docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md"><strong>Paid Client Implementation</strong></a></p>
+      <p><strong>01 · Paid independent implementation</strong><br />
+      <a href="docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md"><strong>Client Implementation</strong></a></p>
       <p>
         <a href="docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md">
-          <img src="assets/cindy-zavala.png" alt="Cindy Zavala real-estate website — clear seller guidance and private consultation call to action" width="100%" />
+          <img src="assets/portfolio/paid-client-implementation-preview.svg" alt="Public-safe paid client implementation workflow from discovery through requirements, delivery, validation, and handoff" width="100%" />
         </a>
       </p>
-      <p>Led a paid client engagement from discovery through delivery and handoff: requirements, tracked implementation, Next.js delivery through GitHub and Vercel, domain and Google-presence support, validation, client walkthrough, and documented next actions.</p>
+      <p>Led a paid client engagement from discovery through delivery and handoff: requirements, tracked implementation, Next.js delivery through GitHub and Vercel, domain and Google-presence support, validation, client walkthrough, and documented next actions. Client identity and private details stay protected.</p>
       <p><a href="docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md"><strong>Read the case study →</strong></a></p>
     </td>
     <td width="50%" valign="top">
@@ -44,18 +44,18 @@ Discover → Structure → Configure & Integrate → Validate → Enable → Doc
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p><strong>03 · Complex systems implementation</strong><br />
+      <p><strong>03 · Public-safe systems case study</strong><br />
       <a href="https://github.com/heyitschien/autonomous-lab-case-study"><strong>Autonomous Systems Lab</strong></a></p>
       <p>
         <a href="https://github.com/heyitschien/autonomous-lab-case-study">
           <img src="assets/portfolio/autonomous-systems-preview.svg" alt="Trading research systems diagram — bounded market-data evaluation, logged evidence, and human risk review" width="100%" />
         </a>
       </p>
-      <p>A public-safe case study showing how I turn complex systems work into bounded requirements, sequenced integrations, observable validation, documented ownership, and human review before consequential actions.</p>
+      <p>A public-safe case study showing how I turn complex systems work into bounded requirements, sequenced integrations, observable validation, documented ownership, and human review before consequential actions. It is research documentation, not a production financial system.</p>
       <p><a href="https://github.com/heyitschien/autonomous-lab-case-study"><strong>Review the case study →</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <p><strong>04 · Open-source agent tooling</strong><br />
+      <p><strong>04 · Working open-source agent tooling</strong><br />
       <a href="https://github.com/heyitschien/chrome-extension-tester-mcp"><strong>Chrome Extension Tester MCP</strong></a></p>
       <p>
         <a href="https://github.com/heyitschien/chrome-extension-tester-mcp">
@@ -90,6 +90,19 @@ Discover → Structure → Configure & Integrate → Validate → Enable → Doc
 - Enable the user through clear communication, walkthroughs, documentation, and handoff.
 - Turn repeated learning into reusable workflows, playbooks, and system improvements.
 
+```mermaid
+flowchart LR
+    discover["Discover workflow"] --> requirements["Structure requirements"]
+    requirements --> configure["Configure or integrate"]
+    configure --> validate["Validate expected vs. actual"]
+    validate --> humanGate{"Consequential action?"}
+    humanGate -->|"Yes"| humanReview["Human review"]
+    humanGate -->|"No"| enable["Enable the user"]
+    humanReview --> enable
+    enable --> handoff["Document the handoff"]
+    handoff --> improve["Improve the next implementation"]
+```
+
 ## AI implementation and accountability
 
 AI accelerates my research, implementation, testing, and documentation. I remain responsible for defining the objective, setting boundaries, deciding requirements, reviewing outputs, validating behavior, protecting privacy, communicating status, and approving the final result.
@@ -100,9 +113,9 @@ I do not present AI-generated output as proof by itself. A claim becomes credibl
 
 ## Supporting systems
 
-- **[Career Development Operating System](docs/CAREER-OPERATING-SYSTEM-CASE-STUDY.md)** — a public-safe view of a private GitHub-based system for research, prioritization, evidence routing, agent coordination, durable handoffs, and human decision gates.
+- **[Career Development Operating System](docs/CAREER-OPERATING-SYSTEM-CASE-STUDY.md)** — a public-safe view of a private workflow system for research, prioritization, evidence routing, agent coordination, durable handoffs, and human decision gates.
 - **[Chapter Reader](https://github.com/heyitschien/chapter-reader)** — a shipped utility demonstrating product setup, documentation, and practical delivery.
-- **[Localization QA](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md)** — configuration and validation evidence for multilingual product behavior.
+- **[Localization QA demo](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md)** — configuration and validation evidence for multilingual product behavior.
 - **[Product Support Triage Sample](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md)** — a synthetic supporting case showing calm investigation, customer communication, evidence collection, and escalation.
 
 ## Technical foundation
@@ -125,4 +138,4 @@ My background taught me to stay calm around complexity, communicate clearly acro
 **LinkedIn:** [chien-escalera-duong](https://www.linkedin.com/in/chien-escalera-duong/)  
 **Email:** [heyitschien@gmail.com](mailto:heyitschien@gmail.com)
 
-[Why → How → What](docs/WHY-HOW-WHAT.md) · [Capability evidence](docs/CAPABILITY-EVIDENCE-MAP.md) · [AI attribution](docs/MODEL-AND-TOOL-ATTRIBUTION.md)
+[Why → How → What](docs/WHY-HOW-WHAT.md) · [Capability evidence](docs/CAPABILITY-EVIDENCE-MAP.md) · [Evidence registry](docs/PORTFOLIO-EVIDENCE-REGISTRY.md) · [AI attribution](docs/MODEL-AND-TOOL-ATTRIBUTION.md)
