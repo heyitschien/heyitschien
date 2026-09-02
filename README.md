@@ -2,19 +2,19 @@
 
 ## AI Implementation & Systems Builder
 
-I turn ambiguous real-world workflows into working, testable systems—from discovery and requirements through integration, validation, user enablement, and handoff.
+I turn ambiguous real-world workflows into working, testable systems—from discovery through delivery, validation, and handoff.
 
-My strongest work sits between people, operations, and technology. I learn how the work actually happens, translate that understanding into requirements and business rules, coordinate implementation, verify expected versus actual behavior, and leave behind documentation another person can use.
+I sit between people, operations, and technology: translate real work into requirements, coordinate implementation, verify expected versus actual behavior, and leave documentation another person can use. I use AI for speed and range—and stay accountable for scope, privacy, validation, and final approval.
 
-I use AI to expand my speed and technical range while remaining accountable for objectives, scope, requirements, architecture, privacy, validation, communication, consequential decisions, and final approval.
+Los Angeles, California · Pacific Time · Thousands of customer interactions · 4.9-star service record · Paid client delivery
 
-Los Angeles, California · Pacific Time
-
-Best fit: customer-facing AI implementation and technical solutions work where real operational needs must become reliable systems.
+Best fit: customer-facing AI implementation and technical solutions work where operational needs must become reliable systems.
 
 ```text
 Discover → Structure → Configure & Integrate → Validate → Enable → Document → Improve
 ```
+
+**New here?** Start with **01** (paid delivery), then **[What I can own](#what-i-can-own)** if you're hiring.
 
 ## Start here
 
@@ -38,7 +38,7 @@ Led a paid client engagement from discovery through delivery and handoff: requir
 
 <p align="center">
   <a href="https://cousinradio.com">
-    <img src="assets/portfolio/cousin-radio-preview.jpg" alt="Cousin Radio live product preview — family music platform" width="720" />
+    <img src="assets/portfolio/cousin-radio-preview.svg" alt="Cousin Radio live product preview — family music platform" width="720" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@ Led a live family music product from user observation through requirements, AI-a
 
 <p align="center">
   <a href="https://github.com/heyitschien/autonomous-lab-case-study">
-    <img src="assets/portfolio/autonomous-systems-preview.png" alt="Trading research systems diagram — bounded market-data evaluation, logged evidence, and human risk review" width="720" />
+    <img src="assets/portfolio/autonomous-systems-preview.svg" alt="Trading research systems diagram — bounded market-data evaluation, logged evidence, and human risk review" width="720" />
   </a>
 </p>
 
@@ -66,7 +66,7 @@ A public-safe case study showing how I turn complex systems work into bounded re
 
 <p align="center">
   <a href="https://github.com/heyitschien/chrome-extension-tester-mcp">
-    <img src="assets/portfolio/mcp-qa-preview.jpg" alt="Chrome Extension Tester MCP preview — AI-assisted browser QA workflow" width="720" />
+    <img src="assets/portfolio/mcp-qa-preview.svg" alt="Chrome Extension Tester MCP preview — AI-assisted browser QA workflow" width="720" />
   </a>
 </p>
 
@@ -119,29 +119,37 @@ I do not present AI-generated output as proof by itself. A claim becomes credibl
 
 **[Read how I use AI and technical tools →](docs/MODEL-AND-TOOL-ATTRIBUTION.md)**
 
-## Supporting systems
+<!-- markdownlint-disable MD033 -->
+<details>
+  <summary><strong>More proof and background</strong></summary>
+
+### Supporting systems
 
 - **[Career Development Operating System](docs/CAREER-OPERATING-SYSTEM-CASE-STUDY.md)** — a public-safe view of a private workflow system for research, prioritization, evidence routing, agent coordination, durable handoffs, and human decision gates.
 - **[Chapter Reader](https://github.com/heyitschien/chapter-reader)** — a shipped utility demonstrating product setup, documentation, and practical delivery.
 - **[Localization QA demo](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md)** — configuration and validation evidence for multilingual product behavior.
 - **[Product Support Triage Sample](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md)** — a synthetic supporting case showing calm investigation, customer communication, evidence collection, and escalation.
 
-## Technical foundation
+### Technical foundation
 
-JavaScript · React · Next.js · HTML/CSS · GitHub · Vercel · REST API and JSON concepts · Model Context Protocol · Playwright · browser developer tools · Python and SQL fundamentals · workflow mapping · forms and validation logic · expected-versus-actual QA · CI and deployment awareness · Markdown documentation · Cursor · ChatGPT · Claude Code · Gemini
+**Stack:** JavaScript · React · Next.js · GitHub · Vercel · Playwright · MCP · Python · SQL · Cursor · ChatGPT · Claude Code · Gemini
 
-## Background
+### Background
 
 - Thousands of independent customer interactions with a 4.9-star service record
 - Current experience in high-volume customer operations
 - Approximately ten years in safety-critical film and television production
 - Paid independent client implementation and handoff experience
 - Meta Front-End Developer, Google Cybersecurity, and Google AI Essentials certificates
-- Continuing hands-on development in AI workflows, technical implementation, web delivery, Python, and human-centered systems
 
 My background taught me to stay calm around complexity, communicate clearly across different kinds of people, adapt quickly when conditions change, and remain accountable for the final result.
 
+</details>
+<!-- markdownlint-enable MD033 -->
+
 ## Contact
+
+**Hiring for implementation, solutions, or technical customer-facing work?**
 
 **LinkedIn:** [chien-escalera-duong](https://www.linkedin.com/in/chien-escalera-duong/)  
 **Email:** [heyitschien@gmail.com](mailto:heyitschien@gmail.com)

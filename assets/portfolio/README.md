@@ -1,11 +1,15 @@
 # Portfolio preview assets
 
-Optimized previews for the public GitHub profile README flagship trio.
+Unified 1600×900 SVG previews for the public GitHub profile README proof cards.
 
-| File | Source project | Source asset |
+| File | Project | Theme |
 | --- | --- | --- |
-| `support-triage-preview.jpg` | product-support-triage-sample | `docs/screenshots/social-preview.png` |
-| `cousin-radio-preview.jpg` | cousin-radio | `assets/screenshots/01-landing-hero.png` |
-| `mcp-qa-preview.jpg` | chrome-extension-tester-mcp | `docs/assets/banner.png` |
+| `paid-client-implementation-preview.svg` | Paid client implementation | Warm cream / sage |
+| `cousin-radio-preview.svg` | Cousin Radio | Warm plum / coral |
+| `autonomous-systems-preview.svg` | Autonomous Systems Lab | Dark teal / trading research |
+| `mcp-qa-preview.svg` | Chrome Extension Tester MCP | Slate blue / agent tooling |
+| `cousin-radio-preview.jpg` | Cousin Radio (legacy) | Superseded by SVG |
+| `mcp-qa-preview.jpg` | MCP QA (legacy) | Superseded by SVG |
+| `support-triage-preview.jpg` | Product support triage sample | Supporting evidence |
 
-Resized to 1200×675 JPEG for profile load performance. Original projects remain the source of truth.
+All active README cards use SVG for visual consistency and crisp rendering at any width.

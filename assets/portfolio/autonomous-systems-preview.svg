@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Autonomous Systems Lab preview</title>
+  <desc id="desc">Public-safe trading research systems with bounded evaluation, logged evidence, and human risk review.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07131F"/>
+      <stop offset="1" stop-color="#102A38"/>
+    </linearGradient>
+    <linearGradient id="chart" x1="930" y1="250" x2="1450" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A4D57"/>
+      <stop offset="1" stop-color="#0C2633"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1600" height="900" fill="url(#background)"/>
+  <path d="M0 96H1600M0 192H1600M0 288H1600M0 384H1600M0 480H1600M0 576H1600M0 672H1600M0 768H1600M160 0V900M320 0V900M480 0V900M640 0V900M800 0V900M960 0V900M1120 0V900M1280 0V900M1440 0V900" stroke="#9ED9D0" stroke-opacity="0.06"/>
+  <circle cx="1510" cy="70" r="250" fill="#1D5360" opacity="0.24"/>
+  <circle cx="80" cy="850" r="230" fill="#14605A" opacity="0.18"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="90" y="72" width="430" height="38" rx="19" fill="#123B43" stroke="#3C7F80"/>
+    <circle cx="116" cy="91" r="6" fill="#8FE0C7" filter="url(#glow)"/>
+    <text x="137" y="99" fill="#BDEDE2" font-size="17" font-weight="700" letter-spacing="3">SYSTEMS CASE STUDY - PUBLIC-SAFE</text>
+    <text x="90" y="183" fill="#F5F1E8" font-family="Georgia, 'Times New Roman', serif" font-size="70" font-weight="700">Systems with</text>
+    <text x="90" y="263" fill="#8FE0C7" font-family="Georgia, 'Times New Roman', serif" font-size="70" font-weight="700">measurable gates.</text>
+    <text x="94" y="321" fill="#B8C7D3" font-size="24">Autonomous Systems Lab</text>
+    <text x="94" y="358" fill="#B8C7D3" font-size="24">for research, evaluation, and human review.</text>
+    <rect x="90" y="414" width="610" height="128" rx="18" fill="#0D202D" stroke="#315667"/>
+    <text x="122" y="455" fill="#9ED9D0" font-size="16" font-weight="700" letter-spacing="3">OPERATING PRINCIPLE</text>
+    <text x="122" y="498" fill="#F5F1E8" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700">A trading system is not a black box.</text>
+    <text x="122" y="530" fill="#B8C7D3" font-size="18">Bound the objective. Observe the evidence. Review the decision.</text>
+    <rect x="790" y="72" width="720" height="684" rx="22" fill="#0A1D29" stroke="#315667" stroke-width="2"/>
+    <text x="830" y="124" fill="#F5F1E8" font-size="18" font-weight="700" letter-spacing="2">RESEARCH CONSOLE</text>
+    <rect x="1275" y="96" width="190" height="34" rx="17" fill="#3E3020" stroke="#A9824C"/>
+    <circle cx="1298" cy="113" r="5" fill="#F0B96A"/>
+    <text x="1312" y="119" fill="#F0D7A8" font-size="14" font-weight="700" letter-spacing="1">SIMULATION ONLY</text>
+    <rect x="830" y="160" width="640" height="385" rx="14" fill="url(#chart)" stroke="#315667"/>
+    <text x="860" y="200" fill="#9AB9C2" font-size="15" font-weight="700" letter-spacing="2">MARKET DATA / EVALUATION VIEW</text>
+    <text x="860" y="236" fill="#F5F1E8" font-size="27" font-weight="700">Signal path - bounded sample</text>
+    <text x="1342" y="236" fill="#8FE0C7" font-size="18" font-weight="700" letter-spacing="1">TEST DATA</text>
+    <path d="M880 300H1420M880 370H1420M880 440H1420M880 510H1420" stroke="#9ED9D0" stroke-opacity="0.13"/>
+    <path d="M900 450L940 430L980 442L1020 390L1060 408L1100 365L1140 380L1180 330L1220 350L1260 305L1300 320L1340 285L1380 302L1420 270" stroke="#8FE0C7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+    <path d="M900 468C1000 450 1080 420 1160 390C1240 360 1320 337 1420 300" stroke="#F0B96A" stroke-width="2" stroke-dasharray="8 10" opacity="0.9"/>
+    <rect x="830" y="580" width="200" height="132" rx="14" fill="#102C39" stroke="#315667"/>
+    <text x="856" y="620" fill="#9ED9D0" font-size="15" font-weight="700" letter-spacing="2">SIGNALS</text>
+    <text x="856" y="660" fill="#F5F1E8" font-size="25" font-weight="700">3 tracked</text>
+    <text x="856" y="690" fill="#8EA9B2" font-size="15">Inputs are explicit.</text>
+    <rect x="1050" y="580" width="200" height="132" rx="14" fill="#102C39" stroke="#315667"/>
+    <text x="1076" y="620" fill="#9ED9D0" font-size="15" font-weight="700" letter-spacing="2">EVIDENCE</text>
+    <text x="1076" y="660" fill="#F5F1E8" font-size="25" font-weight="700">Logged</text>
+    <text x="1076" y="690" fill="#8EA9B2" font-size="15">Expected vs. actual.</text>
+    <rect x="1270" y="580" width="200" height="132" rx="14" fill="#1C403F" stroke="#8FE0C7"/>
+    <text x="1296" y="620" fill="#BDEDE2" font-size="15" font-weight="700" letter-spacing="2">RISK GATE</text>
+    <text x="1296" y="660" fill="#F5F1E8" font-size="25" font-weight="700">Human review</text>
+    <text x="1296" y="690" fill="#BDEDE2" font-size="15">No blind execution.</text>
+    <text x="94" y="615" fill="#F5F1E8" font-size="18" font-weight="700" letter-spacing="2">RESEARCH FLOW</text>
+    <rect x="90" y="650" width="610" height="106" rx="16" fill="#102C39" stroke="#315667"/>
+    <text x="122" y="691" fill="#9ED9D0" font-size="17" font-weight="700" letter-spacing="2">DEFINE</text>
+    <text x="122" y="724" fill="#F5F1E8" font-size="21" font-weight="700">Constraints</text>
+    <path d="M260 707H305" stroke="#8FE0C7" stroke-width="3"/>
+    <path d="M295 697L310 707L295 717" stroke="#8FE0C7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="335" y="691" fill="#9ED9D0" font-size="17" font-weight="700" letter-spacing="2">INTEGRATE</text>
+    <text x="335" y="724" fill="#F5F1E8" font-size="21" font-weight="700">Signals</text>
+    <path d="M450 707H495" stroke="#8FE0C7" stroke-width="3"/>
+    <path d="M485 697L500 707L485 717" stroke="#8FE0C7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="525" y="691" fill="#9ED9D0" font-size="17" font-weight="700" letter-spacing="2">EVALUATE</text>
+    <text x="525" y="724" fill="#F5F1E8" font-size="21" font-weight="700">Evidence</text>
+    <text x="92" y="866" fill="#8EA9B2" font-size="18">Research documentation only - not a production financial system.</text>
+  </g>
+</svg>

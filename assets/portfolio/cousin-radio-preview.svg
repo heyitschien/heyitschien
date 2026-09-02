@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Cousin Radio shipped product preview</title>
+  <desc id="desc">A live family music product from user observation through deployment and iteration.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8F0F5"/>
+      <stop offset="1" stop-color="#EDE4F0"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="940" y1="185" x2="1430" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F3E8F8"/>
+      <stop offset="1" stop-color="#E8D8EE"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#paper)"/>
+  <circle cx="1500" cy="90" r="260" fill="#E8D8EE" opacity="0.72"/>
+  <circle cx="90" cy="840" r="210" fill="#F0D4C8" opacity="0.55"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="92" y="77" width="430" height="40" rx="20" fill="#EDE0F0" stroke="#9B7DB0"/>
+    <circle cx="119" cy="97" r="6" fill="#6B4D82"/>
+    <text x="140" y="104" fill="#6B4D82" font-size="17" font-weight="700" letter-spacing="3">SHIPPED PRODUCT - LIVE</text>
+    <text x="92" y="210" fill="#3D2A4F" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="700">Family music,</text>
+    <text x="92" y="298" fill="#C76B5A" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="700">built to ship.</text>
+    <text x="96" y="360" fill="#5C4F66" font-size="25">Cousin Radio - from user observation</text>
+    <text x="96" y="400" fill="#5C4F66" font-size="25">through deployment and iteration.</text>
+    <rect x="92" y="460" width="585" height="170" rx="18" fill="#FFFDF8" stroke="#C9B8D4" stroke-width="2"/>
+    <text x="126" y="504" fill="#C76B5A" font-size="16" font-weight="700" letter-spacing="3">PRODUCT PRINCIPLE</text>
+    <text x="126" y="546" fill="#3D2A4F" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700">Start with the person</text>
+    <text x="126" y="580" fill="#3D2A4F" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700">using the product.</text>
+    <text x="126" y="608" fill="#5C4F66" font-size="16">Requirements follow observation. Evidence follows deployment.</text>
+    <rect x="785" y="78" width="720" height="524" rx="24" fill="#FFFDF8" stroke="#C9B8D4" stroke-width="3"/>
+    <rect x="785" y="78" width="720" height="58" rx="24" fill="#3D2A4F"/>
+    <circle cx="823" cy="107" r="7" fill="#F0D4C8"/>
+    <circle cx="849" cy="107" r="7" fill="#C76B5A"/>
+    <circle cx="875" cy="107" r="7" fill="#9B7DB0"/>
+    <text x="920" y="113" fill="#F5EFF8" font-size="16" font-weight="700" letter-spacing="2">COUSIN RADIO - PRODUCT CONSOLE</text>
+    <rect x="1284" y="94" width="180" height="30" rx="15" fill="#6B4D82"/>
+    <text x="1312" y="114" fill="#F5EFF8" font-size="13" font-weight="700" letter-spacing="1">LIVE AT COUSINRADIO.COM</text>
+    <rect x="825" y="174" width="410" height="344" rx="16" fill="url(#screen)" stroke="#C9B8D4" stroke-width="2"/>
+    <text x="865" y="220" fill="#6B4D82" font-size="15" font-weight="700" letter-spacing="3">FAMILY MUSIC PLATFORM</text>
+    <text x="865" y="270" fill="#3D2A4F" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="700">Create a</text>
+    <text x="865" y="318" fill="#3D2A4F" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="700">family song.</text>
+    <rect x="865" y="360" width="190" height="44" rx="22" fill="#C76B5A"/>
+    <text x="896" y="388" fill="#FFFDF8" font-size="15" font-weight="700">Start creating</text>
+    <rect x="865" y="438" width="270" height="12" rx="6" fill="#C9B8D4"/>
+    <rect x="865" y="462" width="220" height="12" rx="6" fill="#DDD0E4"/>
+    <rect x="1260" y="174" width="200" height="344" rx="16" fill="#3D2A4F"/>
+    <text x="1290" y="220" fill="#D4BFE0" font-size="14" font-weight="700" letter-spacing="2">DELIVERY</text>
+    <circle cx="1310" cy="276" r="14" fill="#9B7DB0"/>
+    <text x="1340" y="282" fill="#F8F0F5" font-size="18" font-weight="700">Observed</text>
+    <circle cx="1310" cy="340" r="14" fill="#9B7DB0"/>
+    <text x="1340" y="346" fill="#F8F0F5" font-size="18" font-weight="700">Built</text>
+    <circle cx="1310" cy="404" r="14" fill="#F0D4C8"/>
+    <text x="1340" y="410" fill="#F8F0F5" font-size="18" font-weight="700">Deployed</text>
+    <circle cx="1310" cy="468" r="14" fill="#C76B5A"/>
+    <text x="1340" y="474" fill="#F8F0F5" font-size="18" font-weight="700">Iterating</text>
+    <text x="92" y="682" fill="#3D2A4F" font-size="18" font-weight="700" letter-spacing="3">THE PRODUCT LOOP</text>
+    <rect x="92" y="720" width="1413" height="2" fill="#C9B8D4"/>
+    <g font-size="18" font-weight="700" text-anchor="middle">
+      <text x="220" y="782" fill="#6B4D82">01 - OBSERVE</text>
+      <text x="535" y="782" fill="#6B4D82">02 - REQUIREMENTS</text>
+      <text x="850" y="782" fill="#6B4D82">03 - BUILD + QA</text>
+      <text x="1265" y="782" fill="#C76B5A">04 - SHIP + ITERATE</text>
+    </g>
+    <g fill="#5C4F66" font-size="16" text-anchor="middle">
+      <text x="220" y="814">real family use</text>
+      <text x="535" y="814">acceptance criteria</text>
+      <text x="850" y="814">working software</text>
+      <text x="1265" y="814">live product proof</text>
+    </g>
+    <path d="M350 790H400M665 790H715M1060 790H1130" stroke="#C76B5A" stroke-width="3" stroke-linecap="round"/>
+    <path d="M391 780L405 790L391 800M706 780L720 790L706 800M1121 780L1135 790L1121 800" stroke="#C76B5A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="92" y="866" fill="#5C4F66" font-size="18">Live product evidence: deployment, QA, and continued iteration on cousinradio.com.</text>
+  </g>
+</svg>
