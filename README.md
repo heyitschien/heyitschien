@@ -52,7 +52,7 @@ Led a live family music product from user observation through requirements, AI-a
 
 <p align="center">
   <a href="https://github.com/heyitschien/autonomous-lab-case-study">
-    <img src="assets/portfolio/autonomous-systems-preview.svg" alt="Trading research systems diagram — bounded market-data evaluation, logged evidence, and human risk review" width="720" />
+    <img src="assets/portfolio/autonomous-systems-preview.png" alt="Trading research systems diagram — bounded market-data evaluation, logged evidence, and human risk review" width="720" />
   </a>
 </p>
 

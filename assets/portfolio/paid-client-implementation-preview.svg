@@ -17,7 +17,7 @@
   <circle cx="90" cy="840" r="210" fill="#EBD8C4" opacity="0.55"/>
 
   <g font-family="Arial, Helvetica, sans-serif">
-    <rect x="92" y="78" width="365" height="38" rx="19" fill="#DCEBE4" stroke="#85AFA1"/>
+    <rect x="92" y="77" width="500" height="40" rx="20" fill="#DCEBE4" stroke="#85AFA1"/>
     <circle cx="119" cy="97" r="6" fill="#2A695D"/>
     <text x="140" y="104" fill="#2A695D" font-size="17" font-weight="700" letter-spacing="3">PAID IMPLEMENTATION - PUBLIC-SAFE</text>
 
@@ -26,10 +26,11 @@
     <text x="96" y="360" fill="#536661" font-size="25">Requirements, delivery, and user enablement</text>
     <text x="96" y="400" fill="#536661" font-size="25">for a real customer objective.</text>
 
-    <rect x="92" y="460" width="585" height="142" rx="18" fill="#FFFDF8" stroke="#CDBEAD" stroke-width="2"/>
+    <rect x="92" y="460" width="585" height="170" rx="18" fill="#FFFDF8" stroke="#CDBEAD" stroke-width="2"/>
     <text x="126" y="504" fill="#A86443" font-size="16" font-weight="700" letter-spacing="3">IMPLEMENTATION PRINCIPLE</text>
-    <text x="126" y="548" fill="#193A37" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700">Make the system usable after delivery.</text>
-    <text x="126" y="580" fill="#536661" font-size="18">Open dependencies stay visible. Ownership stays clear.</text>
+    <text x="126" y="546" fill="#193A37" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700">Make the system usable</text>
+    <text x="126" y="580" fill="#193A37" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700">after delivery.</text>
+    <text x="126" y="608" fill="#536661" font-size="16">Open dependencies stay visible. Ownership stays clear.</text>
 
     <rect x="785" y="78" width="720" height="524" rx="24" fill="#FFFDF8" stroke="#CDBEAD" stroke-width="3"/>
     <rect x="785" y="78" width="720" height="58" rx="24" fill="#193A37"/>
@@ -48,16 +49,16 @@
     <text x="896" y="388" fill="#FFFDF8" font-size="15" font-weight="700">Start a conversation</text>
     <rect x="865" y="438" width="270" height="12" rx="6" fill="#B8CEC4"/>
     <rect x="865" y="462" width="220" height="12" rx="6" fill="#D0DED6"/>
-    <rect x="1280" y="174" width="180" height="344" rx="16" fill="#193A37"/>
-    <text x="1310" y="220" fill="#9CCBC0" font-size="14" font-weight="700" letter-spacing="2">DELIVERY</text>
-    <circle cx="1330" cy="276" r="14" fill="#85AFA1"/>
-    <text x="1360" y="282" fill="#F7F1E8" font-size="18" font-weight="700">Configured</text>
-    <circle cx="1330" cy="340" r="14" fill="#85AFA1"/>
-    <text x="1360" y="346" fill="#F7F1E8" font-size="18" font-weight="700">Validated</text>
-    <circle cx="1330" cy="404" r="14" fill="#EBD8C4"/>
-    <text x="1360" y="410" fill="#F7F1E8" font-size="18" font-weight="700">Explained</text>
-    <circle cx="1330" cy="468" r="14" fill="#A86443"/>
-    <text x="1360" y="474" fill="#F7F1E8" font-size="18" font-weight="700">Handed off</text>
+    <rect x="1260" y="174" width="200" height="344" rx="16" fill="#193A37"/>
+    <text x="1290" y="220" fill="#9CCBC0" font-size="14" font-weight="700" letter-spacing="2">DELIVERY</text>
+    <circle cx="1310" cy="276" r="14" fill="#85AFA1"/>
+    <text x="1340" y="282" fill="#F7F1E8" font-size="18" font-weight="700">Configured</text>
+    <circle cx="1310" cy="340" r="14" fill="#85AFA1"/>
+    <text x="1340" y="346" fill="#F7F1E8" font-size="18" font-weight="700">Validated</text>
+    <circle cx="1310" cy="404" r="14" fill="#EBD8C4"/>
+    <text x="1340" y="410" fill="#F7F1E8" font-size="18" font-weight="700">Explained</text>
+    <circle cx="1310" cy="468" r="14" fill="#A86443"/>
+    <text x="1340" y="474" fill="#F7F1E8" font-size="18" font-weight="700">Handed off</text>
 
     <text x="92" y="682" fill="#193A37" font-size="18" font-weight="700" letter-spacing="3">THE IMPLEMENTATION LOOP</text>
     <rect x="92" y="720" width="1413" height="2" fill="#CDBEAD"/>
