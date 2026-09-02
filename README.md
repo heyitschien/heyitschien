@@ -33,7 +33,7 @@ Led a paid client engagement from discovery through delivery and handoff: requir
 **[Read the case study →](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md)**
 </details>
 
-<details open>
+<details>
   <summary><strong>02 · Shipped product</strong> · Cousin Radio</summary>
 
 <p align="center">
@@ -47,7 +47,7 @@ Led a live family music product from user observation through requirements, AI-a
 **[Visit the live product →](https://cousinradio.com)** · **[Review the evidence →](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md)**
 </details>
 
-<details open>
+<details>
   <summary><strong>03 · Public-safe systems case study</strong> · Autonomous Systems Lab</summary>
 
 <p align="center">
@@ -61,7 +61,7 @@ A public-safe case study showing how I turn complex systems work into bounded re
 **[Review the case study →](https://github.com/heyitschien/autonomous-lab-case-study)**
 </details>
 
-<details open>
+<details>
   <summary><strong>04 · Working open-source agent tooling</strong> · Chrome Extension Tester MCP</summary>
 
 <p align="center">
