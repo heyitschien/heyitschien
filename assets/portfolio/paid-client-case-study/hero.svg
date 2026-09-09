@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 720" role="img" aria-labelledby="title desc">
-  <title id="title">Paid client implementation  from client need to reliable handoff</title>
+  <title id="title">Paid client implementation   from client need to reliable handoff</title>
   <desc id="desc">Implementation lifecycle from discovery through requirements, integration, validation, enablement, and handoff.</desc>
   <defs>
     <linearGradient id="paper" x1="0" y1="0" x2="1600" y2="720" gradientUnits="userSpaceOnUse">
@@ -14,7 +15,7 @@
   <g font-family="Arial, Helvetica, sans-serif">
     <rect x="72" y="56" width="430" height="38" rx="19" fill="#DCEBE4" stroke="#85AFA1"/>
     <circle cx="98" cy="75" r="6" fill="#2A695D"/>
-    <text x="118" y="81" fill="#2A695D" font-size="16" font-weight="700" letter-spacing="2.5">PAID IMPLEMENTATION · PUBLIC-SAFE</text>
+    <text x="118" y="81" fill="#2A695D" font-size="16" font-weight="700" letter-spacing="2.5">PAID IMPLEMENTATION  Â·  PUBLIC-SAFE</text>
 
     <text x="72" y="160" fill="#193A37" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700">From client need</text>
     <text x="72" y="224" fill="#A86443" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700">to reliable handoff.</text>
@@ -35,7 +36,7 @@
 
         <rect x="436" y="48" width="190" height="88" rx="14" fill="#EAF3EE" stroke="#85AFA1"/>
         <text x="531" y="88" text-anchor="middle">Integrate</text>
-        <text x="531" y="112" text-anchor="middle" font-size="13" font-weight="400" fill="#536661">site · API · sheets</text>
+        <text x="531" y="112" text-anchor="middle" font-size="13" font-weight="400" fill="#536661">site  Â·  API  Â·  sheets</text>
 
         <rect x="656" y="48" width="170" height="88" rx="14" fill="#F7EFE7" stroke="#CDBEAD"/>
         <text x="741" y="88" text-anchor="middle">Validate</text>
@@ -55,7 +56,7 @@
       </g>
 
       <text x="36" y="196" fill="#A86443" font-size="15" font-weight="700" letter-spacing="2">OUTCOME</text>
-      <text x="36" y="228" fill="#193A37" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700">A client-operable production workflow  not a one-off website dump.</text>
+      <text x="36" y="228" fill="#193A37" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700">A client-operable production workflow   not a one-off website dump.</text>
     </g>
   </g>
 </svg>
