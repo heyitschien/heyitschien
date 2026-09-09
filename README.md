@@ -1,8 +1,10 @@
 # Hi, I'm Chien Escalera Duong
 
-## AI Implementation & Systems Builder
+## AI Implementation · Technical Solutions
 
-I turn ambiguous real-world workflows into working, testable systems—from discovery and requirements through integration, validation, user enablement, and handoff.
+**I help people do more meaningful work by removing unnecessary friction with AI.**
+
+I turn ambiguous real-world workflows into working, testable systems—from discovery and requirements through configuration, integration, validation, user enablement, and handoff.
 
 My strongest work sits between people, operations, and technology. I learn how the work actually happens, translate that understanding into requirements and business rules, coordinate implementation, verify expected versus actual behavior, and leave behind documentation another person can use.
 
@@ -10,7 +12,7 @@ I use AI to expand my speed and technical range while remaining accountable for 
 
 Los Angeles, California · Pacific Time
 
-Best fit: customer-facing AI implementation and technical solutions work where real operational needs must become reliable systems.
+**Primary focus:** AI Implementation Specialist and customer-facing technical solutions roles where real operational needs must become reliable, usable systems.
 
 ```text
 Discover → Structure → Configure & Integrate → Validate → Enable → Document → Improve
@@ -132,7 +134,7 @@ JavaScript · React · Next.js · HTML/CSS · GitHub · Vercel · REST API and J
 
 ## Background
 
-- Thousands of independent customer interactions with a 4.9-star service record
+- 7,000+ customer-facing interactions with a 4.9-star service record
 - Current experience in high-volume customer operations
 - Approximately ten years in safety-critical film and television production
 - Paid independent client implementation and handoff experience
