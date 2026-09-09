@@ -24,9 +24,10 @@ evidence-based QA, documentation, and responsible AI assistance.
 | Loop capability | Public proof |
 | --- | --- |
 | Discovery and requirements | [Paid client implementation](PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) |
+| Configuration, integration, and reliability | [Paid client implementation](PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) |
 | Integration sequencing and risk review | [Autonomous systems case study](https://github.com/heyitschien/autonomous-lab-case-study) |
 | Shipped product delivery | [Cousin Radio](https://cousinradio.com) · [employer proof](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md) |
-| Observable QA and validation | [Chrome Extension Tester MCP](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md) |
+| Observable QA and validation | [Chrome Extension Tester MCP](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md) · [Paid client implementation](PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) |
 | Support judgment and escalation | [Product Support Triage Sample](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md) |
 | Public-safe workflow coordination | [Career Operating System case study](CAREER-OPERATING-SYSTEM-CASE-STUDY.md) |
 
@@ -47,10 +48,12 @@ My responsibility is to:
 
 ## Role fit
 
-This working method supports implementation, AI enablement, technical
-operations, customer solutions, onboarding, and product-support roles. It is
-not a claim of prior employment as an Implementation Architect, Solutions
-Engineer, AI Implementation Engineer, or Forward-Deployed Engineer.
+This working method best supports **AI Implementation Specialist** and
+customer-facing technical solutions roles. Product support, onboarding, and
+technical operations remain supporting strengths rather than the primary
+positioning claim. It is not a claim of prior employment as an Implementation
+Architect, Solutions Engineer, AI Implementation Engineer, or Forward-Deployed
+Engineer.
 
 ## Scope labels
 

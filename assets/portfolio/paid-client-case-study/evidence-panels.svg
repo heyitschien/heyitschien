@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 780" role="img" aria-labelledby="title desc">
+  <title id="title">Public-safe evidence panels for paid client implementation</title>
+  <desc id="desc">Four evidence panels covering lead reliability, browser and mobile quality, seller-guide enablement, and release discipline without exposing private client data.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="780" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7F1E8"/>
+      <stop offset="1" stop-color="#E8EFE9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="780" fill="url(#bg)"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="80" y="68" fill="#A86443" font-size="16" font-weight="700" letter-spacing="3">EVIDENCE PANELS · NO PRIVATE DATA</text>
+    <text x="80" y="118" fill="#193A37" font-family="Georgia, 'Times New Roman', serif" font-size="38" font-weight="700">What was proven without exposing the client</text>
+
+    <!-- Panel 1 -->
+    <rect x="80" y="170" width="700" height="240" rx="20" fill="#FFFDF8" stroke="#CDBEAD" stroke-width="2"/>
+    <rect x="80" y="170" width="12" height="240" rx="6" fill="#2A695D"/>
+    <text x="120" y="220" fill="#2A695D" font-size="14" font-weight="700" letter-spacing="2">LEAD RELIABILITY</text>
+    <text x="120" y="268" fill="#193A37" font-size="26" font-weight="700">Production form ’ API ’ Sheets</text>
+    <text x="120" y="310" fill="#536661" font-size="17">Destination rows confirmed in production.</text>
+    <text x="120" y="342" fill="#536661" font-size="17">Duplicate protection returns a safe duplicate response</text>
+    <text x="120" y="374" fill="#536661" font-size="17">instead of creating a second lead row.</text>
+
+    <!-- Panel 2 -->
+    <rect x="820" y="170" width="700" height="240" rx="20" fill="#FFFDF8" stroke="#CDBEAD" stroke-width="2"/>
+    <rect x="820" y="170" width="12" height="240" rx="6" fill="#A86443"/>
+    <text x="860" y="220" fill="#A86443" font-size="14" font-weight="700" letter-spacing="2">BROWSER + MOBILE</text>
+    <text x="860" y="268" fill="#193A37" font-size="26" font-weight="700">Safari and Chrome first-class</text>
+    <text x="860" y="310" fill="#536661" font-size="17">Icon, hamburger, and scroll-lock regressions covered.</text>
+    <text x="860" y="342" fill="#536661" font-size="17">Mobile UX treated as part of the lead path,</text>
+    <text x="860" y="374" fill="#536661" font-size="17">not a cosmetic afterthought.</text>
+
+    <!-- Panel 3 -->
+    <rect x="80" y="450" width="700" height="240" rx="20" fill="#FFFDF8" stroke="#CDBEAD" stroke-width="2"/>
+    <rect x="80" y="450" width="12" height="240" rx="6" fill="#85AFA1"/>
+    <text x="120" y="500" fill="#2A695D" font-size="14" font-weight="700" letter-spacing="2">ENABLEMENT</text>
+    <text x="120" y="548" fill="#193A37" font-size="26" font-weight="700">Seller guide + PDF + media</text>
+    <text x="120" y="590" fill="#536661" font-size="17">Landing route, downloadable package,</text>
+    <text x="120" y="622" fill="#536661" font-size="17">and Read / Listen / Watch with captions</text>
+    <text x="120" y="654" fill="#536661" font-size="17">and transcript for clearer follow-up.</text>
+
+    <!-- Panel 4 -->
+    <rect x="820" y="450" width="700" height="240" rx="20" fill="#FFFDF8" stroke="#CDBEAD" stroke-width="2"/>
+    <rect x="820" y="450" width="12" height="240" rx="6" fill="#193A37"/>
+    <text x="860" y="500" fill="#193A37" font-size="14" font-weight="700" letter-spacing="2">RELEASE DISCIPLINE</text>
+    <text x="860" y="548" fill="#193A37" font-size="26" font-weight="700">Registry · checklist · handoff</text>
+    <text x="860" y="590" fill="#536661" font-size="17">Regression registry and release checklist</text>
+    <text x="860" y="622" fill="#536661" font-size="17">gate changes. Completed work stays separate</text>
+    <text x="860" y="654" fill="#536661" font-size="17">from open client-owned dependencies.</text>
+  </g>
+</svg>

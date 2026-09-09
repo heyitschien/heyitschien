@@ -1,11 +1,16 @@
 # Portfolio preview assets
 
-Optimized previews for the public GitHub profile README flagship trio.
+Optimized previews for the public GitHub profile README and case studies.
 
-| File | Source project | Source asset |
-| --- | --- | --- |
-| `support-triage-preview.jpg` | product-support-triage-sample | `docs/screenshots/social-preview.png` |
-| `cousin-radio-preview.jpg` | cousin-radio | `assets/screenshots/01-landing-hero.png` |
-| `mcp-qa-preview.jpg` | chrome-extension-tester-mcp | `docs/assets/banner.png` |
+| File | Purpose |
+| --- | --- |
+| `paid-client-case-study/hero.svg` | Flagship paid-client hero / lifecycle visual |
+| `paid-client-case-study/workflow.svg` | Anonymized implementation architecture diagram |
+| `paid-client-case-study/evidence-panels.svg` | Public-safe validation / enablement evidence panels |
+| `paid-client-implementation-preview.svg` | Legacy preview retained for reference |
+| `cousin-radio-preview.jpg` | Cousin Radio live-product preview |
+| `autonomous-systems-preview.png` | Autonomous Systems Lab diagram preview |
+| `mcp-qa-preview.jpg` | Chrome Extension Tester MCP preview |
+| `support-triage-preview.jpg` | Supporting Product Support Triage preview |
 
-Resized to 1200×675 JPEG for profile load performance. Original projects remain the source of truth.
+Public claims stay anonymized for paid-client work. Private client screenshots, analytics, and sheet contents are not republished here.

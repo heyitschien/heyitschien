@@ -81,12 +81,13 @@ Attribution should reflect what actually happened on each project. I do not pres
 
 This capability is visible across public projects including:
 
-- [Product Support Triage Sample — CASE-OUTCOME](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md) — ambiguity reduction, customer communication, escalation.
+- [Paid Client Implementation](PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) — discovery through production lead workflow, validation, enablement, and handoff.
+- [Autonomous Systems Lab](https://github.com/heyitschien/autonomous-lab-case-study) — complex systems requirements, validation gates, and human review.
 - [Cousin Radio — live](https://cousinradio.com) · [EMPLOYER-PROOF](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md) — shipped product direction, deployment, iteration.
 - [Chrome Extension Tester MCP — support use case](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md) — AI-assisted QA and observable validation.
+- [Product Support Triage Sample — CASE-OUTCOME](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md) — supporting ambiguity reduction, communication, and escalation sample.
 - [LingoPilot — sample bot PR](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md) — GitHub-native localization QA.
 - [Chapter Reader](https://github.com/heyitschien/chapter-reader) — local-first utility with installation and support documentation.
-- [AI YouTube Content — production workflow](https://github.com/heyitschien/ai-youtube-content/blob/main/docs/production-workflow.md) — content-system design.
 - [Career Operating System case study](CAREER-OPERATING-SYSTEM-CASE-STUDY.md) — private workflow summarized publicly without application data.
 
 Some private systems are larger implementations of the same loop. Public documentation does not disclose private architecture, collaborator details, or unverifiable performance claims. The public claim is the method and the public evidence — not private results.
