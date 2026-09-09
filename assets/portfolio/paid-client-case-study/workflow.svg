@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Paid client implementation architecture</title>
+  <desc id="desc">Public site flows through client-owned GitHub and Vercel into a consultation API, Google Sheets lead capture, seller-guide enablement, and validation gates.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7F1E8"/>
+      <stop offset="1" stop-color="#E8EFE9"/>
+    </linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#85AFA1"/>
+    </marker>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="80" y="70" fill="#A86443" font-size="16" font-weight="700" letter-spacing="3">IMPLEMENTATION ARCHITECTURE · ANONYMIZED</text>
+    <text x="80" y="118" fill="#193A37" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="700">Public experience ’ reliable lead path</text>
+    <text x="80" y="158" fill="#536661" font-size="20">Client-owned delivery, destination capture, enablement, and proof gates.</text>
+
+    <!-- Row 1 -->
+    <rect x="80" y="210" width="340" height="140" rx="18" fill="#FFFDF8" stroke="#CDBEAD" stroke-width="2"/>
+    <text x="110" y="258" fill="#2A695D" font-size="14" font-weight="700" letter-spacing="2">01 · PUBLIC SITE</text>
+    <text x="110" y="298" fill="#193A37" font-size="24" font-weight="700">Next.js presence</text>
+    <text x="110" y="330" fill="#536661" font-size="16">Mobile-first trust + contact path</text>
+
+    <line x1="420" y1="280" x2="480" y2="280" stroke="#85AFA1" stroke-width="3" marker-end="url(#arrow)"/>
+
+    <rect x="490" y="210" width="380" height="140" rx="18" fill="#FFFDF8" stroke="#CDBEAD" stroke-width="2"/>
+    <text x="520" y="258" fill="#2A695D" font-size="14" font-weight="700" letter-spacing="2">02 · OPERATING PATH</text>
+    <text x="520" y="298" fill="#193A37" font-size="24" font-weight="700">GitHub ’ Vercel</text>
+    <text x="520" y="330" fill="#536661" font-size="16">PR · preview · production (client-owned)</text>
+
+    <line x1="870" y1="280" x2="930" y2="280" stroke="#85AFA1" stroke-width="3" marker-end="url(#arrow)"/>
+
+    <rect x="940" y="210" width="580" height="140" rx="18" fill="#FFFDF8" stroke="#CDBEAD" stroke-width="2"/>
+    <text x="970" y="258" fill="#2A695D" font-size="14" font-weight="700" letter-spacing="2">03 · LEAD WORKFLOW</text>
+    <text x="970" y="298" fill="#193A37" font-size="24" font-weight="700">Form ’ API ’ Sheets</text>
+    <text x="970" y="330" fill="#536661" font-size="16">Apps Script webhook + duplicate protection</text>
+
+    <!-- Row 2 -->
+    <rect x="80" y="420" width="700" height="160" rx="18" fill="#193A37"/>
+    <text x="110" y="470" fill="#D9E8E1" font-size="14" font-weight="700" letter-spacing="2">04 · ENABLEMENT SURFACES</text>
+    <text x="110" y="514" fill="#FFFDF8" font-size="26" font-weight="700">Seller planning guide · PDF · media</text>
+    <text x="110" y="548" fill="#D9E8E1" font-size="16">Read / Listen / Watch with captions and transcript</text>
+
+    <rect x="820" y="420" width="700" height="160" rx="18" fill="#FFFDF8" stroke="#CDBEAD" stroke-width="2"/>
+    <text x="850" y="470" fill="#A86443" font-size="14" font-weight="700" letter-spacing="2">05 · PROOF GATES</text>
+    <text x="850" y="514" fill="#193A37" font-size="26" font-weight="700">Validate before calling it done</text>
+    <text x="850" y="548" fill="#536661" font-size="16">Regression registry · release checklist · production checks</text>
+
+    <!-- Bottom note -->
+    <rect x="80" y="640" width="1440" height="180" rx="20" fill="#EAF3EE" stroke="#85AFA1"/>
+    <text x="120" y="700" fill="#2A695D" font-size="15" font-weight="700" letter-spacing="2">WHY THIS MATTERS FOR IMPLEMENTATION ROLES</text>
+    <text x="120" y="748" fill="#193A37" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700">Understand the workflow ’ make it operable ’ prove it works ’ leave ownership clear.</text>
+    <text x="120" y="790" fill="#536661" font-size="18">Domain and Google-presence support included; pending client-owned steps stay visible rather than overclaimed.</text>
+  </g>
+</svg>

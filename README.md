@@ -26,31 +26,17 @@ Discover → Structure → Configure & Integrate → Validate → Enable → Doc
 
 <p align="center">
   <a href="docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md">
-    <img src="assets/portfolio/paid-client-implementation-preview.svg" alt="Public-safe paid client implementation workflow from discovery through requirements, delivery, validation, and handoff" width="720" />
+    <img src="assets/portfolio/paid-client-case-study/hero.svg" alt="From an ambiguous client objective to a reliable, client-operable production workflow" width="720" />
   </a>
 </p>
 
-Led a paid client engagement from discovery through delivery and handoff: requirements, tracked implementation, Next.js delivery through GitHub and Vercel, domain and Google-presence support, validation, client walkthrough, and documented next actions. Client identity and private details stay protected.
+Took a real client need from discovery into a client-operable production system: public Next.js experience, client-owned GitHub → Vercel path, consultation lead intake into Google Sheets, duplicate-submission protection, Safari/Chrome and mobile validation, seller-guide enablement surfaces, documentation, and ongoing iteration. Client identity and private details stay protected.
 
 **[Read the case study →](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md)**
 </details>
 
 <details>
-  <summary><strong>02 · Shipped product</strong> · Cousin Radio</summary>
-
-<p align="center">
-  <a href="https://cousinradio.com">
-    <img src="assets/portfolio/cousin-radio-preview.jpg" alt="Cousin Radio live product preview — family music platform" width="720" />
-  </a>
-</p>
-
-Led a live family music product from user observation through requirements, AI-assisted implementation, troubleshooting, QA, deployment, and continued iteration.
-
-**[Visit the live product →](https://cousinradio.com)** · **[Review the evidence →](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md)**
-</details>
-
-<details>
-  <summary><strong>03 · Public-safe systems case study</strong> · Autonomous Systems Lab</summary>
+  <summary><strong>02 · Public-safe systems case study</strong> · Autonomous Systems Lab</summary>
 
 <p align="center">
   <a href="https://github.com/heyitschien/autonomous-lab-case-study">
@@ -61,6 +47,20 @@ Led a live family music product from user observation through requirements, AI-a
 A public-safe case study showing how I turn complex systems work into bounded requirements, sequenced integrations, observable validation, documented ownership, and human review before consequential actions. It is research documentation, not a production financial system.
 
 **[Review the case study →](https://github.com/heyitschien/autonomous-lab-case-study)**
+</details>
+
+<details>
+  <summary><strong>03 · Shipped product</strong> · Cousin Radio</summary>
+
+<p align="center">
+  <a href="https://cousinradio.com">
+    <img src="assets/portfolio/cousin-radio-preview.jpg" alt="Cousin Radio live product preview — family music platform" width="720" />
+  </a>
+</p>
+
+Led a live family music product from user observation through requirements, AI-assisted implementation, troubleshooting, QA, deployment, and continued iteration.
+
+**[Visit the live product →](https://cousinradio.com)** · **[Review the evidence →](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md)**
 </details>
 
 <details>
@@ -83,9 +83,9 @@ Built an open-source MCP and Playwright developer tool that lets AI agents launc
 | Capability | What that means in practice | Evidence |
 | --- | --- | --- |
 | **Workflow discovery and scoping** | Understand the user, current process, friction, dependencies, constraints, and definition of success. | [Paid client implementation](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) · [Cousin Radio](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md) |
-| **Requirements and system design** | Convert ambiguity into business rules, acceptance criteria, owners, boundaries, and an executable implementation path. | [Autonomous Systems Lab](https://github.com/heyitschien/autonomous-lab-case-study) · [Implementation + AI systems](docs/IMPLEMENTATION-AI-SYSTEMS.md) |
-| **Configuration and integration** | Connect tools, interfaces, environments, data flows, and deployment workflows in a deliberate sequence. | [Cousin Radio](https://cousinradio.com) · [Chrome Extension Tester MCP](https://github.com/heyitschien/chrome-extension-tester-mcp) |
-| **Validation and diagnosis** | Compare expected versus actual behavior using tests, logs, screenshots, browser evidence, CI, and repeatable checks. | [Chrome Extension Tester MCP](https://github.com/heyitschien/chrome-extension-tester-mcp) · [Autonomous Systems Lab](https://github.com/heyitschien/autonomous-lab-case-study) |
+| **Requirements and system design** | Convert ambiguity into business rules, acceptance criteria, owners, boundaries, and an executable implementation path. | [Paid client implementation](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) · [Autonomous Systems Lab](https://github.com/heyitschien/autonomous-lab-case-study) |
+| **Configuration and integration** | Connect tools, interfaces, environments, data flows, and deployment workflows in a deliberate sequence. | [Paid client implementation](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) · [Cousin Radio](https://cousinradio.com) |
+| **Validation and diagnosis** | Compare expected versus actual behavior using tests, logs, screenshots, browser evidence, CI, and repeatable checks. | [Paid client implementation](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) · [Chrome Extension Tester MCP](https://github.com/heyitschien/chrome-extension-tester-mcp) |
 | **User enablement and handoff** | Explain the system clearly, conduct walkthroughs, document ownership, separate completed work from open dependencies, and leave a usable next step. | [Paid client implementation](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) · [Career Development OS](docs/CAREER-OPERATING-SYSTEM-CASE-STUDY.md) |
 | **AI-assisted execution** | Coordinate AI tools for research, implementation, testing, and documentation while keeping human accountability and approval explicit. | [Implementation + AI systems](docs/IMPLEMENTATION-AI-SYSTEMS.md) · [Model and tool attribution](docs/MODEL-AND-TOOL-ATTRIBUTION.md) |
 

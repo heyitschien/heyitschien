@@ -1,16 +1,16 @@
 # Why I Build — Why → How → What
 
-My public work spans support cases, shipped products, AI-assisted QA, workflow systems, documentation, and technical experiments. The projects can look different on the surface, so this page explains the thread underneath them.
+My public work spans paid client implementation, complex systems documentation, shipped products, AI-assisted QA, workflow systems, and technical experiments. The projects can look different on the surface, so this page explains the thread underneath them.
 
 ## WHY
 
-> **I believe powerful technology matters only when people can understand it, trust it, and use it. I want to keep becoming more capable at understanding complex systems and turning that capability into practical tools, workflows, and clarity that help people move forward.**
+> **I help people do more meaningful work by removing unnecessary friction with AI.**
 
-For me, capability is not an end in itself. Learning more, becoming more technical, and using AI as leverage matter because they increase the quality of problems I can help solve and the responsibility I can carry.
+Capability is not an end in itself. Learning more, becoming more technical, and using AI as leverage matter because they increase the quality of problems I can help solve and the responsibility I can carry.
 
 A shorter version:
 
-> **Build capability. Make it useful. Use it to help people.**
+> **Understand the person and the workflow. Turn ambiguity into a reliable system. Leave a clean handoff.**
 
 ### Why do I get out of bed in the morning?
 
@@ -29,16 +29,14 @@ That bridge between **technical capability** and **real-world usefulness** is th
 I tend to work through a repeatable loop:
 
 ```text
-question or ambiguity
-→ clarify intent and constraints
-→ learn the system
-→ compare evidence and perspectives
-→ identify the underlying structure
-→ choose a direction
-→ turn it into a workflow, product, or documented process
-→ test and collect evidence
-→ communicate the result clearly
-→ revise from feedback
+discover the person and the workflow
+→ clarify intent, constraints, and ownership
+→ translate ambiguity into requirements
+→ configure or integrate the system
+→ validate expected versus actual behavior
+→ enable the user
+→ document the handoff
+→ improve the next implementation
 ```
 
 A few principles stay consistent:
@@ -54,20 +52,18 @@ A few principles stay consistent:
 
 ## WHAT
 
-Today this shows up in work around:
+Today this shows up most strongly in:
 
-- implementation and onboarding;
-- product and technical support;
-- AI operations and workflow orchestration;
-- customer and technical enablement;
-- troubleshooting and evidence-backed escalation;
-- documentation and knowledge systems;
-- AI-assisted QA and validation;
-- small products and workflow tools.
+- AI implementation and customer-facing technical solutions;
+- workflow discovery, requirements translation, and configuration/integration;
+- validation, troubleshooting, and evidence-backed handoff;
+- user enablement and documentation systems;
+- AI-assisted QA and responsible tool orchestration;
+- supporting product/technical support judgment when needed.
 
 The **what** will continue to evolve. The underlying direction is more stable:
 
-> **Translate complexity into practical adoption.**
+> **Remove unnecessary friction so people can do more meaningful work.**
 
 ---
 
@@ -75,10 +71,11 @@ The **what** will continue to evolve. The underlying direction is more stable:
 
 The point of this page is not to make a philosophical claim without proof. The operating pattern should be visible in the work.
 
-- **[Product Support Triage Sample](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md)** — turning an ambiguous user problem into structured investigation, communication, evidence, and escalation.
+- **[Paid Client Implementation](PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md)** — real external customer path from discovery through production lead workflow, validation, enablement, and handoff.
+- **[Autonomous Systems Lab](https://github.com/heyitschien/autonomous-lab-case-study)** — complex systems work with bounded requirements, validation, and human review.
 - **[Cousin Radio](https://cousinradio.com)** · **[employer proof](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md)** — turning a family need into a shipped product and operating experience.
 - **[Chrome Extension Tester MCP](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md)** — turning browser QA into a repeatable AI-assisted evidence workflow.
-- **[AI-Orchestrated Systems Engineering](AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md)** — the broader methodology I use to move from ambiguity toward structured, reviewable, evidence-backed work.
+- **[Model and tool attribution](MODEL-AND-TOOL-ATTRIBUTION.md)** — what AI contributed versus what I owned.
 
 ---
 
@@ -97,7 +94,7 @@ systems thinking
 + human adoption
 ```
 
-The near-term roles may be implementation, product support, technical support, enablement, AI operations, or workflow-oriented work.
+Near-term focus: **AI Implementation Specialist** and customer-facing technical solutions roles where real operational needs must become reliable, usable systems. Product support and technical operations remain supporting strengths, not the primary market signal.
 
 The longer-term aim is to become someone organizations trust to help powerful technology cross the gap from **possible** to **practical**.
 
@@ -105,4 +102,4 @@ The longer-term aim is to become someone organizations trust to help powerful te
 
 ## One sentence
 
-> **I learn important systems, reduce ambiguity, orchestrate people and technology, and turn complexity into practical outcomes that real people can use.**
+> **I understand the person and the workflow, turn ambiguity into requirements, implement and validate, enable the person, and leave a clean handoff.**

@@ -2,10 +2,11 @@
 
 Public-safe case studies showing how I combine human judgment, AI reasoning, documentation, repositories, and implementation tools.
 
-Flagship trio for recruiters:
+Evidence hierarchy for recruiters:
 
 ```text
-Support judgment
+Paid client implementation
++ complex systems / requirements proof
 + shipped product ownership
 + AI-assisted technical validation
 ```
@@ -14,41 +15,71 @@ Methodology overview: [AI-Orchestrated Systems Engineering](AI-ORCHESTRATED-SYST
 
 ---
 
-## Flagship 1 — Product Support Triage Sample
+## Flagship 1 — Paid Client Implementation
 
 **What it is**  
-A synthetic support sample (no private customer data) showing ticket ownership from report through investigation, customer communication, escalation, and documentation.
+A paid independent real-estate web + lead-workflow engagement: public presence, client-owned GitHub → Vercel delivery, consultation intake into Google Sheets, reliability protections, seller-guide enablement surfaces, validation, and documented handoff.
 
 **My responsibility**  
-I defined the scenario, structured the investigation, separated customer-facing communication from internal notes, and made the escalation actionable so the next owner would not restart the work.
+I owned discovery, requirements translation, configuration/integration, validation, client enablement, documentation, and continued iteration—not a one-off website dump.
 
 **Distinct decisions**
 
-- keep the case synthetic and recruiter-safe;
-- distinguish confirmed facts from hypotheses;
-- communicate status before final resolution;
-- close with a documentation-improvement proposal.
+- treat the operational problem as lead reliability and client operability, not page decoration;
+- keep deployment and lead destination client-owned;
+- prove production lead delivery and duplicate-submission protection;
+- separate completed work from open client-owned dependencies.
 
 **Evidence**
 
 | Artifact | Link |
 | --- | --- |
-| Full case outcome | [CASE-OUTCOME.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md) |
-| Customer reply | [customer-reply.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/customer-reply.md) |
-| Role mapping | [ROLE-MAPPING.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/ROLE-MAPPING.md) |
+| Public case study | [PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md](PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) |
+| Implementation loop | [IMPLEMENTATION-AI-SYSTEMS.md](IMPLEMENTATION-AI-SYSTEMS.md) |
 
 **Result**  
-Clear public proof of calm support ownership and structured technical communication.
+Real external-customer proof of AI implementation / technical solutions work: understand the workflow → make it operable → prove it → hand it off cleanly.
 
 **Limitation**  
-Synthetic sample — not a live employer ticket history.
+Public-safe and anonymized — client identity, private sheet data, secrets, and unverified business-impact metrics are omitted.
 
 **Lesson**  
-Good support work is a systems discipline: reduce ambiguity, preserve evidence, communicate clearly, hand off without losing context.
+Strong implementation evidence looks like a production path a real person can keep operating.
 
 ---
 
-## Flagship 2 — Cousin Radio
+## Flagship 2 — Autonomous Systems Lab
+
+**What it is**  
+A public-safe case study of complex systems work: bounded requirements, sequenced integrations, observable validation, documented ownership, and human review before consequential actions.
+
+**My responsibility**  
+I structured the system boundaries, evidence expectations, and human-gate posture so research complexity does not become unverifiable claims.
+
+**Distinct decisions**
+
+- keep research documentation separate from production financial claims;
+- require observable validation and ownership clarity;
+- keep consequential actions under human review.
+
+**Evidence**
+
+| Artifact | Link |
+| --- | --- |
+| Public-safe case study | [autonomous-lab-case-study](https://github.com/heyitschien/autonomous-lab-case-study) |
+
+**Result**  
+Proof that I can handle complex systems work with requirements discipline and validation gates.
+
+**Limitation**  
+Research documentation — not a production financial system.
+
+**Lesson**  
+Complexity becomes trustworthy only when boundaries, evidence, and human ownership stay explicit.
+
+---
+
+## Flagship 3 — Cousin Radio
 
 **What it is**  
 A shipped family music product — live at [cousinradio.com](https://cousinradio.com) — with mobile-first discovery, persistent playback, deployment ownership, and ongoing iteration.
@@ -82,7 +113,7 @@ AI can accelerate implementation; product coherence still depends on sustained h
 
 ---
 
-## Flagship 3 — Chrome Extension Tester MCP
+## Flagship 4 — Chrome Extension Tester MCP
 
 **What it is**  
 A working open-source MCP tool for AI-assisted Chrome extension QA: real browser control, screenshots, UI interaction, and console evidence. CI is present; npm is not used as evidence because the public package identity does not match this repository.
@@ -120,18 +151,17 @@ Automation is most valuable when it makes verification repeatable, not when it m
 
 | Project | What it shows | Best evidence | Scope note |
 | --- | --- | --- | --- |
+| **Product Support Triage Sample** | Synthetic ticket ownership: investigation, communication, escalation, documentation | [CASE-OUTCOME.md](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md) | Supporting judgment sample — not flagship #1 |
 | **Chapter Reader** | Local-first Mac utility: offline TTS, one-command install, privacy-first writing review | [Repository](https://github.com/heyitschien/chapter-reader) · [install-mac-app.sh](https://github.com/heyitschien/chapter-reader/blob/main/install-mac-app.sh) | Personal productivity utility, not a SaaS product |
 | **LingoPilot public demo** | GitHub-native localization QA: pseudo-loc, screenshots, reviewable automation output | [sample-bot-pr.md](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md) | Public demo; private engine/dashboard not published |
-| **AI YouTube Content** | Content-system design: standards, episode packages, production and publishing workflows | [production-workflow.md](https://github.com/heyitschien/ai-youtube-content/blob/main/docs/production-workflow.md) | Content operations system, not a shipped app |
-| **Career Operating System** | Private operating system: role research, proof routing, follow-ups — same ambiguity → evidence → decision loop | [Public-safe case study](CAREER-OPERATING-SYSTEM-CASE-STUDY.md) | Private; no application data published |
+| **Career Operating System** | Private operating system: role research, proof routing, follow-ups — same ambiguity → evidence → decision loop | [Public-safe case study](CAREER-OPERATING-SYSTEM-CASE-STUDY.md) | Secondary; no application data published |
 
 ---
 
 ## Shared pattern
 
 ```text
-Question → research → challenge → synthesis → architecture
-→ implementation → evidence → revision
+Discover → structure → configure/integrate → validate → enable → document → improve
 ```
 
 Depth varies by project. Models accelerate parts of the work. I remain responsible for coherence and what is accepted.
