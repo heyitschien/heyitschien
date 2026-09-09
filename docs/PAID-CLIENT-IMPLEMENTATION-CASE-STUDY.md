@@ -1,7 +1,7 @@
 # Paid Client Implementation — Real Estate Web + Lead Workflow
 
 <p align="center">
-  <img src="../assets/portfolio/paid-client-case-study/hero.svg" alt="From an ambiguous client objective to a reliable, client-operable production workflow" width="920" />
+  <img src="../assets/portfolio/paid-client-case-study/hero.png" alt="From an ambiguous client objective to a reliable, client-operable production workflow" width="920" />
 </p>
 
 **From an ambiguous client objective to a reliable, client-operable production workflow.**
@@ -53,7 +53,7 @@ Those answers became tracked implementation work, configuration steps, validatio
 ## Implementation architecture
 
 <p align="center">
-  <img src="../assets/portfolio/paid-client-case-study/workflow.svg" alt="Public site, GitHub to Vercel delivery path, consultation API, Google Sheets lead capture, validation, and client enablement" width="920" />
+  <img src="../assets/portfolio/paid-client-case-study/workflow.png" alt="Public site, GitHub to Vercel delivery path, consultation API, Google Sheets lead capture, validation, and client enablement" width="920" />
 </p>
 
 ```text
@@ -97,7 +97,7 @@ The work was not treated as complete when the page “looked finished.” Expect
 Validation evidence is kept as process proof (tests, checklists, logs). Private sheet rows, submission IDs, analytics dashboards, and credentials are not republished here.
 
 <p align="center">
-  <img src="../assets/portfolio/paid-client-case-study/evidence-panels.svg" alt="Public-safe evidence panels for lead reliability, browser and mobile checks, seller-guide enablement, and release discipline" width="920" />
+  <img src="../assets/portfolio/paid-client-case-study/evidence-panels.png" alt="Public-safe evidence panels for lead reliability, browser and mobile checks, seller-guide enablement, and release discipline" width="920" />
 </p>
 
 ---

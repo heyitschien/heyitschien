@@ -4,9 +4,10 @@ Optimized previews for the public GitHub profile README and case studies.
 
 | File | Purpose |
 | --- | --- |
-| `paid-client-case-study/hero.svg` | Flagship paid-client hero / lifecycle visual |
-| `paid-client-case-study/workflow.svg` | Anonymized implementation architecture diagram |
-| `paid-client-case-study/evidence-panels.svg` | Public-safe validation / enablement evidence panels |
+| `paid-client-case-study/hero.png` | Flagship paid-client hero / lifecycle visual (PNG for GitHub markdown rendering) |
+| `paid-client-case-study/workflow.png` | Anonymized implementation architecture diagram |
+| `paid-client-case-study/evidence-panels.png` | Public-safe validation / enablement evidence panels |
+| `paid-client-case-study/*.svg` | Source vectors retained alongside PNG renders |
 | `paid-client-implementation-preview.svg` | Legacy preview retained for reference |
 | `cousin-radio-preview.jpg` | Cousin Radio live-product preview |
 | `autonomous-systems-preview.png` | Autonomous Systems Lab diagram preview |

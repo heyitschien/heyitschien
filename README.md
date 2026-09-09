@@ -26,7 +26,7 @@ Discover → Structure → Configure & Integrate → Validate → Enable → Doc
 
 <p align="center">
   <a href="docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md">
-    <img src="assets/portfolio/paid-client-case-study/hero.svg" alt="From an ambiguous client objective to a reliable, client-operable production workflow" width="720" />
+    <img src="assets/portfolio/paid-client-case-study/hero.png" alt="From an ambiguous client objective to a reliable, client-operable production workflow" width="720" />
   </a>
 </p>
 
