@@ -76,7 +76,7 @@ A public-safe case study showing how I turn complex systems work into bounded re
 
 Led a live family music product from user observation through requirements, AI-assisted implementation, troubleshooting, QA, deployment, and continued iteration.
 
-**[Visit the live product →](https://cousinradio.com)** · **[Review the evidence →](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md)**
+**[Visit the live product →](https://cousinradio.com)** · **[Review the employer evidence →](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md)** · **[Explore the public showcase →](https://github.com/heyitschien/cousin-radio)**
 </details>
 
 <details>
