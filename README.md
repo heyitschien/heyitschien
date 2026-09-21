@@ -4,15 +4,13 @@
 
 **I help people do more meaningful work by removing unnecessary friction with AI.**
 
-I turn ambiguous real-world workflows into working, testable systems—from discovery and requirements through configuration, integration, validation, user enablement, and handoff.
+I turn ambiguous workflows into working, testable systems by learning how the work happens, translating it into requirements, configuring and integrating the right tools, validating expected versus actual behavior, and leaving a usable handoff.
 
-My strongest work sits between people, operations, and technology. I learn how the work actually happens, translate that understanding into requirements and business rules, coordinate implementation, verify expected versus actual behavior, and leave behind documentation another person can use.
-
-I use AI to expand my speed and technical range while remaining accountable for objectives, scope, requirements, architecture, privacy, validation, communication, consequential decisions, and final approval.
+**Target roles:** AI Implementation Specialist · customer-facing technical solutions roles where real operational needs must become reliable, usable systems
 
 Los Angeles, California · Pacific Time
 
-**Primary focus:** AI Implementation Specialist and customer-facing technical solutions roles where real operational needs must become reliable, usable systems.
+**[Portfolio evidence](#start-here)** · **[LinkedIn](https://www.linkedin.com/in/chien-escalera-duong/)** · **[Email](mailto:heyitschien@gmail.com)**
 
 ```text
 Discover → Structure → Configure & Integrate → Validate → Enable → Document → Improve
@@ -52,35 +50,7 @@ The live product is an **early alpha under active development**; its interface, 
 </details>
 
 <details>
-  <summary><strong>03 · Public-safe systems case study</strong> · Autonomous Systems Lab</summary>
-
-<p align="center">
-  <a href="https://github.com/heyitschien/autonomous-lab-case-study">
-    <img src="assets/portfolio/autonomous-systems-preview.png" alt="Trading research systems diagram — bounded market-data evaluation, logged evidence, and human risk review" width="720" />
-  </a>
-</p>
-
-A public-safe case study showing how I turn complex systems work into bounded requirements, sequenced integrations, observable validation, documented ownership, and human review before consequential actions. It is research documentation, not a production financial system.
-
-**[Review the case-study repository →](https://github.com/heyitschien/autonomous-lab-case-study)** · **[Open the visual report →](https://heyitschien.github.io/autonomous-lab-case-study/)** · **[Read the full markdown →](https://github.com/heyitschien/autonomous-lab-case-study/blob/main/PUBLIC-CASE-STUDY.md)**
-</details>
-
-<details>
-  <summary><strong>04 · Shipped product</strong> · Cousin Radio</summary>
-
-<p align="center">
-  <a href="https://cousinradio.com">
-    <img src="assets/portfolio/cousin-radio-preview.jpg" alt="Cousin Radio live product preview — family music platform" width="720" />
-  </a>
-</p>
-
-Led a live family music product from user observation through requirements, AI-assisted implementation, troubleshooting, QA, deployment, and continued iteration.
-
-**[Visit the live product →](https://cousinradio.com)** · **[Review the employer evidence →](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md)** · **[Explore the public showcase →](https://github.com/heyitschien/cousin-radio)**
-</details>
-
-<details>
-  <summary><strong>05 · Working open-source agent tooling</strong> · Chrome Extension Tester MCP</summary>
+  <summary><strong>03 · Working open-source agent tooling</strong> · Chrome Extension Tester MCP</summary>
 
 <p align="center">
   <a href="https://github.com/heyitschien/chrome-extension-tester-mcp">
@@ -90,7 +60,37 @@ Led a live family music product from user observation through requirements, AI-a
 
 Built an open-source MCP and Playwright developer tool that lets AI agents launch, inspect, test, and collect browser evidence from Chrome extensions.
 
-**[Explore the project →](https://github.com/heyitschien/chrome-extension-tester-mcp)**
+**[Explore the project →](https://github.com/heyitschien/chrome-extension-tester-mcp)** · **[Read the support/QA walkthrough →](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md)**
+</details>
+
+<details>
+  <summary><strong>04 · Public-safe systems case study</strong> · Autonomous Systems Lab</summary>
+
+<p align="center">
+  <a href="https://github.com/heyitschien/autonomous-lab-case-study">
+    <img src="assets/portfolio/autonomous-systems-preview.png" alt="Trading research systems diagram — bounded market-data evaluation, logged evidence, and human risk review" width="720" />
+  </a>
+</p>
+
+A public-safe case study showing how I turn complex systems work into bounded requirements, sequenced integrations, observable validation, documented ownership, and human review before consequential actions. It is research documentation, not a production financial system.
+
+The rendered report is a **historical snapshot reconciled through 2026-08-26** and publicly refreshed on 2026-09-21. It does not claim current runtime readiness, profitable trading, positive expectancy, or live brokerage execution.
+
+**[Review the case-study repository →](https://github.com/heyitschien/autonomous-lab-case-study)** · **[Open the visual report →](https://heyitschien.github.io/autonomous-lab-case-study/)** · **[Read the full markdown →](https://github.com/heyitschien/autonomous-lab-case-study/blob/main/PUBLIC-CASE-STUDY.md)**
+</details>
+
+<details>
+  <summary><strong>05 · Shipped public-beta product</strong> · Cousin Radio</summary>
+
+<p align="center">
+  <a href="https://cousinradio.com">
+    <img src="assets/portfolio/cousin-radio-preview.jpg" alt="Cousin Radio live product preview — family music platform" width="720" />
+  </a>
+</p>
+
+Led a live public-beta family music product from user observation through requirements, AI-assisted implementation, troubleshooting, QA, deployment, and continued iteration.
+
+**[Visit the live product →](https://cousinradio.com)** · **[Review the employer evidence →](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md)** · **[Explore the public showcase →](https://github.com/heyitschien/cousin-radio)**
 </details>
 <!-- markdownlint-enable MD033 -->
 
@@ -108,33 +108,16 @@ Built an open-source MCP and Playwright developer tool that lets AI agents launc
 
 ## How I work
 
-- Start with the person, the process, and the real operational friction.
-- Define success, constraints, ownership, and what must remain human-controlled.
+- Start with the person, the workflow, the real friction, and a clear definition of success.
+- Make constraints, ownership, and human-controlled decisions explicit.
 - Translate ambiguity into requirements, business rules, acceptance criteria, and tracked work.
 - Sequence implementation around dependencies, risk, and the fastest path to trustworthy evidence.
 - Use AI and technical tools to extend my speed and range without outsourcing judgment.
-- Validate expected versus actual behavior before presenting work as complete.
-- Enable the user through clear communication, walkthroughs, documentation, and handoff.
-- Turn repeated learning into reusable workflows, playbooks, and system improvements.
-
-```mermaid
-flowchart LR
-    discover["Discover workflow"] --> requirements["Structure requirements"]
-    requirements --> configure["Configure or integrate"]
-    configure --> validate["Validate expected vs. actual"]
-    validate --> humanGate{"Consequential action?"}
-    humanGate -->|"Yes"| humanReview["Human review"]
-    humanGate -->|"No"| enable["Enable the user"]
-    humanReview --> enable
-    enable --> handoff["Document the handoff"]
-    handoff --> improve["Improve the next implementation"]
-```
+- Validate expected versus actual behavior, then enable the user with clear documentation and handoff.
 
 ## AI implementation and accountability
 
-AI accelerates my research, implementation, testing, and documentation. I remain responsible for defining the objective, setting boundaries, deciding requirements, reviewing outputs, validating behavior, protecting privacy, communicating status, and approving the final result.
-
-I do not present AI-generated output as proof by itself. A claim becomes credible when it is supported by working software, tests, logs, screenshots, deployment evidence, documented decisions, or a reproducible workflow.
+AI accelerates research, implementation, testing, and documentation. I remain responsible for scope, requirements, privacy, review, validation, communication, consequential decisions, and final approval; model output becomes evidence only when supported by working software, tests, logs, screenshots, documented decisions, or a reproducible workflow.
 
 **[Read how I use AI and technical tools →](docs/MODEL-AND-TOOL-ATTRIBUTION.md)**
 

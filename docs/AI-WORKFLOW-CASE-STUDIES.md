@@ -7,16 +7,16 @@ Evidence hierarchy for recruiters:
 ```text
 Paid client implementation
 + AI capability evaluation / honest proof states
++ AI-assisted technical validation
 + complex systems / requirements proof
 + shipped product ownership
-+ AI-assisted technical validation
 ```
 
 Methodology overview: [AI-Orchestrated Systems Engineering](AI-ORCHESTRATED-SYSTEMS-ENGINEERING.md). Attribution: [Model and tool attribution](MODEL-AND-TOOL-ATTRIBUTION.md).
 
 ---
 
-## Flagship 1 — Paid Client Implementation
+## Paid Client Implementation
 
 **What it is**  
 A paid independent real-estate web + lead-workflow engagement: public presence, client-owned GitHub → Vercel delivery, consultation intake into Google Sheets, reliability protections, seller-guide enablement surfaces, validation, and documented handoff.
@@ -24,14 +24,14 @@ A paid independent real-estate web + lead-workflow engagement: public presence, 
 **My responsibility**  
 I owned discovery, requirements translation, configuration/integration, validation, client enablement, documentation, and continued iteration—not a one-off website dump.
 
-**Distinct decisions**
+### Paid-client decisions
 
 - treat the operational problem as lead reliability and client operability, not page decoration;
 - keep deployment and lead destination client-owned;
 - prove production lead delivery and duplicate-submission protection;
 - separate completed work from open client-owned dependencies.
 
-**Evidence**
+### Paid-client evidence
 
 | Artifact | Link |
 | --- | --- |
@@ -49,7 +49,7 @@ Strong implementation evidence looks like a production path a real person can ke
 
 ---
 
-## Flagship 2 — Can AI Yet?
+## Can AI Yet?
 
 **What it is**  
 An AI capability evaluation lab that tests whether agents and tool integrations can perform real business workflows reliably—using bounded contracts, evals, expected-versus-actual checks, machine receipts, independent review, and explicit proof states.
@@ -57,14 +57,14 @@ An AI capability evaluation lab that tests whether agents and tool integrations 
 **My responsibility**  
 I define the evaluation contracts, sequence HubSpot / environment validation work, insist on machine evidence over persuasive narrative, run correction loops after independent review, and refuse to upgrade proof states without accepted receipts.
 
-**Distinct decisions**
+### Evaluation decisions
 
 - preserve PROVEN, DRY-CERTIFIED, CONFIGURED_NOT_LIVE_PROVEN, BLOCKED, and NOT_PROVEN as non-interchangeable labels;
 - treat dry certification as preparation, not live proof;
 - fail closed when world-state checks do not match expectations;
 - keep secrets, portal identifiers, and private packets out of public claims.
 
-**Evidence**
+### Evaluation evidence
 
 | Artifact | Link |
 | --- | --- |
@@ -84,7 +84,7 @@ The valuable AI implementation skill is knowing exactly what evidence supports a
 
 ---
 
-## Flagship 3 — Autonomous Systems Lab
+## Autonomous Systems Lab
 
 **What it is**  
 A public-safe case study of complex systems work: bounded requirements, sequenced integrations, observable validation, documented ownership, and human review before consequential actions.
@@ -92,13 +92,13 @@ A public-safe case study of complex systems work: bounded requirements, sequence
 **My responsibility**  
 I structured the system boundaries, evidence expectations, and human-gate posture so research complexity does not become unverifiable claims.
 
-**Distinct decisions**
+### Systems decisions
 
 - keep research documentation separate from production financial claims;
 - require observable validation and ownership clarity;
 - keep consequential actions under human review.
 
-**Evidence**
+### Systems evidence
 
 | Artifact | Link |
 | --- | --- |
@@ -115,7 +115,7 @@ Complexity becomes trustworthy only when boundaries, evidence, and human ownersh
 
 ---
 
-## Flagship 4 — Cousin Radio
+## Cousin Radio
 
 **What it is**  
 A shipped family music product — live at [cousinradio.com](https://cousinradio.com) — with mobile-first discovery, persistent playback, deployment ownership, and ongoing iteration.
@@ -123,14 +123,14 @@ A shipped family music product — live at [cousinradio.com](https://cousinradio
 **My responsibility**  
 I led product direction, clarified the family use case, made scope and architecture decisions, coordinated implementation, reviewed behavior, and managed deployment concerns.
 
-**Distinct decisions**
+### Product decisions
 
 - prioritize a mobile-first family experience;
 - separate public exploration from private/family controls;
 - preserve persistent playback across navigation;
 - use staged validation and branch protection rather than uncontrolled changes.
 
-**Evidence**
+### Product evidence
 
 | Artifact | Link |
 | --- | --- |
@@ -149,7 +149,7 @@ AI can accelerate implementation; product coherence still depends on sustained h
 
 ---
 
-## Flagship 5 — Chrome Extension Tester MCP
+## Chrome Extension Tester MCP
 
 **What it is**  
 A working open-source MCP tool for AI-assisted Chrome extension QA: real browser control, screenshots, UI interaction, and console evidence. CI is present; npm is not used as evidence because the public package identity does not match this repository.
@@ -157,14 +157,14 @@ A working open-source MCP tool for AI-assisted Chrome extension QA: real browser
 **My responsibility**  
 I shaped the use case around repeatable AI-assisted QA, set workflow boundaries, coordinated implementation, and insisted on observable browser behavior instead of trusting generated code alone.
 
-**Distinct decisions**
+### Tooling decisions
 
 - treat the tool as QA support, not an authority;
 - preserve repeatable test steps;
 - collect evidence from actual browser behavior;
 - keep human review responsible for acceptance.
 
-**Evidence**
+### Tooling evidence
 
 | Artifact | Link |
 | --- | --- |
