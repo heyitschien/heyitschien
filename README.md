@@ -62,7 +62,7 @@ The live product is an **early alpha under active development**; its interface, 
 
 A public-safe case study showing how I turn complex systems work into bounded requirements, sequenced integrations, observable validation, documented ownership, and human review before consequential actions. It is research documentation, not a production financial system.
 
-**[Review the case study →](https://github.com/heyitschien/autonomous-lab-case-study)**
+**[Review the case-study repository →](https://github.com/heyitschien/autonomous-lab-case-study)** · **[Open the visual report →](https://heyitschien.github.io/autonomous-lab-case-study/)** · **[Read the full markdown →](https://github.com/heyitschien/autonomous-lab-case-study/blob/main/PUBLIC-CASE-STUDY.md)**
 </details>
 
 <details>
