@@ -16,7 +16,7 @@
 | **Product state** | **Alpha / active development** — the interface, catalog, and evidence will change |
 | **Public boundary** | Private source, credentials, identifiers, raw receipts, and security-sensitive implementation details are omitted |
 
-**[Explore the deeper public case study →](https://github.com/heyitschien/can-ai-yet-case-study)** · **[Open the live alpha →](https://can-ai-yet.vercel.app)**
+**[Explore the deeper public case study →](https://github.com/heyitschien/can-ai-yet-case-study)** · **[Open the live alpha →](https://canaiyet.com)**
 
 ---
 
@@ -111,7 +111,7 @@ This is not an enterprise-adoption, customer-deployment, revenue-impact, autonom
 ## Go deeper
 
 - **[Public case-study repository →](https://github.com/heyitschien/can-ai-yet-case-study)** — visual README, architecture, methodology, evidence boundaries, and public plan
-- **[Live alpha →](https://can-ai-yet.vercel.app)** — early product surface under active development
+- **[Live alpha →](https://canaiyet.com)** — early product surface under active development
 - **[Reusable visual case-study standard →](VISUAL-CASE-STUDY-STANDARD.md)** — the pattern used for this summary
 
 The private product repository remains the engineering source of truth and is intentionally not linked as a public evidence surface.

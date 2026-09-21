@@ -70,7 +70,7 @@ I define the evaluation contracts, sequence HubSpot / environment validation wor
 | --- | --- |
 | Public-safe summary | [CAN-AI-YET-CASE-STUDY.md](CAN-AI-YET-CASE-STUDY.md) |
 | Public case study | [can-ai-yet-case-study](https://github.com/heyitschien/can-ai-yet-case-study) |
-| Live site / methodology | [can-ai-yet.vercel.app](https://can-ai-yet.vercel.app) · [methodology](https://can-ai-yet.vercel.app/methodology) |
+| Live site / methodology | [canaiyet.com](https://canaiyet.com) · [methodology](https://canaiyet.com/methodology) |
 | Evidence and boundaries | [Current bounded claims](https://github.com/heyitschien/can-ai-yet-case-study/blob/main/docs/EVIDENCE-AND-BOUNDARIES.md) |
 
 **Result**  

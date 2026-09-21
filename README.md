@@ -48,7 +48,7 @@ A working evaluation system for testing whether AI agents and tool integrations 
 
 The live product is an **early alpha under active development**; its interface, catalog, and evidence will continue to change.
 
-**[Read the visual summary →](docs/CAN-AI-YET-CASE-STUDY.md)** · **[Explore the public case study →](https://github.com/heyitschien/can-ai-yet-case-study)** · **[Open the live alpha →](https://can-ai-yet.vercel.app)**
+**[Read the visual summary →](docs/CAN-AI-YET-CASE-STUDY.md)** · **[Explore the public case study →](https://github.com/heyitschien/can-ai-yet-case-study)** · **[Open the live alpha →](https://canaiyet.com)**
 </details>
 
 <details>

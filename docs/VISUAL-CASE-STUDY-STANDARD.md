@@ -81,4 +81,4 @@ Before publication:
 - Short visual summary: [CAN-AI-YET-CASE-STUDY.md](CAN-AI-YET-CASE-STUDY.md)
 - Deep public case study: [heyitschien/can-ai-yet-case-study](https://github.com/heyitschien/can-ai-yet-case-study)
 - Private product source: intentionally not linked from the public profile
-- Live product: [can-ai-yet.vercel.app](https://can-ai-yet.vercel.app) — alpha / active development
+- Live product: [canaiyet.com](https://canaiyet.com) — alpha research system / active development
