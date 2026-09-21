@@ -46,7 +46,7 @@ Took a real client need from discovery into a client-operable production system:
 
 A working evaluation system for testing whether AI agents and tool integrations can perform real business workflows reliably. I define bounded contracts, build evals, run expected-vs-actual checks, preserve machine receipts and visual evidence, correct failures through independent review, and keep unproven capabilities explicitly unproven — using proof states such as PROVEN, DRY-CERTIFIED, CONFIGURED_NOT_LIVE_PROVEN, BLOCKED, and NOT_PROVEN.
 
-The live product is an **early alpha under active development**; its interface, catalog, and evidence will continue to change.
+The live product is an **early alpha under active development**; its interface, catalog, and evidence will continue to change. The public case study is the canonical recruiter-facing evidence summary.
 
 **[Read the visual summary →](docs/CAN-AI-YET-CASE-STUDY.md)** · **[Explore the public case study →](https://github.com/heyitschien/can-ai-yet-case-study)** · **[Open the live alpha →](https://canaiyet.com)**
 </details>
