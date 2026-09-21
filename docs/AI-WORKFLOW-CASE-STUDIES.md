@@ -6,6 +6,7 @@ Evidence hierarchy for recruiters:
 
 ```text
 Paid client implementation
++ AI capability evaluation / honest proof states
 + complex systems / requirements proof
 + shipped product ownership
 + AI-assisted technical validation
@@ -48,7 +49,42 @@ Strong implementation evidence looks like a production path a real person can ke
 
 ---
 
-## Flagship 2 — Autonomous Systems Lab
+## Flagship 2 — Can AI Yet?
+
+**What it is**  
+An AI capability evaluation lab that tests whether agents and tool integrations can perform real business workflows reliably—using bounded contracts, evals, expected-versus-actual checks, machine receipts, independent review, and explicit proof states.
+
+**My responsibility**  
+I define the evaluation contracts, sequence HubSpot / environment validation work, insist on machine evidence over persuasive narrative, run correction loops after independent review, and refuse to upgrade proof states without accepted receipts.
+
+**Distinct decisions**
+
+- preserve PROVEN, DRY-CERTIFIED, CONFIGURED_NOT_LIVE_PROVEN, BLOCKED, and NOT_PROVEN as non-interchangeable labels;
+- treat dry certification as preparation, not live proof;
+- fail closed when world-state checks do not match expectations;
+- keep secrets, portal identifiers, and private packets out of public claims.
+
+**Evidence**
+
+| Artifact | Link |
+| --- | --- |
+| Public-safe summary | [CAN-AI-YET-CASE-STUDY.md](CAN-AI-YET-CASE-STUDY.md) |
+| Repository | [can-ai-yet](https://github.com/heyitschien/can-ai-yet) |
+| Live site / methodology | [can-ai-yet.vercel.app](https://can-ai-yet.vercel.app) · [methodology](https://can-ai-yet.vercel.app/methodology) |
+| Public CAP-001 finding | [CAP-001-SONNET-4.6-FIRST-FINDING.md](https://github.com/heyitschien/can-ai-yet/blob/main/docs/public/CAP-001-SONNET-4.6-FIRST-FINDING.md) |
+
+**Result**  
+Public proof that I can evaluate AI and integrations with the same discipline used for real implementation work: define, test, capture evidence, correct, and label what remains unproven.
+
+**Limitation**  
+Lab and bounded environment proof — not an enterprise adoption case study, not a revenue claim, and not a claim that every HubSpot CAP-001 path is live-proven end-to-end.
+
+**Lesson**  
+The valuable AI implementation skill is knowing exactly what evidence supports a claim—and saying so out loud.
+
+---
+
+## Flagship 3 — Autonomous Systems Lab
 
 **What it is**  
 A public-safe case study of complex systems work: bounded requirements, sequenced integrations, observable validation, documented ownership, and human review before consequential actions.
@@ -79,7 +115,7 @@ Complexity becomes trustworthy only when boundaries, evidence, and human ownersh
 
 ---
 
-## Flagship 3 — Cousin Radio
+## Flagship 4 — Cousin Radio
 
 **What it is**  
 A shipped family music product — live at [cousinradio.com](https://cousinradio.com) — with mobile-first discovery, persistent playback, deployment ownership, and ongoing iteration.
@@ -113,7 +149,7 @@ AI can accelerate implementation; product coherence still depends on sustained h
 
 ---
 
-## Flagship 4 — Chrome Extension Tester MCP
+## Flagship 5 — Chrome Extension Tester MCP
 
 **What it is**  
 A working open-source MCP tool for AI-assisted Chrome extension QA: real browser control, screenshots, UI interaction, and console evidence. CI is present; npm is not used as evidence because the public package identity does not match this repository.

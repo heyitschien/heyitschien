@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Can AI Yet evaluation workflow</title>
+  <desc id="desc">Truthful workflow graphic: bounded contracts, evals, machine receipts, expected-versus-actual checks, independent review, and explicit proof states. Not a fabricated product screenshot.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4F7F8"/>
+      <stop offset="1" stop-color="#E7EEF2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#paper)"/>
+  <circle cx="1480" cy="110" r="240" fill="#D7E6EF" opacity="0.7"/>
+  <circle cx="120" cy="820" r="200" fill="#DCE8E2" opacity="0.55"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="88" y="72" width="560" height="40" rx="20" fill="#D9E8F0" stroke="#7FA6BB"/>
+    <circle cx="116" cy="92" r="6" fill="#24586F"/>
+    <text x="136" y="99" fill="#24586F" font-size="17" font-weight="700" letter-spacing="2.5">AI CAPABILITY EVALUATION LAB</text>
+
+    <text x="88" y="200" fill="#16353F" font-family="Georgia, 'Times New Roman', serif" font-size="70" font-weight="700">Test the work.</text>
+    <text x="88" y="282" fill="#2F6F82" font-family="Georgia, 'Times New Roman', serif" font-size="70" font-weight="700">Keep the claim honest.</text>
+    <text x="92" y="348" fill="#52656D" font-size="24">Bounded contracts / expected vs actual / machine evidence</text>
+    <text x="92" y="386" fill="#52656D" font-size="24">Independent review / explicit unproven states</text>
+
+    <rect x="88" y="440" width="620" height="330" rx="18" fill="#FFFEFB" stroke="#B7C7CF" stroke-width="2"/>
+    <text x="118" y="490" fill="#2F6F82" font-size="15" font-weight="700" letter-spacing="2.5">PROOF VOCABULARY (PRESERVED)</text>
+    <rect x="118" y="520" width="160" height="44" rx="10" fill="#E4F2EA" stroke="#6E9F84"/>
+    <text x="138" y="548" fill="#245A42" font-size="16" font-weight="700">PROVEN</text>
+    <rect x="292" y="520" width="200" height="44" rx="10" fill="#E8F0F7" stroke="#7FA6BB"/>
+    <text x="308" y="548" fill="#24586F" font-size="15" font-weight="700">DRY-CERTIFIED</text>
+    <rect x="508" y="520" width="170" height="44" rx="10" fill="#F7F0E4" stroke="#C2A46E"/>
+    <text x="524" y="548" fill="#7A5B1E" font-size="13" font-weight="700">CONFIGURED...</text>
+    <rect x="118" y="584" width="160" height="44" rx="10" fill="#F7E8E6" stroke="#C48980"/>
+    <text x="145" y="612" fill="#7A3530" font-size="16" font-weight="700">BLOCKED</text>
+    <rect x="292" y="584" width="200" height="44" rx="10" fill="#F1F1F1" stroke="#A0A0A0"/>
+    <text x="318" y="612" fill="#555555" font-size="15" font-weight="700">NOT_PROVEN</text>
+    <text x="118" y="680" fill="#52656D" font-size="18">Dry-certified is not live-proven.</text>
+    <text x="118" y="716" fill="#52656D" font-size="18">Configured is not production proof.</text>
+    <text x="118" y="752" fill="#52656D" font-size="18">Unproven stays labeled unproven.</text>
+
+    <rect x="760" y="72" width="760" height="756" rx="24" fill="#FFFEFB" stroke="#B7C7CF" stroke-width="3"/>
+    <rect x="760" y="72" width="760" height="58" rx="24" fill="#16353F"/>
+    <circle cx="798" cy="101" r="7" fill="#D7E6EF"/>
+    <circle cx="824" cy="101" r="7" fill="#2F6F82"/>
+    <circle cx="850" cy="101" r="7" fill="#6E9F84"/>
+    <text x="890" y="107" fill="#EAF3F6" font-size="16" font-weight="700" letter-spacing="2">EVALUATION WORKFLOW</text>
+
+    <rect x="800" y="160" width="680" height="86" rx="14" fill="#EAF3F6" stroke="#7FA6BB"/>
+    <text x="828" y="196" fill="#16353F" font-size="22" font-weight="700">1. Bound the contract</text>
+    <text x="828" y="228" fill="#52656D" font-size="17">Define the workflow, tools, and acceptance checks</text>
+
+    <rect x="800" y="266" width="680" height="86" rx="14" fill="#EAF3F6" stroke="#7FA6BB"/>
+    <text x="828" y="302" fill="#16353F" font-size="22" font-weight="700">2. Run the eval</text>
+    <text x="828" y="334" fill="#52656D" font-size="17">Exercise agents and integrations against real targets</text>
+
+    <rect x="800" y="372" width="680" height="86" rx="14" fill="#EAF3F6" stroke="#7FA6BB"/>
+    <text x="828" y="408" fill="#16353F" font-size="22" font-weight="700">3. Capture machine evidence</text>
+    <text x="828" y="440" fill="#52656D" font-size="17">Receipts, logs, tests, and visual corroboration</text>
+
+    <rect x="800" y="478" width="680" height="86" rx="14" fill="#EAF3F6" stroke="#7FA6BB"/>
+    <text x="828" y="514" fill="#16353F" font-size="22" font-weight="700">4. Compare expected vs actual</text>
+    <text x="828" y="546" fill="#52656D" font-size="17">Fail closed when the world-state did not change</text>
+
+    <rect x="800" y="584" width="680" height="86" rx="14" fill="#EAF3F6" stroke="#7FA6BB"/>
+    <text x="828" y="620" fill="#16353F" font-size="22" font-weight="700">5. Correct through independent review</text>
+    <text x="828" y="652" fill="#52656D" font-size="17">Fix the failure mode; re-check before claiming more</text>
+
+    <rect x="800" y="690" width="680" height="86" rx="14" fill="#E4F2EA" stroke="#6E9F84"/>
+    <text x="828" y="726" fill="#245A42" font-size="22" font-weight="700">6. Label the proof state honestly</text>
+    <text x="828" y="758" fill="#52656D" font-size="16">PROVEN / DRY-CERTIFIED / CONFIGURED / BLOCKED / NOT_PROVEN</text>
+  </g>
+</svg>

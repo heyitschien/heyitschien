@@ -36,7 +36,21 @@ Took a real client need from discovery into a client-operable production system:
 </details>
 
 <details>
-  <summary><strong>02 · Public-safe systems case study</strong> · Autonomous Systems Lab</summary>
+  <summary><strong>02 · AI capability evaluation lab</strong> · Can AI Yet?</summary>
+
+<p align="center">
+  <a href="docs/CAN-AI-YET-CASE-STUDY.md">
+    <img src="assets/portfolio/can-ai-yet-preview.png" alt="Can AI Yet evaluation workflow — contracts, evals, machine evidence, expected-versus-actual checks, independent review, and explicit proof states" width="720" />
+  </a>
+</p>
+
+A working evaluation system for testing whether AI agents and tool integrations can perform real business workflows reliably. I define bounded contracts, build evals, run expected-vs-actual checks, preserve machine receipts and visual evidence, correct failures through independent review, and keep unproven capabilities explicitly unproven — using proof states such as PROVEN, DRY-CERTIFIED, CONFIGURED_NOT_LIVE_PROVEN, BLOCKED, and NOT_PROVEN.
+
+**[Read the summary →](docs/CAN-AI-YET-CASE-STUDY.md)** · **[Explore the lab →](https://github.com/heyitschien/can-ai-yet)** · **[Live site →](https://can-ai-yet.vercel.app)**
+</details>
+
+<details>
+  <summary><strong>03 · Public-safe systems case study</strong> · Autonomous Systems Lab</summary>
 
 <p align="center">
   <a href="https://github.com/heyitschien/autonomous-lab-case-study">
@@ -50,7 +64,7 @@ A public-safe case study showing how I turn complex systems work into bounded re
 </details>
 
 <details>
-  <summary><strong>03 · Shipped product</strong> · Cousin Radio</summary>
+  <summary><strong>04 · Shipped product</strong> · Cousin Radio</summary>
 
 <p align="center">
   <a href="https://cousinradio.com">
@@ -64,7 +78,7 @@ Led a live family music product from user observation through requirements, AI-a
 </details>
 
 <details>
-  <summary><strong>04 · Working open-source agent tooling</strong> · Chrome Extension Tester MCP</summary>
+  <summary><strong>05 · Working open-source agent tooling</strong> · Chrome Extension Tester MCP</summary>
 
 <p align="center">
   <a href="https://github.com/heyitschien/chrome-extension-tester-mcp">
@@ -83,10 +97,11 @@ Built an open-source MCP and Playwright developer tool that lets AI agents launc
 | Capability | What that means in practice | Evidence |
 | --- | --- | --- |
 | **Workflow discovery and scoping** | Understand the user, current process, friction, dependencies, constraints, and definition of success. | [Paid client implementation](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) · [Cousin Radio](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md) |
-| **Requirements and system design** | Convert ambiguity into business rules, acceptance criteria, owners, boundaries, and an executable implementation path. | [Paid client implementation](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) · [Autonomous Systems Lab](https://github.com/heyitschien/autonomous-lab-case-study) |
-| **Configuration and integration** | Connect tools, interfaces, environments, data flows, and deployment workflows in a deliberate sequence. | [Paid client implementation](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) · [Cousin Radio](https://cousinradio.com) |
-| **Validation and diagnosis** | Compare expected versus actual behavior using tests, logs, screenshots, browser evidence, CI, and repeatable checks. | [Paid client implementation](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) · [Chrome Extension Tester MCP](https://github.com/heyitschien/chrome-extension-tester-mcp) |
+| **Requirements and system design** | Convert ambiguity into business rules, acceptance criteria, owners, boundaries, and an executable implementation path. | [Paid client implementation](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) · [Can AI Yet?](docs/CAN-AI-YET-CASE-STUDY.md) · [Autonomous Systems Lab](https://github.com/heyitschien/autonomous-lab-case-study) |
+| **Configuration and integration** | Connect tools, interfaces, environments, data flows, and deployment workflows in a deliberate sequence. | [Paid client implementation](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) · [Can AI Yet?](docs/CAN-AI-YET-CASE-STUDY.md) · [Cousin Radio](https://cousinradio.com) |
+| **Validation and diagnosis** | Compare expected versus actual behavior using tests, logs, screenshots, browser evidence, CI, and repeatable checks. | [Can AI Yet?](docs/CAN-AI-YET-CASE-STUDY.md) · [Paid client implementation](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) · [Chrome Extension Tester MCP](https://github.com/heyitschien/chrome-extension-tester-mcp) |
 | **User enablement and handoff** | Explain the system clearly, conduct walkthroughs, document ownership, separate completed work from open dependencies, and leave a usable next step. | [Paid client implementation](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) · [Career Development OS](docs/CAREER-OPERATING-SYSTEM-CASE-STUDY.md) |
+| **AI workflow evaluation** | Design evals, preserve machine evidence, run correction/review loops, and keep unproven capabilities labeled unproven. | [Can AI Yet?](docs/CAN-AI-YET-CASE-STUDY.md) · [Implementation + AI systems](docs/IMPLEMENTATION-AI-SYSTEMS.md) |
 | **AI-assisted execution** | Coordinate AI tools for research, implementation, testing, and documentation while keeping human accountability and approval explicit. | [Implementation + AI systems](docs/IMPLEMENTATION-AI-SYSTEMS.md) · [Model and tool attribution](docs/MODEL-AND-TOOL-ATTRIBUTION.md) |
 
 ## How I work

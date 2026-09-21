@@ -2,13 +2,14 @@
 
 Public profile documentation for recruiter routing, capability evidence, and AI-assisted workflow attribution.
 
-Primary recruiter story is **AI Implementation · Technical Solutions**, grounded in paid client delivery, complex-systems proof, shipped product work, and human accountability.
+Primary recruiter story is **AI Implementation · Technical Solutions**, grounded in paid client delivery, AI capability evaluation, complex-systems proof, shipped product work, and human accountability.
 
 ## Start here
 
 | Document | Purpose |
 | --- | --- |
 | [PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md](PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) | Flagship paid client implementation — real external customer proof |
+| [CAN-AI-YET-CASE-STUDY.md](CAN-AI-YET-CASE-STUDY.md) | AI capability evaluation lab — contracts, evals, evidence, honest proof states |
 | [AI-WORKFLOW-CASE-STUDIES.md](AI-WORKFLOW-CASE-STUDIES.md) | Evidence hierarchy across flagship + supporting work |
 | [IMPLEMENTATION-AI-SYSTEMS.md](IMPLEMENTATION-AI-SYSTEMS.md) | Reusable implementation loop and public proof map |
 | [CAPABILITY-EVIDENCE-MAP.md](CAPABILITY-EVIDENCE-MAP.md) | Capability → strongest proof for AI implementation / technical solutions |
@@ -27,9 +28,10 @@ Internal audit and evidence-registry files remain local-only and are not part of
 
 ```text
 1. Paid client implementation — real external customer
-2. Autonomous Systems Lab — complex systems / requirements / validation
-3. Cousin Radio — shipped product and user-driven iteration
-4. Chrome Extension Tester MCP — technical tooling / QA
+2. Can AI Yet? — AI capability evaluation / honest proof states
+3. Autonomous Systems Lab — complex systems / requirements / validation
+4. Cousin Radio — shipped product and user-driven iteration
+5. Chrome Extension Tester MCP — technical tooling / QA
 Supporting: Product Support Triage, Chapter Reader, localization, Career OS
 ```
 
@@ -43,3 +45,5 @@ Supporting: Product Support Triage, Chapter Reader, localization, Career OS
 - Human accountability for framing, decisions, review, and acceptance
 - Domain transfer requires qualified experts where work is regulated or safety-critical
 - Public-safe evidence only; no private client identity, secrets, or unverifiable performance claims
+- Preserve Can AI Yet proof vocabulary: PROVEN, DRY-CERTIFIED, CONFIGURED_NOT_LIVE_PROVEN, BLOCKED, NOT_PROVEN
+- Do not promote Hack for LA / TDM as flagship proof until inspectable contribution + external human review exist
