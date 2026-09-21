@@ -10,6 +10,7 @@ Primary recruiter story is **AI Implementation · Technical Solutions**, grounde
 | --- | --- |
 | [PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md](PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) | Flagship paid client implementation — real external customer proof |
 | [CAN-AI-YET-CASE-STUDY.md](CAN-AI-YET-CASE-STUDY.md) | AI capability evaluation lab — contracts, evals, evidence, honest proof states |
+| [VISUAL-CASE-STUDY-STANDARD.md](VISUAL-CASE-STUDY-STANDARD.md) | Reusable pattern for short visual summaries and deeper public showcase repositories |
 | [AI-WORKFLOW-CASE-STUDIES.md](AI-WORKFLOW-CASE-STUDIES.md) | Evidence hierarchy across flagship + supporting work |
 | [IMPLEMENTATION-AI-SYSTEMS.md](IMPLEMENTATION-AI-SYSTEMS.md) | Reusable implementation loop and public proof map |
 | [CAPABILITY-EVIDENCE-MAP.md](CAPABILITY-EVIDENCE-MAP.md) | Capability → strongest proof for AI implementation / technical solutions |
