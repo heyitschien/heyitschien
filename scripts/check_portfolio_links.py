@@ -8,6 +8,7 @@ import html
 import re
 import subprocess
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -97,22 +98,35 @@ def validate_local_link(source: Path, destination: str) -> str | None:
     return None
 
 
-def check_http_url(url: str, timeout: float) -> str | None:
-    """Return an error when a URL cannot be retrieved successfully."""
+def check_http_url(
+    url: str, timeout: float, *, conservative: bool
+) -> tuple[str | None, str | None]:
+    """Return (error, warning), retrying transient GitHub/network failures."""
     headers = {
         "Accept": "text/html,application/xhtml+xml,application/json",
         "User-Agent": "heyitschien-portfolio-link-check",
     }
     request = urllib.request.Request(url, headers=headers, method="GET")
-    try:
-        with urllib.request.urlopen(request, timeout=timeout) as response:
-            if response.status >= 400:
-                return f"{url}: HTTP {response.status}"
-    except urllib.error.HTTPError as error:
-        return f"{url}: HTTP {error.code}"
-    except (urllib.error.URLError, TimeoutError) as error:
-        return f"{url}: {error}"
-    return None
+    last_failure = ""
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(request, timeout=timeout) as response:
+                if response.status < 400:
+                    return None, None
+                last_failure = f"{url}: HTTP {response.status}"
+        except urllib.error.HTTPError as error:
+            last_failure = f"{url}: HTTP {error.code}"
+            if error.code in {400, 401, 404, 410, 422}:
+                return last_failure, None
+        except (urllib.error.URLError, TimeoutError) as error:
+            last_failure = f"{url}: {error}"
+
+        if not conservative:
+            return last_failure, None
+        if attempt < 2:
+            time.sleep(0.5 * (attempt + 1))
+
+    return None, f"transient check warning after retries: {last_failure}"
 
 
 def parse_args() -> argparse.Namespace:
@@ -130,6 +144,7 @@ def main() -> int:
     args = parse_args()
     files = tracked_markdown_files()
     errors: list[str] = []
+    warnings: list[str] = []
     github_urls: set[str] = set()
     external_urls: set[str] = set()
 
@@ -149,15 +164,19 @@ def main() -> int:
                 errors.append(error)
 
     for url in sorted(github_urls):
-        error = check_http_url(url, args.timeout)
+        error, warning = check_http_url(url, args.timeout, conservative=True)
         if error:
             errors.append(error)
+        if warning:
+            warnings.append(warning)
 
     if args.check_external:
         for url in sorted(external_urls):
-            error = check_http_url(url, args.timeout)
+            error, warning = check_http_url(url, args.timeout, conservative=False)
             if error:
                 errors.append(error)
+            if warning:
+                warnings.append(warning)
 
     print(
         f"Checked {len(files)} tracked Markdown files, "
@@ -168,6 +187,10 @@ def main() -> int:
             f"Skipped {len(external_urls)} non-GitHub live URLs by design; "
             "run with --check-external for a manual best-effort check."
         )
+    if warnings:
+        print("\nLink validation warnings:", file=sys.stderr)
+        for warning in warnings:
+            print(f"- {warning}", file=sys.stderr)
     if errors:
         print("\nLink validation failed:", file=sys.stderr)
         for error in errors:

@@ -80,7 +80,7 @@ The rendered report is a **historical snapshot reconciled through 2026-08-26** a
 </details>
 
 <details>
-  <summary><strong>05 · Shipped product</strong> · Cousin Radio</summary>
+  <summary><strong>05 · Shipped public-beta product</strong> · Cousin Radio</summary>
 
 <p align="center">
   <a href="https://cousinradio.com">
@@ -88,7 +88,7 @@ The rendered report is a **historical snapshot reconciled through 2026-08-26** a
   </a>
 </p>
 
-Led a live family music product from user observation through requirements, AI-assisted implementation, troubleshooting, QA, deployment, and continued iteration.
+Led a live public-beta family music product from user observation through requirements, AI-assisted implementation, troubleshooting, QA, deployment, and continued iteration.
 
 **[Visit the live product →](https://cousinradio.com)** · **[Review the employer evidence →](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md)** · **[Explore the public showcase →](https://github.com/heyitschien/cousin-radio)**
 </details>
