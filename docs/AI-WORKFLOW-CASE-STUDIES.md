@@ -69,9 +69,9 @@ I define the evaluation contracts, sequence HubSpot / environment validation wor
 | Artifact | Link |
 | --- | --- |
 | Public-safe summary | [CAN-AI-YET-CASE-STUDY.md](CAN-AI-YET-CASE-STUDY.md) |
-| Repository | [can-ai-yet](https://github.com/heyitschien/can-ai-yet) |
+| Public case study | [can-ai-yet-case-study](https://github.com/heyitschien/can-ai-yet-case-study) |
 | Live site / methodology | [can-ai-yet.vercel.app](https://can-ai-yet.vercel.app) · [methodology](https://can-ai-yet.vercel.app/methodology) |
-| Public CAP-001 finding | [CAP-001-SONNET-4.6-FIRST-FINDING.md](https://github.com/heyitschien/can-ai-yet/blob/main/docs/public/CAP-001-SONNET-4.6-FIRST-FINDING.md) |
+| Evidence and boundaries | [Current bounded claims](https://github.com/heyitschien/can-ai-yet-case-study/blob/main/docs/EVIDENCE-AND-BOUNDARIES.md) |
 
 **Result**  
 Public proof that I can evaluate AI and integrations with the same discipline used for real implementation work: define, test, capture evidence, correct, and label what remains unproven.

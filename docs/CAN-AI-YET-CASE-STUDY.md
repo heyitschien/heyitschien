@@ -1,77 +1,118 @@
-# Can AI Yet? — public-safe case study
+# Can AI Yet? — AI Capability Evaluation Lab
 
-**Project:** [heyitschien/can-ai-yet](https://github.com/heyitschien/can-ai-yet)  
-**Live surface:** [can-ai-yet.vercel.app](https://can-ai-yet.vercel.app)  
-**Role fit:** AI Implementation · Technical Solutions · evaluation / integration / validation work
+<!-- markdownlint-disable MD033 -->
+<p align="center">
+  <a href="https://github.com/heyitschien/can-ai-yet-case-study">
+    <img src="https://raw.githubusercontent.com/heyitschien/can-ai-yet-case-study/main/assets/hero.png" alt="Can AI Yet public-safe capability evaluation laboratory: real task to bounded contract, evidence, independent review, and honest proof state" width="920" />
+  </a>
+</p>
 
-This page is a **front-door summary** for recruiters. The Can AI Yet repository remains the evidence source of truth. It is not a full rewrite of that README.
+**Test the work. Keep the claim honest.**
 
-## What it is
-
-**Can AI Yet?** is an AI capability evaluation lab. It tests whether AI agents and tool integrations can perform real business workflows reliably—by defining bounded contracts, running evals, comparing expected versus actual outcomes, preserving machine receipts and visual corroboration, correcting failures through independent review, and keeping unproven capabilities explicitly unproven.
-
-## What I own in the work
-
-- capability / eval design against real workflows
-- integration and contract validation (including HubSpot laboratory work on main)
-- observability: machine receipts, tests, and visual corroboration
-- expected-versus-actual diagnosis and fail-closed behavior
-- correction loops with independent re-review
-- explicit proof-state boundaries so claims do not inflate ahead of evidence
-
-## Proof vocabulary (preserved exactly)
-
-Can AI Yet uses explicit proof states. Portfolio language must not upgrade them:
-
-| State | Meaning for this portfolio |
+| | |
 | --- | --- |
-| **PROVEN** / bounded **LIVE_PROVEN** | Supported by accepted live evidence for a narrow, named claim |
-| **DRY-CERTIFIED** | Certified against injected/controlled checks — **not** live-proven |
-| **CONFIGURED_NOT_LIVE_PROVEN** | Environment/config exists; live proof has not been established |
-| **BLOCKED** | Progress stopped by an explicit blocker (for example auth/surface constraints) |
-| **NOT_PROVEN** | Claim remains open; do not treat as demonstrated |
+| **What it is** | A working evaluation laboratory for testing AI agents and tool integrations against bounded business workflows |
+| **What I own** | Eval design, requirements/contracts, integration validation, evidence, diagnosis, agent routing, review loops, and claim boundaries |
+| **Product state** | **Alpha / active development** — the interface, catalog, and evidence will change |
+| **Public boundary** | Private source, credentials, identifiers, raw receipts, and security-sensitive implementation details are omitted |
 
-Dry-certified is not live-proven. Configured is not production proof. Unproven stays labeled unproven.
+**[Explore the deeper public case study →](https://github.com/heyitschien/can-ai-yet-case-study)** · **[Open the live alpha →](https://can-ai-yet.vercel.app)**
 
-## Current public-safe status (as of evidence scan for this profile update)
+---
 
-Supported signals on `heyitschien/can-ai-yet` main include:
+## The real question
 
-- a working evaluation harness and published methodology posture (“test tasks, not vibes”)
-- synthetic / controlled CAP-001 evaluation work with durable run receipts
-- real HubSpot integration laboratory progress with bounded schema claims and explicit non-claims
-- TDD / regression coverage around env, adapters, and evidence matrices
-- fail-closed and independent-review habits documented in Mission Control reviews
+The useful question is not simply:
 
-Explicit non-claims for this profile page:
+> “Can AI do this?”
 
-- full HubSpot CAP-001 environment is **not** presented as live-proven end-to-end
-- Deal-object live mutation and complete-graph commissioning remain **not** presented as proven unless later accepted evidence says so
-- no enterprise adoption, revenue, customer usage, or generalized reliability percentages are claimed here
+It is:
 
-## Best places to inspect evidence
+> **What exactly must happen, what evidence would prove it, what failed, and what are we justified in claiming?**
 
-| Surface | Why |
-| --- | --- |
-| [Repository README](https://github.com/heyitschien/can-ai-yet) | Entry point and local eval commands |
-| [Live site / methodology](https://can-ai-yet.vercel.app/methodology) | Recruiter-readable evaluation posture |
-| [Public CAP-001 first finding](https://github.com/heyitschien/can-ai-yet/blob/main/docs/public/CAP-001-SONNET-4.6-FIRST-FINDING.md) | Published observation with allowed/prohibited wording |
-| [Evidence ladder](https://github.com/heyitschien/can-ai-yet/blob/main/docs/API_AUTH_ENVIRONMENT_EVIDENCE_LADDER.md) | API docs ≠ auth catalog ≠ live proof |
-| [Engineering method](https://github.com/heyitschien/can-ai-yet/blob/main/docs/ENGINEERING_DEVELOPMENT_METHOD.md) | Risk-weighted TDD + adversarial review |
-| [`docs/reviews/`](https://github.com/heyitschien/can-ai-yet/tree/main/docs/reviews) | Accepted/merged receipts and correction history |
+If an agent says it updated a CRM but the target system did not change, the capability did not pass.
 
-## How this fits the portfolio
+---
+
+## From task to evidence
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/heyitschien/can-ai-yet-case-study/main/assets/evaluation-loop.png" alt="Six-stage evaluation loop: bound the task, freeze success, run safely, inspect reality, challenge independently, and label the proof state honestly" width="920" />
+</p>
 
 ```text
-Paid client implementation     → real user, real operable system
-Can AI Yet?                    → evaluate AI + integrations with honest proof states
-Autonomous Systems Lab         → complex systems + human review gates
-Cousin Radio                   → shipped product ownership
-Chrome Extension Tester MCP    → observable AI-assisted QA tooling
+real workflow
+→ bounded contract
+→ expected + forbidden outcomes
+→ agent run with limited tools
+→ authoritative world-state checks
+→ machine receipts + visual corroboration
+→ independent review / correction
+→ explicit proof state
 ```
 
-Hack for LA / TDM is **not** promoted as flagship proof on this profile until an inspectable contribution and external human review exist.
+I combine **test-first work where truth is deterministic** with **evidence-first work where external reality is unknown**. Independent review challenges the assumptions that green tests may still encode incorrectly.
 
-## Limitation
+---
 
-This summary omits secrets, portal identifiers, credentials, private packets, and unverifiable business-impact metrics. For exact current proof state, trust the latest accepted receipts on Can AI Yet `main`, not this page alone.
+## Evidence levels stay separate
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/heyitschien/can-ai-yet-case-study/main/assets/evidence-ladder.png" alt="Evidence ladder separating claims, controlled simulation, real software sandbox, controlled pilot, and repeated production measurement" width="920" />
+</p>
+
+Can AI Yet? preserves explicit proof states:
+
+| State | Meaning |
+| --- | --- |
+| **PROVEN** / bounded **LIVE_PROVEN** | Accepted evidence supports one narrow, named claim |
+| **DRY-CERTIFIED** | A deterministic path passed controlled checks — **not** live-proven |
+| **CONFIGURED_NOT_LIVE_PROVEN** | Configuration exists; live capability has not been established |
+| **BLOCKED** | An explicit external or authorization boundary stops progress |
+| **NOT_PROVEN** | The claim remains open and must not be presented as demonstrated |
+
+Simulation is not a sandbox. A sandbox is not a pilot. Configured is not proven.
+
+---
+
+## What the current work demonstrates
+
+- capability and scenario contracts for lead-follow-up workflows;
+- deterministic expected-versus-forbidden world-state checks;
+- a controlled mini-business for safe evaluation;
+- real HubSpot sandbox/integration work with bounded schema evidence;
+- dependency-injected dry certification before separately authorized live work;
+- machine-readable evidence, authoritative rereads, and visual corroboration;
+- TDD and regressions for evidence-critical behavior;
+- independent review that has found and corrected false-positive risks;
+- human control over objectives, privacy, spend, live actions, and final claims.
+
+## Current boundary
+
+The full HubSpot CAP-001 environment is **not** presented as end-to-end live-proven. Dry-certified lifecycle work is **not** presented as live-proven. Configured scenarios are **not** presented as production-ready.
+
+This is not an enterprise-adoption, customer-deployment, revenue-impact, autonomous-operation, or generalized model-reliability claim.
+
+---
+
+## Hiring signal
+
+| Capability | What this work shows |
+| --- | --- |
+| AI implementation | Turn a real workflow into contracts, tools, checks, and a usable evidence path |
+| Integration validation | Separate API support, authorization, environment configuration, and live proof |
+| Evaluation design | Test actions and world state rather than persuasive output alone |
+| Diagnosis | Attribute failures to model, tool, auth, environment, adapter, or judge before fixing |
+| Agent coordination | Route scouting, building, independent review, and publication through durable handoffs |
+| Responsible delivery | Keep blocked and unproven work visible; require human approval for consequential actions |
+
+---
+
+## Go deeper
+
+- **[Public case-study repository →](https://github.com/heyitschien/can-ai-yet-case-study)** — visual README, architecture, methodology, evidence boundaries, and public plan
+- **[Live alpha →](https://can-ai-yet.vercel.app)** — early product surface under active development
+- **[Reusable visual case-study standard →](VISUAL-CASE-STUDY-STANDARD.md)** — the pattern used for this summary
+
+The private product repository remains the engineering source of truth and is intentionally not linked as a public evidence surface.
+<!-- markdownlint-enable MD033 -->
