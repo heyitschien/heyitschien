@@ -26,7 +26,7 @@ Discover → Structure → Configure & Integrate → Validate → Enable → Doc
 
 <p align="center">
   <a href="docs/CAN-AI-YET-CASE-STUDY.md">
-    <img src="assets/portfolio/can-ai-yet-preview.png" alt="Can AI Yet evaluation workflow — contracts, evals, machine evidence, expected-versus-actual checks, independent review, and explicit proof states" width="720" />
+    <img src="assets/portfolio/start-here/can-ai-yet.jpg" alt="Can AI Yet evaluation workflow — bounded contracts, machine evidence, independent review, and honest proof states" width="720" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@ The live product is an **early alpha under active development**; its interface, 
 
 <p align="center">
   <a href="docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md">
-    <img src="assets/portfolio/paid-client-case-study/hero.png" alt="From an ambiguous client objective to a reliable, client-operable production workflow" width="720" />
+    <img src="assets/portfolio/start-here/paid-client-implementation.jpg" alt="Paid independent implementation — discovery, delivery, validation, user enablement, and client handoff" width="720" />
   </a>
 </p>
 
@@ -53,6 +53,12 @@ Took a real client need from discovery into a client-operable production system:
 
 <details>
   <summary><strong>03 · Hack for LA — TDM Calculator</strong> · Volunteer Front-End Contributor</summary>
+
+<p align="center">
+  <a href="https://github.com/hackforla/tdm-calculator/pull/3531">
+    <img src="assets/portfolio/start-here/hack-for-la-tdm-calculator.jpg" alt="Hack for LA TDM Calculator — merged React and Vite front-end contribution with peer review" width="720" />
+  </a>
+</p>
 
 Contributed as a volunteer—not an employee—to Hack for LA's TDM Calculator, a React/Vite civic application. The work shows scoped implementation in an existing team codebase, automated validation, and changes carried through public peer review.
 
@@ -66,7 +72,7 @@ Contributed as a volunteer—not an employee—to Hack for LA's TDM Calculator, 
 
 <p align="center">
   <a href="https://github.com/heyitschien/autonomous-lab-case-study">
-    <img src="assets/portfolio/autonomous-systems-preview.png" alt="Trading research systems diagram — bounded market-data evaluation, logged evidence, and human risk review" width="720" />
+    <img src="assets/portfolio/start-here/autonomous-trading-systems-lab.jpg" alt="Autonomous Trading Systems Lab — bounded automation, visible evidence, human review, and proof before action" width="720" />
   </a>
 </p>
 
