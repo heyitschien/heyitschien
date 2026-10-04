@@ -30,9 +30,9 @@ Internal audit and evidence-registry files remain local-only and are not part of
 ```text
 1. Paid client implementation — real external customer
 2. Can AI Yet? — AI capability evaluation / honest proof states
-3. Autonomous Systems Lab — complex systems / requirements / validation
-4. Cousin Radio — shipped product and user-driven iteration
-5. Chrome Extension Tester MCP — technical tooling / QA
+3. Chrome Extension Tester MCP — working, inspectable AI-assisted QA tooling
+4. Autonomous Systems Lab — complex systems / requirements / validation
+5. Cousin Radio — shipped product and user-driven iteration
 Supporting: Product Support Triage, Chapter Reader, localization, Career OS
 ```
 

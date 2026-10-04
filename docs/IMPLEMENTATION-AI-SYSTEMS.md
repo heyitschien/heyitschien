@@ -58,7 +58,8 @@ Engineer.
 
 ## Scope labels
 
-The public portfolio includes paid independent delivery, a public-beta
-product, a working open-source tool, synthetic support material, educational
-demos, and public-safe summaries of private systems. These categories are
-kept distinct so a recruiter can judge each proof accurately.
+The public portfolio includes paid independent delivery, Cousin Radio as a
+shipped public-beta product, a working open-source tool, synthetic support
+material, educational demos, and public-safe summaries of private systems.
+These categories are kept distinct so a recruiter can judge each proof
+accurately.

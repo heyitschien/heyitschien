@@ -1,6 +1,5 @@
-# dependencies
-node_modules/
+.DS_Store
 .vscode/
 .idea/
-.wix/
-jsconfig.json
+__pycache__/
+*.pyc
