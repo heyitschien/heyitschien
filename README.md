@@ -60,7 +60,9 @@ The live product is an **early alpha under active development**; its interface, 
   </a>
 </p>
 
-A public-safe case study showing how I turn complex systems work into bounded requirements, sequenced integrations, observable validation, documented ownership, and human review before consequential actions. It is research documentation, not a production financial system.
+A public-safe case study showing how I direct AI-assisted engineering: turning an ambiguous, high-consequence objective into bounded requirements, deterministic authority, sequenced integrations, observable validation, independent review, and human approval before consequential action. It is research documentation, not a production financial system.
+
+The public case study was **reconciled with current project status on 2026-10-04**. Phase 5 remains in progress and deliberately unmerged; the protected private `main` branch remains fail-closed. It does not claim current runtime readiness, an `ALLOW` path, profitable trading, positive expectancy, or live brokerage execution.
 
 **[Review the case-study repository →](https://github.com/heyitschien/autonomous-lab-case-study)** · **[Open the visual report →](https://heyitschien.github.io/autonomous-lab-case-study/)** · **[Read the full markdown →](https://github.com/heyitschien/autonomous-lab-case-study/blob/main/PUBLIC-CASE-STUDY.md)**
 </details>
