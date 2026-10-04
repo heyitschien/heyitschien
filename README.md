@@ -12,7 +12,7 @@ I use AI to expand my speed and technical range while remaining accountable for 
 
 Los Angeles, California · Pacific Time
 
-**Primary focus:** AI Implementation Specialist and customer-facing technical solutions roles where real operational needs must become reliable, usable systems.
+**Primary focus:** AI enablement, technical implementation, workflow automation, and customer-facing technical solutions roles where real operational needs must become reliable, usable systems.
 
 ```text
 Discover → Structure → Configure & Integrate → Validate → Enable → Document → Improve
@@ -22,7 +22,23 @@ Discover → Structure → Configure & Integrate → Validate → Enable → Doc
 
 <!-- markdownlint-disable MD033 -->
 <details open>
-  <summary><strong>01 · Paid independent implementation</strong> · Client Implementation</summary>
+  <summary><strong>01 · Can AI Yet?</strong> · AI capability evaluation</summary>
+
+<p align="center">
+  <a href="docs/CAN-AI-YET-CASE-STUDY.md">
+    <img src="assets/portfolio/can-ai-yet-preview.png" alt="Can AI Yet evaluation workflow — contracts, evals, machine evidence, expected-versus-actual checks, independent review, and explicit proof states" width="720" />
+  </a>
+</p>
+
+A working evaluation system for testing whether AI agents and tool integrations can perform real business workflows reliably. I define bounded contracts, build evals, run expected-vs-actual checks, preserve machine receipts and visual evidence, correct failures through independent review, and keep unproven capabilities explicitly unproven — using proof states such as PROVEN, DRY-CERTIFIED, CONFIGURED_NOT_LIVE_PROVEN, BLOCKED, and NOT_PROVEN.
+
+The live product is an **early alpha under active development**; its interface, catalog, and evidence will continue to change. Current integration evidence includes bounded HubSpot sandbox work, not an enterprise rollout or proof of production customer deployment. The public case study is the canonical recruiter-facing evidence summary.
+
+**[Read the visual summary →](docs/CAN-AI-YET-CASE-STUDY.md)** · **[Explore the public case study →](https://github.com/heyitschien/can-ai-yet-case-study)** · **[Open the live alpha →](https://canaiyet.com)**
+</details>
+
+<details>
+  <summary><strong>02 · Paid independent client implementation</strong> · Client delivery and handoff</summary>
 
 <p align="center">
   <a href="docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md">
@@ -36,23 +52,17 @@ Took a real client need from discovery into a client-operable production system:
 </details>
 
 <details>
-  <summary><strong>02 · AI capability evaluation lab</strong> · Can AI Yet?</summary>
+  <summary><strong>03 · Hack for LA — TDM Calculator</strong> · Volunteer Front-End Contributor</summary>
 
-<p align="center">
-  <a href="docs/CAN-AI-YET-CASE-STUDY.md">
-    <img src="assets/portfolio/can-ai-yet-preview.png" alt="Can AI Yet evaluation workflow — contracts, evals, machine evidence, expected-versus-actual checks, independent review, and explicit proof states" width="720" />
-  </a>
-</p>
+Contributed as a volunteer—not an employee—to Hack for LA's TDM Calculator, a React/Vite civic application. The work shows scoped implementation in an existing team codebase, automated validation, and changes carried through public peer review.
 
-A working evaluation system for testing whether AI agents and tool integrations can perform real business workflows reliably. I define bounded contracts, build evals, run expected-vs-actual checks, preserve machine receipts and visual evidence, correct failures through independent review, and keep unproven capabilities explicitly unproven — using proof states such as PROVEN, DRY-CERTIFIED, CONFIGURED_NOT_LIVE_PROVEN, BLOCKED, and NOT_PROVEN.
+**[PR #3531](https://github.com/hackforla/tdm-calculator/pull/3531)** standardized external-link behavior across the application, added test coverage, addressed requested changes, and was **merged** after approval. **[PR #3576](https://github.com/hackforla/tdm-calculator/pull/3576)** adds and tests a submissions empty state; it is **open and under review**, not merged.
 
-The live product is an **early alpha under active development**; its interface, catalog, and evidence will continue to change. The public case study is the canonical recruiter-facing evidence summary.
-
-**[Read the visual summary →](docs/CAN-AI-YET-CASE-STUDY.md)** · **[Explore the public case study →](https://github.com/heyitschien/can-ai-yet-case-study)** · **[Open the live alpha →](https://canaiyet.com)**
+**[Review the merged contribution →](https://github.com/hackforla/tdm-calculator/pull/3531)** · **[See the current work under review →](https://github.com/hackforla/tdm-calculator/pull/3576)**
 </details>
 
 <details>
-  <summary><strong>03 · Public-safe systems case study</strong> · Autonomous Systems Lab</summary>
+  <summary><strong>04 · Autonomous Trading Systems Lab</strong> · Requirements, validation, and human gates</summary>
 
 <p align="center">
   <a href="https://github.com/heyitschien/autonomous-lab-case-study">
@@ -64,11 +74,11 @@ A public-safe case study showing how I direct AI-assisted engineering: turning a
 
 The public case study was **reconciled with current project status on 2026-10-04**. Phase 5 remains in progress and deliberately unmerged; the protected private `main` branch remains fail-closed. It does not claim current runtime readiness, an `ALLOW` path, profitable trading, positive expectancy, or live brokerage execution.
 
-**[Review the case-study repository →](https://github.com/heyitschien/autonomous-lab-case-study)** · **[Open the visual report →](https://heyitschien.github.io/autonomous-lab-case-study/)** · **[Read the full markdown →](https://github.com/heyitschien/autonomous-lab-case-study/blob/main/PUBLIC-CASE-STUDY.md)**
+**[Open the visual case study →](https://heyitschien.github.io/autonomous-lab-case-study/)** · **[Read the full case study →](https://heyitschien.github.io/autonomous-lab-case-study/full-case-study/)** · **[Review the repository →](https://github.com/heyitschien/autonomous-lab-case-study)**
 </details>
 
 <details>
-  <summary><strong>04 · Shipped product</strong> · Cousin Radio</summary>
+  <summary><strong>05 · Cousin Radio</strong> · Shipped product</summary>
 
 <p align="center">
   <a href="https://cousinradio.com">
@@ -80,20 +90,6 @@ Led a live family music product from user observation through requirements, AI-a
 
 **[Visit the live product →](https://cousinradio.com)** · **[Review the employer evidence →](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md)** · **[Explore the public showcase →](https://github.com/heyitschien/cousin-radio)**
 </details>
-
-<details>
-  <summary><strong>05 · Working open-source agent tooling</strong> · Chrome Extension Tester MCP</summary>
-
-<p align="center">
-  <a href="https://github.com/heyitschien/chrome-extension-tester-mcp">
-    <img src="assets/portfolio/mcp-qa-preview.jpg" alt="Chrome Extension Tester MCP preview — AI-assisted browser QA workflow" width="720" />
-  </a>
-</p>
-
-Built an open-source MCP and Playwright developer tool that lets AI agents launch, inspect, test, and collect browser evidence from Chrome extensions.
-
-**[Explore the project →](https://github.com/heyitschien/chrome-extension-tester-mcp)**
-</details>
 <!-- markdownlint-enable MD033 -->
 
 ## What I can own
@@ -101,9 +97,9 @@ Built an open-source MCP and Playwright developer tool that lets AI agents launc
 | Capability | What that means in practice | Evidence |
 | --- | --- | --- |
 | **Workflow discovery and scoping** | Understand the user, current process, friction, dependencies, constraints, and definition of success. | [Paid client implementation](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) · [Cousin Radio](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md) |
-| **Requirements and system design** | Convert ambiguity into business rules, acceptance criteria, owners, boundaries, and an executable implementation path. | [Paid client implementation](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) · [Can AI Yet?](docs/CAN-AI-YET-CASE-STUDY.md) · [Autonomous Systems Lab](https://github.com/heyitschien/autonomous-lab-case-study) |
-| **Configuration and integration** | Connect tools, interfaces, environments, data flows, and deployment workflows in a deliberate sequence. | [Paid client implementation](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) · [Can AI Yet?](docs/CAN-AI-YET-CASE-STUDY.md) · [Cousin Radio](https://cousinradio.com) |
-| **Validation and diagnosis** | Compare expected versus actual behavior using tests, logs, screenshots, browser evidence, CI, and repeatable checks. | [Can AI Yet?](docs/CAN-AI-YET-CASE-STUDY.md) · [Paid client implementation](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) · [Chrome Extension Tester MCP](https://github.com/heyitschien/chrome-extension-tester-mcp) |
+| **Requirements and system design** | Convert ambiguity into business rules, acceptance criteria, owners, boundaries, and an executable implementation path. | [Autonomous Trading Systems Lab](https://heyitschien.github.io/autonomous-lab-case-study/full-case-study/) · [Paid client implementation](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) · [Can AI Yet?](docs/CAN-AI-YET-CASE-STUDY.md) |
+| **Configuration and integration** | Connect tools, interfaces, environments, data flows, and deployment workflows in a deliberate sequence. | [Paid client implementation](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) · [Hack for LA — merged PR #3531](https://github.com/hackforla/tdm-calculator/pull/3531) · [Can AI Yet?](docs/CAN-AI-YET-CASE-STUDY.md) |
+| **Validation and diagnosis** | Compare expected versus actual behavior using tests, logs, screenshots, browser evidence, CI, and repeatable checks. | [Can AI Yet?](docs/CAN-AI-YET-CASE-STUDY.md) · [Autonomous Trading Systems Lab validation gates](https://heyitschien.github.io/autonomous-lab-case-study/validation-and-risk-gates/) · [Hack for LA — merged PR #3531](https://github.com/hackforla/tdm-calculator/pull/3531) |
 | **User enablement and handoff** | Explain the system clearly, conduct walkthroughs, document ownership, separate completed work from open dependencies, and leave a usable next step. | [Paid client implementation](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) · [Career Development OS](docs/CAREER-OPERATING-SYSTEM-CASE-STUDY.md) |
 | **AI workflow evaluation** | Design evals, preserve machine evidence, run correction/review loops, and keep unproven capabilities labeled unproven. | [Can AI Yet?](docs/CAN-AI-YET-CASE-STUDY.md) · [Implementation + AI systems](docs/IMPLEMENTATION-AI-SYSTEMS.md) |
 | **AI-assisted execution** | Coordinate AI tools for research, implementation, testing, and documentation while keeping human accountability and approval explicit. | [Implementation + AI systems](docs/IMPLEMENTATION-AI-SYSTEMS.md) · [Model and tool attribution](docs/MODEL-AND-TOOL-ATTRIBUTION.md) |
@@ -143,9 +139,6 @@ I do not present AI-generated output as proof by itself. A claim becomes credibl
 ## Supporting systems
 
 - **[Career Development Operating System](docs/CAREER-OPERATING-SYSTEM-CASE-STUDY.md)** — a public-safe view of a private workflow system for research, prioritization, evidence routing, agent coordination, durable handoffs, and human decision gates.
-- **[Chapter Reader](https://github.com/heyitschien/chapter-reader)** — a shipped utility demonstrating product setup, documentation, and practical delivery.
-- **[Localization QA demo](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md)** — configuration and validation evidence for multilingual product behavior.
-- **[Product Support Triage Sample](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md)** — a synthetic supporting case showing calm investigation, customer communication, evidence collection, and escalation.
 
 ## Technical foundation
 
