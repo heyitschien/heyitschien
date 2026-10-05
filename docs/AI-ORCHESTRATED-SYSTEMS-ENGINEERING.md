@@ -81,14 +81,14 @@ Attribution should reflect what actually happened on each project. I do not pres
 
 This capability is visible across public projects including:
 
+- [Can AI Yet?](CAN-AI-YET-CASE-STUDY.md) — bounded AI evaluation, machine evidence, correction loops, and honest proof states.
 - [Paid Client Implementation](PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) — discovery through production lead workflow, validation, enablement, and handoff.
-- [Autonomous Systems Lab](https://github.com/heyitschien/autonomous-lab-case-study) — complex systems requirements, validation gates, and human review.
+- [Hack for LA — merged PR #3531](https://github.com/hackforla/tdm-calculator/pull/3531) · [PR #3576 under review](https://github.com/hackforla/tdm-calculator/pull/3576) — volunteer implementation in an established team repository with public peer review.
+- [Autonomous Trading Systems Lab](https://heyitschien.github.io/autonomous-lab-case-study/) — complex systems requirements, validation gates, and human review.
 - [Cousin Radio — live](https://cousinradio.com) · [EMPLOYER-PROOF](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md) — shipped product direction, deployment, iteration.
-- [Chrome Extension Tester MCP — support use case](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md) — AI-assisted QA and observable validation.
-- [Product Support Triage Sample — CASE-OUTCOME](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md) — supporting ambiguity reduction, communication, and escalation sample.
-- [LingoPilot — sample bot PR](https://github.com/heyitschien/next-i18next-sample/blob/main/docs/sample-bot-pr.md) — GitHub-native localization QA.
-- [Chapter Reader](https://github.com/heyitschien/chapter-reader) — local-first utility with installation and support documentation.
-- [Career Operating System case study](CAREER-OPERATING-SYSTEM-CASE-STUDY.md) — private workflow summarized publicly without application data.
+- [Career Development Operating System case study](CAREER-OPERATING-SYSTEM-CASE-STUDY.md) — supporting private workflow summarized publicly without application data.
+
+Chrome Extension Tester MCP remains [optional supporting QA evidence](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md), not a default flagship.
 
 Some private systems are larger implementations of the same loop. Public documentation does not disclose private architecture, collaborator details, or unverifiable performance claims. The public claim is the method and the public evidence — not private results.
 
@@ -133,3 +133,5 @@ I do not describe this methodology as proprietary, revolutionary, or a formal en
 I do not imply that any private system's validation proves general scientific validity, and I do not expose private trading logic, financial targets, or collaborator-sensitive material.
 
 The demonstrated strength is repeatable systems judgment: learning quickly, coordinating specialized AI tools, documenting decisions, validating outputs, and moving complex work from ambiguity toward evidence.
+
+[← Back to the recruiter profile](../README.md#start-here)

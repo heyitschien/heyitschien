@@ -8,8 +8,8 @@ Primary recruiter story is **AI Implementation · Technical Solutions**, grounde
 
 | Document | Purpose |
 | --- | --- |
-| [PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md](PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) | Flagship paid client implementation — real external customer proof |
 | [CAN-AI-YET-CASE-STUDY.md](CAN-AI-YET-CASE-STUDY.md) | AI capability evaluation lab — contracts, evals, evidence, honest proof states |
+| [PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md](PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) | Flagship paid client implementation — real external customer proof |
 | [VISUAL-CASE-STUDY-STANDARD.md](VISUAL-CASE-STUDY-STANDARD.md) | Reusable pattern for short visual summaries and deeper public showcase repositories |
 | [AI-WORKFLOW-CASE-STUDIES.md](AI-WORKFLOW-CASE-STUDIES.md) | Evidence hierarchy across flagship + supporting work |
 | [IMPLEMENTATION-AI-SYSTEMS.md](IMPLEMENTATION-AI-SYSTEMS.md) | Reusable implementation loop and public proof map |
@@ -28,17 +28,22 @@ Internal audit and evidence-registry files remain local-only and are not part of
 ## Evidence hierarchy
 
 ```text
-1. Paid client implementation — real external customer
-2. Can AI Yet? — AI capability evaluation / honest proof states
-3. Autonomous Systems Lab — complex systems / requirements / validation
-4. Cousin Radio — shipped product and user-driven iteration
-5. Chrome Extension Tester MCP — technical tooling / QA
-Supporting: Product Support Triage, Chapter Reader, localization, Career OS
+1. Can AI Yet? — AI capability evaluation / honest proof states
+2. Paid client implementation — real external customer delivery and handoff
+3. Hack for LA — external-team implementation, peer review, and public contribution history
+4. Autonomous Trading Systems Lab — requirements, validation, and human decision gates
+5. Cousin Radio — shipped product and user-driven iteration
+Supporting system: Career Development Operating System
+Optional technical proof: Chrome Extension Tester MCP
 ```
+
+Hack for LA evidence is upstream and inspectable: [PR #3531](https://github.com/hackforla/tdm-calculator/pull/3531)
+is merged, and [PR #3576](https://github.com/hackforla/tdm-calculator/pull/3576) is open under review. This is
+a volunteer contribution, not employment.
 
 ## Guardrails
 
-- Real external implementation proof before synthetic samples
+- Use the strongest evidence for each capability and label external delivery, volunteer contribution, lab proof, and product ownership distinctly
 - Evidence before methodology
 - No senior-software-engineer overclaim
 - No treating every repository as production
@@ -47,4 +52,4 @@ Supporting: Product Support Triage, Chapter Reader, localization, Career OS
 - Domain transfer requires qualified experts where work is regulated or safety-critical
 - Public-safe evidence only; no private client identity, secrets, or unverifiable performance claims
 - Preserve Can AI Yet proof vocabulary: PROVEN, DRY-CERTIFIED, CONFIGURED_NOT_LIVE_PROVEN, BLOCKED, NOT_PROVEN
-- Do not promote Hack for LA / TDM as flagship proof until inspectable contribution + external human review exist
+- Describe Hack for LA as volunteer contribution evidence, never as employment

@@ -26,11 +26,13 @@ evidence-based QA, documentation, and responsible AI assistance.
 | Discovery and requirements | [Paid client implementation](PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) |
 | Configuration, integration, and reliability | [Paid client implementation](PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) · [Can AI Yet?](CAN-AI-YET-CASE-STUDY.md) |
 | AI workflow evaluation and proof boundaries | [Can AI Yet?](CAN-AI-YET-CASE-STUDY.md) |
-| Integration sequencing and risk review | [Autonomous systems case study](https://github.com/heyitschien/autonomous-lab-case-study) · [Can AI Yet?](CAN-AI-YET-CASE-STUDY.md) |
+| External-team implementation and peer review | [Hack for LA — merged PR #3531](https://github.com/hackforla/tdm-calculator/pull/3531) · [PR #3576 — under review](https://github.com/hackforla/tdm-calculator/pull/3576) |
+| Integration sequencing and risk review | [Autonomous Trading Systems Lab](https://heyitschien.github.io/autonomous-lab-case-study/) · [Can AI Yet?](CAN-AI-YET-CASE-STUDY.md) |
 | Shipped product delivery | [Cousin Radio](https://cousinradio.com) · [employer proof](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md) |
-| Observable QA and validation | [Can AI Yet?](CAN-AI-YET-CASE-STUDY.md) · [Chrome Extension Tester MCP](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md) · [Paid client implementation](PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) |
-| Support judgment and escalation | [Product Support Triage Sample](https://github.com/heyitschien/product-support-triage-sample/blob/main/CASE-OUTCOME.md) |
+| Observable QA and validation | [Can AI Yet?](CAN-AI-YET-CASE-STUDY.md) · [Autonomous Trading Systems Lab validation gates](https://heyitschien.github.io/autonomous-lab-case-study/validation-and-risk-gates/) · [Paid client implementation](PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) |
 | Public-safe workflow coordination | [Career Operating System case study](CAREER-OPERATING-SYSTEM-CASE-STUDY.md) |
+
+Chrome Extension Tester MCP remains [optional supporting QA proof](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md), not a default front-door artifact.
 
 ## How AI fits
 
@@ -49,16 +51,19 @@ My responsibility is to:
 
 ## Role fit
 
-This working method best supports **AI Implementation Specialist** and
-customer-facing technical solutions roles. Product support, onboarding, and
-technical operations remain supporting strengths rather than the primary
-positioning claim. It is not a claim of prior employment as an Implementation
-Architect, Solutions Engineer, AI Implementation Engineer, or Forward-Deployed
-Engineer.
+This working method best supports **AI implementation, technical solutions,
+and adjacent customer-facing systems role families**. Product support,
+onboarding, and technical operations remain supporting strengths rather than
+the primary positioning claim. It is not a claim of prior employment as an
+Implementation Architect, Solutions Engineer, AI Implementation Engineer, or
+Forward-Deployed Engineer.
 
 ## Scope labels
 
-The public portfolio includes paid independent delivery, a public-beta
-product, a working open-source tool, synthetic support material, educational
-demos, and public-safe summaries of private systems. These categories are
-kept distinct so a recruiter can judge each proof accurately.
+The public portfolio includes an active early-alpha AI evaluation product,
+paid independent delivery, a volunteer open-source team contribution, a
+public-safe systems case study, a shipped family product, optional supporting
+tools, and public-safe summaries of private systems. These categories are kept
+distinct so a recruiter can judge each proof accurately.
+
+[← Back to the recruiter profile](../README.md#what-i-can-own)
