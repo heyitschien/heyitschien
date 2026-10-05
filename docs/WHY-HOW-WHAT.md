@@ -71,10 +71,11 @@ The **what** will continue to evolve. The underlying direction is more stable:
 
 The point of this page is not to make a philosophical claim without proof. The operating pattern should be visible in the work.
 
+- **[Can AI Yet?](CAN-AI-YET-CASE-STUDY.md)** — bounded AI evaluation contracts, machine evidence, correction loops, and honest proof states.
 - **[Paid Client Implementation](PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md)** — real external customer path from discovery through production lead workflow, validation, enablement, and handoff.
-- **[Autonomous Systems Lab](https://github.com/heyitschien/autonomous-lab-case-study)** — complex systems work with bounded requirements, validation, and human review.
+- **[Hack for LA — TDM Calculator](https://github.com/hackforla/tdm-calculator/pull/3531)** — a merged volunteer contribution in an existing React/Vite team codebase, with public peer review; [PR #3576](https://github.com/hackforla/tdm-calculator/pull/3576) remains open under review.
+- **[Autonomous Trading Systems Lab](https://heyitschien.github.io/autonomous-lab-case-study/)** — complex systems work with bounded requirements, validation, and human review.
 - **[Cousin Radio](https://cousinradio.com)** · **[employer proof](https://github.com/heyitschien/cousin-radio/blob/main/docs/EMPLOYER-PROOF.md)** — turning a family need into a shipped product and operating experience.
-- **[Chrome Extension Tester MCP](https://github.com/heyitschien/chrome-extension-tester-mcp/blob/main/docs/SUPPORT-USE-CASE.md)** — turning browser QA into a repeatable AI-assisted evidence workflow.
 - **[Model and tool attribution](MODEL-AND-TOOL-ATTRIBUTION.md)** — what AI contributed versus what I owned.
 
 ---
@@ -94,7 +95,7 @@ systems thinking
 + human adoption
 ```
 
-Near-term focus: **AI Implementation Specialist** and customer-facing technical solutions roles where real operational needs must become reliable, usable systems. Product support and technical operations remain supporting strengths, not the primary market signal.
+Near-term focus: **AI implementation, technical solutions, and adjacent customer-facing systems role families** where real operational needs must become reliable, usable systems. Product support and technical operations remain supporting strengths, not the primary market signal.
 
 The longer-term aim is to become someone organizations trust to help powerful technology cross the gap from **possible** to **practical**.
 
@@ -103,3 +104,5 @@ The longer-term aim is to become someone organizations trust to help powerful te
 ## One sentence
 
 > **I understand the person and the workflow, turn ambiguity into requirements, implement and validate, enable the person, and leave a clean handoff.**
+
+[← Back to the recruiter profile](../README.md#start-here)
