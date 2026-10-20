@@ -41,14 +41,14 @@ The live product is an **early alpha under active development**; its interface, 
   <summary><strong>02 · Paid independent client implementation</strong> · Client delivery and handoff</summary>
 
 <p align="center">
-  <a href="docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md">
+  <a href="https://heyitschien.github.io/heyitschien/case-studies/paid-client-implementation/">
     <img src="assets/portfolio/start-here/paid-client-implementation.jpg" alt="Paid independent implementation — discovery, delivery, validation, user enablement, and client handoff" width="720" />
   </a>
 </p>
 
 Took a real client need from discovery into a client-operable production system: public Next.js experience, client-owned GitHub → Vercel path, consultation lead intake into Google Sheets, duplicate-submission protection, Safari/Chrome and mobile validation, seller-guide enablement surfaces, documentation, and ongoing iteration. Client identity and private details stay protected.
 
-**[Read the case study →](docs/PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md)**
+**[Read the case study →](https://heyitschien.github.io/heyitschien/case-studies/paid-client-implementation/)** · **[Quick read (PDF) ↓](https://heyitschien.github.io/heyitschien/case-studies/paid-client-implementation/Paid_Client_Implementation_Case_Study_Chien_Escalera_Duong.pdf)**
 </details>
 
 <details>
