@@ -10,6 +10,7 @@ Primary recruiter story is **AI Implementation · Technical Solutions**, grounde
 | --- | --- |
 | [CAN-AI-YET-CASE-STUDY.md](CAN-AI-YET-CASE-STUDY.md) | AI capability evaluation lab — contracts, evals, evidence, honest proof states |
 | [PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md](PAID-CLIENT-IMPLEMENTATION-CASE-STUDY.md) | Flagship paid client implementation — real external customer proof |
+| [case-studies/paid-client-implementation/](case-studies/paid-client-implementation/) | Visual web edition ([live page](https://heyitschien.github.io/heyitschien/case-studies/paid-client-implementation/)) and 6-page PDF of the paid client case study; the Markdown above stays canonical |
 | [VISUAL-CASE-STUDY-STANDARD.md](VISUAL-CASE-STUDY-STANDARD.md) | Reusable pattern for short visual summaries and deeper public showcase repositories |
 | [AI-WORKFLOW-CASE-STUDIES.md](AI-WORKFLOW-CASE-STUDIES.md) | Evidence hierarchy across flagship + supporting work |
 | [IMPLEMENTATION-AI-SYSTEMS.md](IMPLEMENTATION-AI-SYSTEMS.md) | Reusable implementation loop and public proof map |
